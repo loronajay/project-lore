@@ -55,6 +55,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - This made him the strongest legitimate claimant to the throne under the kingdom's belief system.
 - The future generation prophecy points toward an even stronger figure who will lead the people back to the ancients.
 - The King does not yet know Leo may embody that future fulfillment.
+- The King later believed he fathered Esmeralda while seeking a controllable heir, but she does not carry the ancients gene either.
 
 ### The King's rise
 
@@ -67,6 +68,14 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - He killed or silenced people who knew too much about the real history, religion, or Leo's father's birth.
 - He erased records of Leo's father's royal identity.
 - He reintroduced Leo's father as an orphaned commoner whom he had supposedly taken in out of kindness.
+- He later forced a woman to bear him a child in order to secure an heir.
+- That woman had secretly become a love interest of Richard's after Richard lost his wife.
+- Richard, not the King, is Esmeralda's biological father.
+- The King does not know this.
+- When that child, Esmeralda, was born female, he was disappointed.
+- After Esmeralda's mother tried to escape with her, he had the mother executed.
+- He then raised Esmeralda himself and grew genuinely attached to her over time.
+- Rather than raise another child, he began reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene.
 
 ### The sickness
 
@@ -157,6 +166,19 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Positioned himself as the prophesied figure tied to the ancients
 - Spent decades researching the crystal
 - Hopes Leo's father's bloodline will die in exile and bury the truth forever
+- Public father of Esmeralda
+- Publicly positioning Esmeralda as his chosen successor through revised prophecy
+
+### Esmeralda
+
+- Public daughter of the King
+- Leo's age
+- Publicly adored and heavily protected
+- Raised by the King after her mother's execution
+- Knows almost nothing true about her mother
+- Knows nothing about her father's real crimes or plans
+- Being positioned as the next royal chosen figure despite not carrying the ancients gene
+- Secretly Richard's biological daughter
 
 ## Key objects
 

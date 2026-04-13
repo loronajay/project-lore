@@ -89,12 +89,20 @@
 - Positioned himself as the prophesied ruler
 - Suppresses the hidden doctrinal fact that the true figure must be able to read the ancients' language at a glance
 - Does not yet know Leo may represent the future stronger fulfillment of prophecy
+- Is repositioning Esmeralda as a chosen successor through manipulated prophecy despite her lack of the ancients gene
 
 ### Esmeralda
 
 - Not introduced yet
 - Do not build current story beats around her yet
 - Safe to ignore in active planning until explicitly brought in
+- Public daughter of the King
+- Leo's age
+- Believes she is loved and protected by her father
+- Knows little about her mother and nothing of the King's real crimes
+- Publicly adored
+- Is being positioned as a prophetic successor through manufactured legitimacy
+- Is secretly Richard's biological daughter
 
 ## Collaboration rules for agents
 

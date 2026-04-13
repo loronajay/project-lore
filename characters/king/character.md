@@ -23,6 +23,8 @@
 - Not the bearer of the ancients gene
 - Seized power by arranging the deaths of his parents and siblings
 - Spared Leo's father because the gene made him potentially useful
+- Later believed he had fathered a daughter, Esmeralda, while trying to secure an heir
+- Does not know Richard is Esmeralda's biological father
 - Slowly rewrote history and religion after taking the throne
 - Ordered key historians, priests, and informed witnesses silenced or killed
 - Erased Leo's father's birth record and royal identity
@@ -37,6 +39,7 @@
 - Knows more of the hidden doctrine than the public does
 - Suppresses the fact that the true prophesied leader should be able to read the ancients' language at a glance
 - Keeps that fact limited to himself and paid-off researchers because he cannot do it
+- Is reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene
 
 ## Crystal and larger plan
 
@@ -49,6 +52,7 @@
 
 - Leo's father: younger brother, true ancient-gene bearer, rival claimant he chose to control rather than kill
 - Leo: unknown future threat whose significance the King does not yet grasp
+- Esmeralda: publicly his daughter, beloved heir figure, and vessel for manufactured succession
 - Richard: former royal army general and later enemy in the hidden political struggle
 - Marshe's father: soldier willing to obey the King's brutal command structure
 - Paid-off historians and priests: tools of long-term manipulation
@@ -61,6 +65,12 @@
 - He is the older brother of Leo's father
 - Leo's father was the only sibling to inherit the ancients gene
 - The King took the throne through murder, suppression, and revision of history
+- He forced a woman to bear him a child because he wanted an heir
+- He believes Esmeralda is his daughter
+- He does not know Richard is Esmeralda's biological father
+- He had Esmeralda's mother executed after she tried to flee with the child
+- He raised Esmeralda himself and became genuinely attached to her
+- He is positioning Esmeralda as a chosen successor through manipulated prophecy even though she does not carry the ancients gene
 - He later exiled Leo's father, Richard, and Marshe's father after the refused mission
 - He secretly executed everyone else in the squadron
 - He hopes Leo's father's bloodline will die in exile and bury the truth forever

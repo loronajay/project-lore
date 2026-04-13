@@ -79,12 +79,21 @@
 - Leo's father's birth records and royal identity were erased.
 - He was raised as an orphaned commoner the King had supposedly taken in out of kindness.
 - Leo's father grew up believing this lie.
+- The King later forced a woman to bear him a child because he wanted an heir.
+- The child was Esmeralda.
+- Esmeralda is publicly the King's daughter, but Richard is her biological father.
+- The King does not know this.
+- Esmeralda's mother had secretly been a love interest of Richard's after Richard lost his wife.
+- He was disappointed she was a daughter.
+- When Esmeralda's mother tried to flee with her, the King had the mother executed.
+- He raised Esmeralda himself and became genuinely attached to her over time.
 
 ## Rewriting of truth
 
 - After taking power, the King began a slow campaign to rewrite history and religion.
 - Paid-off historians and priests helped reshape public memory.
 - People who knew too much about true lineage, doctrine, or history were silenced or killed.
+- He later adapted the kingdom's prophetic narrative again to position Esmeralda as his chosen successor.
 
 ## Crystal
 
@@ -125,3 +134,5 @@
 - The religion contains a future-facing idea that a stronger figure will arise in a coming generation.
 - Leo is the likely true fulfillment of that future line, though this is not publicly known.
 - The King does not yet know Leo may represent that threat.
+- The King is positioning Esmeralda publicly as a chosen future heir through manipulated prophecy.
+- He knows she does not carry the ancients gene.

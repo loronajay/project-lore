@@ -36,6 +36,7 @@
 - Leo: watches over him because of a promise or duty tied to Leo's father
 - Leo's father: entrusted Richard with responsibility for Leo, longtime comrade, close friend, and fellow architect of a hidden future
 - Marshe's father: killed him later during a sickness-fueled elder attack
+- Esmeralda: biological daughter, unknown publicly and unknown to the King
 - Village: shuns and fears him
 
 ## Key event
@@ -61,6 +62,7 @@
 - Rose through the royal military to the rank of General before Leo's father later replaced him
 - Was part of the mission ordered to wipe out another exiled village, erase its history, and retrieve the crystal
 - Survived the aftermath when the King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father
+- Lost his wife before later falling in love with the woman who became Esmeralda's mother
 
 ## Important objects
 
@@ -80,6 +82,9 @@
 - Richard became the one who uncovered enough truth to persuade Leo's father that the rebellion was real and justified
 - Richard was preparing Leo's father for a future rebellion before the sickness ended that path
 - Richard was present during the King's rise
+- Richard is Esmeralda's biological father
+- The woman chosen to bear the King's child had been a love interest of Richard's after the loss of his wife
+- The King does not know Esmeralda is Richard's daughter
 
 ## TBD
 

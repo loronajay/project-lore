@@ -18,6 +18,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Control interpretation of prophecy
 - Find and exploit the crystal
 - Prevent any surviving truth from destabilizing the throne
+- Manufacture a controllable successor in Esmeralda rather than risk raising another child
 
 ### Key methods
 
@@ -27,11 +28,20 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Selective suppression and execution
 - Exile as burial of truth
 - Strategic propaganda
+- Dynastic fabrication
 
 ### Current limitation
 
 - He cannot read the ancients' language at a glance
 - This makes him incapable of fulfilling a hidden doctrinal marker of true legitimacy
+- Esmeralda does not carry the ancients gene either, so her legitimacy must also be manufactured
+
+### Succession adaptation
+
+- He believes he fathered Esmeralda because he wanted an heir
+- He was disappointed she was a daughter
+- He no longer wants to raise another child
+- He is now amending prophetic interpretation to position Esmeralda as his chosen successor
 
 ## Leo's Father
 
@@ -155,3 +165,4 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Richard tried to build a rebellion around that truth.
 - The sickness destroyed that path before it could happen.
 - Leo now stands as the hidden continuation of the same buried line.
+- Esmeralda stands as the King's fabricated answer to the same succession problem.
