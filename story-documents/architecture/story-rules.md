@@ -77,7 +77,7 @@
 - Was the expert user and tester of weapons
 - Kept a hidden cache of weapons in his room, unknown to Leo
 - Was seen by Richard as the man who deserved to be King
-- Initially did not want that responsibility
+- Initially resisted the truth of his identity and what acting on it would cost Leo
 - Is the younger brother of the King
 - Was the only sibling who inherited the ancients gene
 - Grew up believing the King's false rescue narrative

@@ -24,7 +24,7 @@
 - Resisted it longer than expected
 - Became isolated and distant before death
 - Remains mythic to Leo, but not fully understood by him
-- Did not want the burden of kingship, even though he was seen as deserving it
+- Did not initially want to accept the buried truth of who he was or what that truth would demand of his life
 - Grew up believing the King had rescued him and given him a life of duty and privilege
 - Initially met the truth about his identity with disbelief
 - Feared leaving Leo without a father after Leo's mother was already gone

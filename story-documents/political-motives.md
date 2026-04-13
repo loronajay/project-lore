@@ -70,7 +70,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Preserve hidden martial capacity in the village
 - Support the lost political future centered on Leo's father
 - Continue acting in line with friendship, duty, and unfinished justice
-- Convince Leo's father to face the truth and accept the burden of what he is
+- Convince Leo's father to face the truth of who he is and what that truth demands
 
 ### Past political role
 
