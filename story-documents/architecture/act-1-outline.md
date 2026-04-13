@@ -1,0 +1,31 @@
+# Act 1 Outline
+
+## Status
+
+- Official halfway point of Act 1
+
+## Beat flow
+
+1. Dream: battlefield
+2. Home: jewelry box, then dish
+3. Market failure
+4. Father sick memory
+5. Richard buys dish
+6. Bread market
+7. Family memory
+8. Public attack
+9. Panic and run home
+10. Starvation and collapse
+11. Crystal dream
+12. Wake injured
+13. Bread appears
+14. Decision to find Richard
+15. Marshe chase
+16. Beating
+17. Return home
+18. Father fight flashback
+19. Boys harass house
+20. Training attempt fails
+21. Father training flashback
+22. Reflection at father's door, but he refuses to enter
+23. Leo realizes he dropped his mother's jewelry box during the Marshe chase
