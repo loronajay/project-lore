@@ -11,6 +11,7 @@
 - Neighbor who watches over Leo from a distance
 - Figure of fear, ambiguity, and later moral complexity
 - Hidden steward of the lost political future centered on Leo's father
+- Man whose buried personal history ties him to the royal succession crisis in more than one way
 
 ## Public perception
 
@@ -28,6 +29,15 @@
 - Secretly a full blacksmith
 - Keeps his blacksmithing hidden because weapons are banned in the village
 - Continues practicing in secret despite the risk of audits
+- Carries private losses and attachments that remain invisible beneath his public hardness
+
+## Personal history
+
+- Lost his wife before later falling in love with the woman who became Esmeralda's mother
+- That relationship was broken by the King's coercive claim over her
+- Esmeralda is Richard's biological daughter
+- Neither Esmeralda nor the King knows that truth
+- Her public life inside the palace stands in painful contrast to Richard's exile and silence
 
 ## Relationships
 
@@ -36,7 +46,7 @@
 - Leo: watches over him because of a promise or duty tied to Leo's father
 - Leo's father: entrusted Richard with responsibility for Leo, longtime comrade, close friend, and fellow architect of a hidden future
 - Marshe's father: killed him later during a sickness-fueled elder attack
-- Esmeralda: biological daughter, unknown publicly and unknown to the King
+- Esmeralda: biological daughter, hidden from her, the King, and the public
 - Village: shuns and fears him
 
 ## Key event
@@ -62,7 +72,6 @@
 - Rose through the royal military to the rank of General before Leo's father later replaced him
 - Was part of the mission ordered to wipe out another exiled village, erase its history, and retrieve the crystal
 - Survived the aftermath when the King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father
-- Lost his wife before later falling in love with the woman who became Esmeralda's mother
 
 ## Important objects
 
