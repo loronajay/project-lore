@@ -22,12 +22,15 @@
 - Carries inherited damage from his father's history
 - Present in both past and present story threads
 - Connected to family violence even before the later reveal around his father
+- Inherits the consequences of a deeper military and political fracture he does not fully understand
+- Lives inside the social aftershock of the failed mission, exile, sickness, and public shame surrounding the older generation
 
 ## Relationships
 
 - Leo: target, rival, and future victim
 - Marshe's father: source of legacy and fear
 - Leo's father: part of the family conflict Marshe witnessed as a child
+- Richard: feared village outcast tied to his father's death and the older generation's hidden history
 
 ## Current Act 1 function
 
@@ -42,6 +45,7 @@
 - Young Marshe witnessed Leo's father fight his own father
 - He was horrified by what he saw
 - Leo later kills Marshe
+- His family history is tied to the same royal-army exile event that shaped Leo's family and Richard
 
 ## TBD
 

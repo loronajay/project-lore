@@ -28,6 +28,7 @@
 - Erased Leo's father's birth record and royal identity
 - Recast Leo's father as an orphaned commoner he had supposedly taken in
 - Uses exile as a way to bury dangerous bloodlines and truths
+- Secretly executed nearly the entire squadron after the refused village-destruction mission
 
 ## Religion and control
 
@@ -61,6 +62,7 @@
 - Leo's father was the only sibling to inherit the ancients gene
 - The King took the throne through murder, suppression, and revision of history
 - He later exiled Leo's father, Richard, and Marshe's father after the refused mission
+- He secretly executed everyone else in the squadron
 - He hopes Leo's father's bloodline will die in exile and bury the truth forever
 
 ## TBD

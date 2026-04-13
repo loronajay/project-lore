@@ -10,6 +10,7 @@
 - Silent protector
 - Neighbor who watches over Leo from a distance
 - Figure of fear, ambiguity, and later moral complexity
+- Hidden steward of the lost political future centered on Leo's father
 
 ## Public perception
 
@@ -58,6 +59,8 @@
 - Was heartbroken when he learned Leo's father had contracted the sickness
 - Was present during the King's rise
 - Rose through the royal military to the rank of General before Leo's father later replaced him
+- Was part of the mission ordered to wipe out another exiled village, erase its history, and retrieve the crystal
+- Survived the aftermath when the King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father
 
 ## Important objects
 
@@ -80,7 +83,6 @@
 
 ## TBD
 
-- Exact relationship history with Leo's father
 - Whether Richard feels guilt, resentment, or indifference about being shunned
 - How the formal event is remembered by different townspeople
 - Nature of Richard's outside contacts

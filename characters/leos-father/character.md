@@ -9,6 +9,7 @@
 
 - Dead father whose legacy shapes Leo's fear, grief, and inheritance
 - Former royal army member whose past reaches into the village's present
+- Suppressed rightful heir whose hidden history anchors the deeper political conflict
 
 ## Public perception
 
@@ -27,6 +28,7 @@
 - Grew up believing the King had rescued him and given him a life of duty and privilege
 - Initially met the truth about his identity with disbelief
 - Feared leaving Leo without a father after Leo's mother was already gone
+- Was the strongest legitimate claimant to the throne under the kingdom's own belief system
 
 ## Combat identity
 
@@ -52,6 +54,10 @@
 - His sword later passes to Richard and is intended for Leo
 - Kept a hidden cache of weapons in his room
 - Did not forge those weapons himself
+- The King ordered him, Richard, and Marshe's father to wipe out another exiled village, erase its history, and retrieve the crystal
+- He refused once he understood the truth of the mission
+- He aborted the mission and returned
+- The King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father
 - Was being prepared by Richard for a rebellion intended to claim justice and the throne
 - Initially resisted that path out of disbelief and fear for what it would cost Leo
 - Was the only sibling who inherited the ancients gene
@@ -61,7 +67,6 @@
 
 ## TBD
 
-- Exact nature of the army fallout
 - What he asked of Richard, and when
 - What he understood about the sickness
 - Why he was the man who deserved to be King
