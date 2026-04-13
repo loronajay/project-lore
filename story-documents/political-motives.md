@@ -50,7 +50,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 
 - Initially unable to believe the truth of his own legitimacy
 - Afraid rebellion would leave Leo without a father after Leo's mother was already gone
-- Resists the throne at first because accepting it would force him to accept the whole buried truth
+- Initially resists accepting the buried truth because acting on it would force him to risk Leo's future and his own life
 
 ### Political meaning
 

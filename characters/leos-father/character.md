@@ -69,6 +69,5 @@
 
 - What he asked of Richard, and when
 - What he understood about the sickness
-- Why he was the man who deserved to be King
 - The later flashback where Richard convinces him to accept the mission
 - How long it took him to believe Richard
