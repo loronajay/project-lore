@@ -28,6 +28,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Selective suppression and execution
 - Exile as burial of truth
 - Strategic propaganda
+- Reputation poisoning to justify politically inconvenient punishments without tarnishing his benevolent public image
 - Dynastic fabrication
 - Childhood indoctrination through curated prophecy
 - Staged doctrinal and textual "discoveries"
@@ -89,20 +90,37 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Support the lost political future centered on Leo's father
 - Continue acting in line with friendship, duty, and unfinished justice
 - Convince Leo's father to face the truth of who he is and what that truth demands
+- Protect the people of the kingdom even when that means carrying private moral compromise
 
 ### Past political role
 
 - Former general
 - Present during the King's rise
+- One of the King's most useful and risky assets
 - Maintained outside contacts
 - Secretly prepared rebellion
 - Made weapons for Leo's father to test
+
+### Knowledge limits
+
+- Knew some of the King's hidden wrongdoing, but not the full structure behind it
+- Noticed doctrinal drift before he knew how it connected to stolen legitimacy
+- Did not know how the King achieved his status
+- Did not know the King's true relationship to Leo's father during his service years
+- Did not fully understand the King's deeper motive for seeking the crystal beyond its prophetic promise
+
+### Moral compromise
+
+- Stayed silent about some of what he noticed because he believed sudden exposure would bring panic and fear to the people
+- Looked away in the interest of public stability rather than out of devotion to the King
+- Later accepts tragedy and loss partly as punishment for that earlier compromise
 
 ### Emotional core
 
 - Deep loyalty to Leo's father
 - Heartbroken when Leo's father fell ill
 - Carries grief for both the man and the lost future
+- His hidden fatherhood of Esmeralda is one of the clearest places where private love, silence, and political compromise become inseparable
 
 ## Marshe's Father
 
@@ -117,7 +135,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Long carried envy toward Leo's father
 - Believed the rise to General should have been his
 - Already had a wife and young son when the massacre order came
-- Viewed exile through the lens of what Leo's refusal cost his family specifically
+- Viewed exile through the lens of what Leo's father's refusal cost his family specifically
 - Carried that grievance throughout exile
 
 ### Later symbolic role

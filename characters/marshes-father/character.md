@@ -25,7 +25,7 @@
 - Acts as an example of how the sickness can turn private danger into public horror
 - Was willing to obey the King's brutal command when Leo's father refused
 - Carried lasting resentment toward Leo's father after the exile event
-- Saw Leo's refusal as a choice made by a man with less immediate family risk because Marshe's father already had a wife and young son
+- Saw Leo's father's refusal as a choice made by a man with less immediate family risk because Marshe's father already had a wife and young son
 
 ## Relationships
 

@@ -26,12 +26,16 @@
 - Emotionally distant on purpose
 - Carries out difficult action quickly when necessary
 - Does not perform warmth for social reassurance
+- Was one of the King's most useful and risky assets during his years of service
 - Secretly a full blacksmith
 - Keeps his blacksmithing hidden because weapons are banned in the village
 - Continues practicing in secret despite the risk of audits
 - Carries private losses and attachments that remain invisible beneath his public hardness
 - Knows Esmeralda is his daughter
 - Loves her from afar and quietly watches over her when he can
+- Was always more loyal to the people of the kingdom than to the King himself
+- Looked away from some of what he noticed because he believed open exposure would bring panic and fear without protecting the people
+- Later accepts many of his losses as punishment for having lived with that compromise
 
 ## Personal history
 
@@ -69,6 +73,12 @@
 - Regularly made new "toys" for Leo's father to test
 - Helped preserve a hidden martial capacity inside a village forbidden from bearing arms
 - Maintained secret outside contacts
+- Knew some of the King's hidden wrongdoing while still serving him, but not the full structure behind it
+- Noticed doctrinal drift before he understood how it connected to the stolen royal line
+- Was trusted with many of the King's secrets, but not all of them
+- Did not know how the King achieved his status
+- Did not know the King's true relationship to Leo's father during his years of service
+- Did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic right attached to it
 - Eventually discovered the truth about Leo's father's royal identity and legitimacy
 - Began preparing for a rebellion intended to deliver justice and place Leo's father on the throne
 - Helped convince Leo's father and others to join that cause
@@ -95,6 +105,9 @@
 - He later leaves bread on the returned dish
 - Richard publicly lives as a carpenter while secretly functioning as a blacksmith
 - Richard and Leo's father shared many years of battle, friendship, and toil
+- Richard served as one of the King's most trusted and dangerous assets without ever seeing the full truth of the regime
+- Richard noticed pieces of doctrinal and political corruption before he understood the larger royal theft behind them
+- Richard was loyal to the people more than to the King
 - Richard became the one who uncovered enough truth to persuade Leo's father that the rebellion was real and justified
 - Richard was preparing Leo's father for a future rebellion before the sickness ended that path
 - Richard knew Leo was the center of Leo's father's emotional world
@@ -113,4 +126,4 @@
 - How the formal event is remembered by different townspeople
 - Nature of Richard's outside contacts
 - The later flashback where Richard convinces Leo's father to accept the mission
-- How Richard first discovered the truth
+- How Richard first discovered enough of the truth to connect doctrine, royalty, and the crystal

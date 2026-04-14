@@ -30,6 +30,8 @@
 - Erased Leo's father's birth record and royal identity
 - Recast Leo's father as an orphaned commoner he had supposedly taken in
 - Uses exile as a way to bury dangerous bloodlines and truths
+- Uses reputation poisoning to make politically necessary exiles appear justified
+- Protects his benevolent and spiritually legitimate public image by avoiding the appearance of openly vindictive punishment
 - Secretly executed nearly the entire squadron after the refused village-destruction mission
 
 ## Religion and control

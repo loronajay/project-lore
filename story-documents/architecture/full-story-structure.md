@@ -40,6 +40,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 - Leo's father and Marshe's father were members of the royal army.
 - Richard was also one of their comrades.
+- Richard served as one of the King's most useful and risky assets, trusted with many secrets but not the deepest truths of the regime.
 - Marshe's father had long envied Leo's father and believed the later rise to General should have been his.
 - The King ordered their mission to wipe out another exiled village, erase its history, and retrieve the crystal.
 - Leo's father refused once he understood the truth of the order.
@@ -48,6 +49,8 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - He later carried resentment toward Leo's father because he believed Leo's father chose principle from a position with less immediately at stake.
 - Leo's father aborted the mission and returned.
 - The King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father.
+- He supported that exile with reputation-poisoning so the fall of such revered soldiers would appear justified rather than suspicious.
+- This also protected his carefully maintained image by keeping the event from reading as openly vindictive rule.
 - The exile event is tied to the origin of the curse legend.
 - The exile contract includes a ban on weapons within the village.
 - Royal soldiers occasionally audit the village and search for forbidden weapons.
@@ -72,6 +75,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The King chose not to kill him because the ancients gene might later prove useful in relation to the crystal.
 - After taking power, the King began a slow initiative to rewrite history and religion.
 - He used paid-off historians and priests to reshape public truth over time.
+- Richard noticed some of the doctrinal and political distortion during his service years, but did not yet understand the full system behind it.
 - He killed or silenced people who knew too much about the real history, religion, or Leo's father's birth.
 - He erased records of Leo's father's royal identity.
 - He reintroduced Leo's father as an orphaned commoner whom he had supposedly taken in out of kindness.
@@ -84,6 +88,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - After Esmeralda's mother tried to escape with her, he had the mother executed.
 - He then raised Esmeralda himself and grew genuinely attached to her over time.
 - Richard considered fleeing with Esmeralda but understood they would both be killed if the truth surfaced, so he left her alive inside the castle.
+- That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
 - Rather than raise another child, he began reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene.
 - He and his inner circle support that revision with staged discoveries of doctrine and ancient texts.
 - He also raises Esmeralda on a story that a princess will one day save the world from itself.
@@ -152,12 +157,17 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Publicly lives as a carpenter
 - Secretly works as a blacksmith
 - Rose through the army to General before Leo's father later replaced him
+- Served as one of the King's most trusted but also most dangerous assets
+- Knew some hidden wrongdoing and doctrinal irregularity without understanding the full truth of the King's rise
+- Did not know the King was Leo's father's brother during his years of service
+- Did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic right attached to it
 - Secretly tasked by Leo's father to watch over Leo
 - Maintains distance intentionally to let Leo grow independently
 - Later revealed to have killed Marshe's father to stop an attack on the town elders
 - Shunned by the town because the killing was graphically violent in front of witnesses
 - Secretly forged weapons for Leo's father after exile
 - Maintained outside contacts and began planning a rebellion
+- Stayed silent about some of what he had noticed because he believed exposure would panic the people without protecting them
 - Eventually discovered enough of the hidden truth to convince Leo's father the rebellion was real and justified
 - Intended that rebellion to deliver justice and place Leo's father on the throne
 - Abandoned that mission when Leo's father fell ill
@@ -203,6 +213,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Being positioned as the next royal chosen figure despite not carrying the ancients gene
 - Secretly Richard's biological daughter
 - Richard knows the truth even though she does not
+- Richard's distance from her is shaped both by fear for her safety and by the same larger moral compromise that once kept him silent about pieces of the King's corruption
 - Raised on a prophecy story that primes her to believe she may be the one meant to save the world from itself
 
 ## Key objects
@@ -429,6 +440,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Hidden architect of a rebellion that died when Leo's father fell ill
 - One of the few people with partial access to the deeper royal truth
 - The man who eventually convinced Leo's father to accept that truth
+- A man who once accepted silence as the lesser harm and later has to live with the cost of that choice
 - Secret fatherhood and private loss deepen his connection to the kingdom's stolen lineage
 - Loves Esmeralda from afar and accepts distance as the price of keeping her alive
 
@@ -454,6 +466,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Publicly adored royal heir figure
 - Loved by the King inside a fabricated father-daughter story
 - Secretly Richard's biological daughter
+- Richard's hidden connection to her is part of the price he pays for earlier silence and compromise
 - Another hidden fracture in the kingdom's false succession order
 - Raised to sincerely believe the revised prophecy built around her
 - Later becomes the one who finds Leo collapsed after the events of Marshe's death

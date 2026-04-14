@@ -69,12 +69,13 @@
 - The King chose to amend prophecy around her rather than raise another child
 - That inner circle helps "discover" doctrine and texts to support the revised prophecy
 - People suspected of seeing through the lie are silenced
+- Richard keeps the truth hidden not only because exposure would get them killed, but because he believes the wrong revelation at the wrong time would bring panic and fear without protecting the people
 
 ## Relationships
 
 - The King: father, source of love, protection, and total deception
 - Mother: almost unknown figure whose real fate has been hidden from her
-- Richard: biological father, known to him but unknown to her and unknown to the King
+- Richard: biological father, known to him but unknown to her and unknown to the King; he loves her from afar and accepts distance as the price of her safety and of a silence he once believed served the people
 - Leo: future first meaningful connection, as she later finds him collapsed after Marshe's death
 
 ## Locked canon
@@ -116,6 +117,7 @@
 - He would rather position Esmeralda than raise another child
 - Esmeralda knows nothing about her father's evil acts or hidden plans
 - Richard has loved and quietly watched over Esmeralda from afar for years
+- Richard's silence about her is tied to the broader moral compromise he made while looking away from pieces of the King's corruption
 - Esmeralda is the person who later finds Leo collapsed after the events of Marshe's death
 
 ## TBD

@@ -93,6 +93,7 @@
 - When Esmeralda's mother tried to flee with her, the King had the mother executed.
 - He raised Esmeralda himself and became genuinely attached to her over time.
 - Richard considered fleeing with Esmeralda but chose not to because exposure would have gotten them both killed and the castle could keep her safer than exile.
+- Richard's silence around Esmeralda is also part of his broader pattern of looking away from dangerous partial truth when he believes exposure would terrify the people without protecting them.
 
 ## Rewriting of truth
 
@@ -103,6 +104,7 @@
 - He later adapted the kingdom's prophetic narrative again to position Esmeralda as his chosen successor.
 - That adaptation included raising Esmeralda on a story that a princess would one day save the world from itself.
 - The King's closest inner circle knows Esmeralda does not carry the ancients gene, but keeps that fact tightly controlled.
+- Richard noticed some of this doctrinal drift during his years of service, but did not yet understand the full system behind it.
 
 ## Crystal
 
@@ -123,16 +125,29 @@
 
 - Leo's father, Richard, and Marshe's father were high-ranking royal army members.
 - Richard rose to General before Leo's father later replaced him.
+- Richard was one of the King's most useful and risky assets.
+- He was trusted with many secrets, but not the deepest truths behind the King's rise or Leo's father's hidden identity.
 - Leo's father was widely respected and battle-tested before exile.
 - Marshe's father carried envy toward Leo's father and believed the later rise to General should have been his.
 - The King ordered their mission to wipe out the other exiled village, erase its history, and retrieve the crystal.
 - Leo's father refused once he understood the truth of the mission.
 - Marshe's father wanted to obey.
 - Marshe's father already had a wife and young son at that point, while Leo's father did not yet have Leo.
-- Marshe's father later resented Leo's father in part because he believed Leo's refusal came from a position with less immediate family risk.
+- Marshe's father later resented Leo's father in part because he believed Leo's father's refusal came from a position with less immediate family risk.
 - Leo's father aborted the mission and returned.
 - The King exiled the entire squadron, then secretly executed everyone except Leo's father, Richard, and Marshe's father.
-- Malicious rumors were spread to discredit the survivors publicly.
+- Malicious rumors were spread to discredit the survivors publicly and make the exile of such revered soldiers seem justified.
+- That reputation-poisoning also protected the King's own image by keeping the event from reading as a cruel public punishment carried out by a supposedly gracious and holy ruler.
+
+## Richard's knowledge arc
+
+- Richard knew some of the King's wrongdoing before exile, but not the full architecture of the regime.
+- He did not know how the King achieved his status.
+- He did not know the King's true relationship to Leo's father during his years of service.
+- He did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic promise attached to it.
+- He stayed silent about some of what he noticed because he believed premature exposure would bring panic and fear to the people without protecting them.
+- Later he connected doctrinal drift, hidden legitimacy, and the crystal into a fuller understanding.
+- That is when he began planning rebellion with the goal of putting Leo's father in his rightful place on the throne.
 
 ## Weapons and hidden resistance
 
