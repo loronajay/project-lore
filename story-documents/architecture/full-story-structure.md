@@ -40,8 +40,11 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 - Leo's father and Marshe's father were members of the royal army.
 - Richard was also one of their comrades.
-- An unspecified incident caused a severe fallout.
-- All three men were exiled to the village as punishment.
+- The King ordered their mission to wipe out another exiled village, erase its history, and retrieve the crystal.
+- Leo's father refused once he understood the truth of the order.
+- Marshe's father wanted to obey.
+- Leo's father aborted the mission and returned.
+- The King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father.
 - The exile event is tied to the origin of the curse legend.
 - The exile contract includes a ban on weapons within the village.
 - Royal soldiers occasionally audit the village and search for forbidden weapons.
@@ -143,6 +146,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Eventually discovered enough of the hidden truth to convince Leo's father the rebellion was real and justified
 - Intended that rebellion to deliver justice and place Leo's father on the throne
 - Abandoned that mission when Leo's father fell ill
+- Secretly Esmeralda's biological father, though neither the King nor Esmeralda knows it
 
 ### Marshe's father
 
@@ -401,6 +405,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Hidden architect of a rebellion that died when Leo's father fell ill
 - One of the few people with partial access to the deeper royal truth
 - The man who eventually convinced Leo's father to accept that truth
+- Secret fatherhood and private loss deepen his connection to the kingdom's stolen lineage
 
 ### Leo's father
 
@@ -415,6 +420,14 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Stole legitimacy by killing, erasing, and rewriting
 - Suppresses hidden doctrine he cannot fulfill
 - Uses exile as a way to bury dangerous bloodlines and truths
+- Treats Esmeralda as a public solution to the succession problem even though that solution is false at multiple levels
+
+### Esmeralda
+
+- Publicly adored royal heir figure
+- Loved by the King inside a fabricated father-daughter story
+- Secretly Richard's biological daughter
+- Another hidden fracture in the kingdom's false succession order
 
 ### Marshe
 
@@ -448,4 +461,6 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Only the King and his paid-off researchers are confirmed to know that hidden doctrinal detail.
 - The King launched the later mission after suspecting another exiled village of rebellion and possible crystal proximity.
 - His researchers were not fully wrong: the crystal is effectively close, but the ancients' language is difficult to transcribe.
+- The King later tried to solve succession by raising Esmeralda as his daughter and chosen successor.
+- He does not know Richard is her biological father.
 - The future-generation prophecy points toward a stronger figure, which may ultimately apply to Leo, though the King does not know that yet.
