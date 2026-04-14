@@ -790,34 +790,45 @@ function extractTbdItems(raw) {
 
 function renderSectionBody(lines) {
   const chunks = [];
-  let listItems = [];
+  let unorderedListItems = [];
+  let orderedListItems = [];
   let paragraphBuffer = [];
 
-  const flushList = () => {
-    if (!listItems.length) {
+  const flushUnorderedList = () => {
+    if (!unorderedListItems.length) {
       return;
     }
-    chunks.push(`<ul>${listItems.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>`);
-    listItems = [];
+    chunks.push(`<ul>${unorderedListItems.map((item) => `<li>${renderInlineMarkdown(item)}</li>`).join("")}</ul>`);
+    unorderedListItems = [];
+  };
+
+  const flushOrderedList = () => {
+    if (!orderedListItems.length) {
+      return;
+    }
+    chunks.push(`<ol>${orderedListItems.map((item) => `<li>${renderInlineMarkdown(item)}</li>`).join("")}</ol>`);
+    orderedListItems = [];
   };
 
   const flushParagraph = () => {
     if (!paragraphBuffer.length) {
       return;
     }
-    chunks.push(`<p>${escapeHtml(paragraphBuffer.join(" "))}</p>`);
+    chunks.push(`<p>${renderInlineMarkdown(paragraphBuffer.join(" "))}</p>`);
     paragraphBuffer = [];
   };
 
   const flushHeading = (title) => {
-    flushList();
+    flushUnorderedList();
+    flushOrderedList();
     flushParagraph();
     chunks.push(`<h5>${escapeHtml(title)}</h5>`);
   };
 
   lines.forEach((line) => {
     if (!line.trim()) {
-      flushList();
+      flushUnorderedList();
+      flushOrderedList();
       flushParagraph();
       return;
     }
@@ -829,16 +840,26 @@ function renderSectionBody(lines) {
     }
 
     if (/^\s*-\s+/.test(line)) {
+      flushOrderedList();
       flushParagraph();
-      listItems.push(line.replace(/^\s*-\s+/, "").trim());
+      unorderedListItems.push(line.replace(/^\s*-\s+/, "").trim());
       return;
     }
 
-    flushList();
+    if (/^\s*\d+\.\s+/.test(line)) {
+      flushUnorderedList();
+      flushParagraph();
+      orderedListItems.push(line.replace(/^\s*\d+\.\s+/, "").trim());
+      return;
+    }
+
+    flushUnorderedList();
+    flushOrderedList();
     paragraphBuffer.push(line.trim());
   });
 
-  flushList();
+  flushUnorderedList();
+  flushOrderedList();
   flushParagraph();
   return chunks.join("");
 }
@@ -876,6 +897,38 @@ function getSummarySource(entry) {
 
 function isUnavailableText(raw) {
   return raw.startsWith("# Unavailable");
+}
+
+function renderInlineMarkdown(text) {
+  const pattern = /`([^`]+)`|\[([^\]]+)\]\(([^)]+)\)/g;
+  let result = "";
+  let cursor = 0;
+  let match;
+
+  while ((match = pattern.exec(text)) !== null) {
+    result += escapeHtml(text.slice(cursor, match.index));
+
+    if (match[1] !== undefined) {
+      result += `<code>${escapeHtml(match[1])}</code>`;
+    } else {
+      const label = escapeHtml(match[2]);
+      const href = match[3].trim();
+      if (isRenderableHref(href)) {
+        result += `<a href="${escapeHtml(href)}" target="_blank" rel="noreferrer">${label}</a>`;
+      } else {
+        result += `${label} <code>${escapeHtml(href)}</code>`;
+      }
+    }
+
+    cursor = pattern.lastIndex;
+  }
+
+  result += escapeHtml(text.slice(cursor));
+  return result;
+}
+
+function isRenderableHref(href) {
+  return /^(https?:\/\/|\.{0,2}\/|[^:\s)]+\.[^:\s)]+(?:\/.*)?$)/i.test(href);
 }
 
 function splitTags(value) {
