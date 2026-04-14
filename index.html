@@ -18,27 +18,37 @@
         <p class="brand-copy">Read canon, trace structure, and capture new story ideas wherever you are.</p>
       </div>
 
-      <label class="search-wrap" for="searchInput">
-        <span>Search</span>
-        <input id="searchInput" type="search" placeholder="Characters, concepts, sequences...">
-      </label>
+      <button id="themeToggle" class="ghost-button theme-toggle" type="button" aria-pressed="false">
+        Dark Theme
+      </button>
 
-      <nav class="section-nav" aria-label="Primary">
-        <button class="mode-button is-active" data-mode="read">Read</button>
-        <button class="mode-button" data-mode="workbench">Workbench</button>
-      </nav>
+      <button id="mobileNavToggle" class="ghost-button mobile-nav-toggle" type="button" aria-expanded="false">
+        Browse Library
+      </button>
 
-      <div class="filter-block">
-        <p class="filter-label">Browse</p>
-        <div id="categoryFilters" class="filter-list"></div>
-      </div>
+      <div id="mobileNavContent" class="mobile-nav-content">
+        <label class="search-wrap" for="searchInput">
+          <span>Search</span>
+          <input id="searchInput" type="search" placeholder="Characters, concepts, sequences...">
+        </label>
 
-      <div class="nav-block">
-        <div class="nav-head">
-          <p class="filter-label">Entries</p>
-          <button id="collapseButton" class="ghost-button" type="button">Collapse All</button>
+        <nav class="section-nav" aria-label="Primary">
+          <button class="mode-button is-active" data-mode="read">Read</button>
+          <button class="mode-button" data-mode="workbench">Workbench</button>
+        </nav>
+
+        <div class="filter-block">
+          <p class="filter-label">Browse</p>
+          <div id="categoryFilters" class="filter-list"></div>
         </div>
-        <div id="entryList" class="entry-list"></div>
+
+        <div class="nav-block">
+          <div class="nav-head">
+            <p class="filter-label">Entries</p>
+            <button id="collapseButton" class="ghost-button" type="button">Collapse All</button>
+          </div>
+          <div id="entryList" class="entry-list"></div>
+        </div>
       </div>
     </aside>
 
@@ -65,6 +75,13 @@
             <h3 id="entryTitle"></h3>
             <p id="entryDescription" class="entry-description"></p>
             <div id="entryRelated" class="related-links"></div>
+            <section id="entryGallerySection" class="gallery-section" hidden>
+              <div class="gallery-head">
+                <h4>Reference Art</h4>
+                <p id="entryGalleryLabel" class="card-copy"></p>
+              </div>
+              <div id="entryGallery" class="gallery-grid"></div>
+            </section>
             <div id="entryContent" class="entry-content"></div>
           </article>
 

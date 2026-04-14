@@ -27,19 +27,68 @@ const CATEGORY_LABELS = {
   reference: "Reference"
 };
 
+const GALLERY_CONFIG = {
+  overview: [
+    { src: "world-art/castle.jfif", label: "Castle" },
+    { src: "world-art/exile-village.jfif", label: "Exile Village" },
+    { src: "world-art/leo-hometown.jfif", label: "Leo's Hometown" }
+  ],
+  leo: [
+    { src: "characters/leo/concept-art/teenager/download - 2026-04-13T202304.120.jpeg", label: "Teen Leo" },
+    { src: "characters/leo/concept-art/teenager/download - 2026-04-13T202750.874.jpeg", label: "Teen Leo Variation" },
+    { src: "characters/leo/concept-art/child/download - 2026-04-13T205008.563.jpeg", label: "Child Leo" }
+  ],
+  "leos-father": [
+    { src: "characters/leos-father/concept-art/young/download - 2026-04-13T203447.747.jpeg", label: "Young Leo's Father" },
+    { src: "characters/leos-father/concept-art/young/download - 2026-04-13T203527.550.jpeg", label: "Young Leo's Father Variation" }
+  ],
+  richard: [
+    { src: "characters/richard/concept-art/middle-aged/download - 2026-04-13T203338.427.jpeg", label: "Richard" }
+  ],
+  marshe: [
+    { src: "characters/marshe/concept-art/teenager/download - 2026-04-13T204051.663.jpeg", label: "Teen Marshe" },
+    { src: "characters/marshe/concept-art/child/download - 2026-04-13T204013.414.jpeg", label: "Child Marshe" }
+  ],
+  "marshes-father": [
+    { src: "characters/marshes-father/concept-art/young/download - 2026-04-13T203745.730.jpeg", label: "Young Marshe's Father" },
+    { src: "characters/marshes-father/concept-art/young/download - 2026-04-13T203811.113.jpeg", label: "Young Marshe's Father Variation" }
+  ],
+  king: [
+    { src: "characters/king/concept-art/middle-aged/download - 2026-04-13T204338.083.jpeg", label: "Middle-Aged King" },
+    { src: "characters/king/concept-art/old/download - 2026-04-13T204343.603.jpeg", label: "Older King" }
+  ],
+  esmeralda: [
+    { src: "characters/esmeralda/concept-art/cartoon/6d58dabd-361a-493e-84b8-5829e0360cd0.png", label: "Cartoon Esmeralda" },
+    { src: "characters/esmeralda/concept-art/cartoon/download - 2026-04-13T074442.064.jpeg", label: "Cartoon Variation" },
+    { src: "characters/esmeralda/concept-art/realistic/download - 2026-04-13T074245.604.jpeg", label: "Realistic Esmeralda" }
+  ],
+  "world-lore": [
+    { src: "world-art/castle.jfif", label: "Castle" },
+    { src: "world-art/exile-village.jfif", label: "Exile Village" },
+    { src: "world-art/exile-village-2.jfif", label: "Exile Village Variation" },
+    { src: "world-art/leo-hometown.jfif", label: "Leo's Hometown" }
+  ]
+};
+
 const NOTES_KEY = "lore-workbench-notes-v1";
+const THEME_KEY = "lore-workbench-theme-v1";
 const state = {
   mode: "read",
   activeCategory: "all",
   activeEntryId: "overview",
   search: "",
   entries: [],
-  notes: loadNotes()
+  notes: loadNotes(),
+  mobileNavOpen: false,
+  theme: loadTheme()
 };
 
 const elements = {
   heroTitle: document.getElementById("heroTitle"),
   heroSubtitle: document.getElementById("heroSubtitle"),
+  themeToggle: document.getElementById("themeToggle"),
+  mobileNavToggle: document.getElementById("mobileNavToggle"),
+  mobileNavContent: document.getElementById("mobileNavContent"),
   categoryFilters: document.getElementById("categoryFilters"),
   entryList: document.getElementById("entryList"),
   searchInput: document.getElementById("searchInput"),
@@ -48,6 +97,9 @@ const elements = {
   entryTitle: document.getElementById("entryTitle"),
   entryDescription: document.getElementById("entryDescription"),
   entryRelated: document.getElementById("entryRelated"),
+  entryGallerySection: document.getElementById("entryGallerySection"),
+  entryGalleryLabel: document.getElementById("entryGalleryLabel"),
+  entryGallery: document.getElementById("entryGallery"),
   entryContent: document.getElementById("entryContent"),
   tbdList: document.getElementById("tbdList"),
   tbdCount: document.getElementById("tbdCount"),
@@ -78,6 +130,7 @@ const elements = {
 boot();
 
 async function boot() {
+  applyTheme();
   state.entries = await Promise.all(
     ENTRY_CONFIG.map(async (entry) => {
       const raw = await fetchText(entry.source);
@@ -95,6 +148,24 @@ function bindEvents() {
   elements.searchInput.addEventListener("input", (event) => {
     state.search = event.target.value.trim().toLowerCase();
     renderEntryList();
+  });
+
+  elements.themeToggle.addEventListener("click", () => {
+    state.theme = state.theme === "dark" ? "light" : "dark";
+    persistTheme();
+    applyTheme();
+  });
+
+  elements.mobileNavToggle.addEventListener("click", () => {
+    state.mobileNavOpen = !state.mobileNavOpen;
+    renderMobileNav();
+  });
+
+  window.addEventListener("resize", () => {
+    if (window.innerWidth > 1080) {
+      state.mobileNavOpen = false;
+    }
+    renderMobileNav();
   });
 
   elements.modeButtons.forEach((button) => {
@@ -155,11 +226,20 @@ function bindEvents() {
 }
 
 function render() {
+  applyTheme();
   renderMode();
+  renderMobileNav();
   renderEntryList();
   renderActiveEntry();
   renderNotes();
   renderTbdDashboard();
+}
+
+function applyTheme() {
+  document.body.dataset.theme = state.theme;
+  const isDark = state.theme === "dark";
+  elements.themeToggle.textContent = isDark ? "Light Theme" : "Dark Theme";
+  elements.themeToggle.setAttribute("aria-pressed", String(isDark));
 }
 
 function renderMode() {
@@ -204,7 +284,11 @@ function renderEntryList() {
     button.innerHTML = `${entry.title}<small>${CATEGORY_LABELS[entry.category] || entry.category}</small>`;
     button.addEventListener("click", () => {
       state.activeEntryId = entry.id;
+      if (window.innerWidth <= 1080) {
+        state.mobileNavOpen = false;
+      }
       renderEntryList();
+      renderMobileNav();
       renderActiveEntry();
     });
     elements.entryList.appendChild(button);
@@ -226,9 +310,23 @@ function renderActiveEntry() {
   elements.noteEntrySelect.value = entry.id;
 
   renderRelatedLinks(entry);
+  renderGallery(entry);
   renderEntrySections(entry);
   renderEntryTbd(entry);
   renderNotes();
+}
+
+function renderMobileNav() {
+  const isMobile = window.innerWidth <= 1080;
+  if (!isMobile) {
+    elements.mobileNavContent.hidden = false;
+    elements.mobileNavToggle.setAttribute("aria-expanded", "true");
+    return;
+  }
+
+  elements.mobileNavContent.hidden = !state.mobileNavOpen;
+  elements.mobileNavToggle.setAttribute("aria-expanded", String(state.mobileNavOpen));
+  elements.mobileNavToggle.textContent = state.mobileNavOpen ? "Hide Library" : "Browse Library";
 }
 
 function renderRelatedLinks(entry) {
@@ -245,9 +343,35 @@ function renderRelatedLinks(entry) {
     button.addEventListener("click", () => {
       state.activeEntryId = relatedEntry.id;
       state.mode = "read";
+      if (window.innerWidth <= 1080) {
+        state.mobileNavOpen = false;
+      }
       render();
     });
     elements.entryRelated.appendChild(button);
+  });
+}
+
+function renderGallery(entry) {
+  const galleryItems = GALLERY_CONFIG[entry.id] || [];
+  elements.entryGallery.innerHTML = "";
+
+  if (!galleryItems.length) {
+    elements.entryGallerySection.hidden = true;
+    return;
+  }
+
+  elements.entryGallerySection.hidden = false;
+  elements.entryGalleryLabel.textContent = `${galleryItems.length} image${galleryItems.length === 1 ? "" : "s"} available for this entry.`;
+
+  galleryItems.forEach((item) => {
+    const figure = document.createElement("figure");
+    figure.className = "gallery-card";
+    figure.innerHTML = `
+      <img src="${item.src}" alt="${escapeHtml(item.label)}" loading="lazy">
+      <figcaption>${escapeHtml(item.label)}</figcaption>
+    `;
+    elements.entryGallery.appendChild(figure);
   });
 }
 
@@ -403,6 +527,14 @@ function loadNotes() {
   } catch {
     return [];
   }
+}
+
+function persistTheme() {
+  localStorage.setItem(THEME_KEY, state.theme);
+}
+
+function loadTheme() {
+  return localStorage.getItem(THEME_KEY) || "dark";
 }
 
 function exportNotes() {
