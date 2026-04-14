@@ -222,6 +222,18 @@ textarea { resize: vertical; }
 .reader-card h3 { font-size: clamp(2.2rem, 2.4vw, 3.2rem); margin-bottom: 12px; }
 .entry-description { color: var(--muted); margin-bottom: 16px; }
 .related-link { padding: 8px 12px; text-decoration: none; }
+.summary-content {
+  display: grid;
+  gap: 12px;
+}
+.summary-content h5 {
+  margin: 0;
+  font-size: 1rem;
+}
+.summary-content p {
+  margin: 0;
+  line-height: 1.68;
+}
 .gallery-section {
   margin-top: 18px;
   padding: 18px;

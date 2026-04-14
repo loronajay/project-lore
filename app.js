@@ -80,6 +80,7 @@ const state = {
   mode: "read",
   activeCategory: "all",
   activeEntryId: "overview",
+  summaryVisibleForEntryId: null,
   search: "",
   entries: [],
   notes: loadNotes(),
@@ -100,7 +101,11 @@ const elements = {
   entrySource: document.getElementById("entrySource"),
   entryTitle: document.getElementById("entryTitle"),
   entryDescription: document.getElementById("entryDescription"),
+  entryActions: document.getElementById("entryActions"),
   entryRelated: document.getElementById("entryRelated"),
+  entrySummarySection: document.getElementById("entrySummarySection"),
+  entrySummaryLabel: document.getElementById("entrySummaryLabel"),
+  entrySummaryContent: document.getElementById("entrySummaryContent"),
   entryGallerySection: document.getElementById("entryGallerySection"),
   entryGalleryLabel: document.getElementById("entryGalleryLabel"),
   entryGallery: document.getElementById("entryGallery"),
@@ -143,7 +148,16 @@ async function boot() {
   state.entries = await Promise.all(
     ENTRY_CONFIG.map(async (entry) => {
       const raw = await fetchText(entry.source);
-      return { ...entry, raw, sections: parseSections(raw), tbdItems: extractTbdItems(raw) };
+      const summarySource = getSummarySource(entry);
+      const summaryRaw = summarySource ? await fetchText(summarySource) : "";
+      return {
+        ...entry,
+        raw,
+        sections: parseSections(raw),
+        tbdItems: extractTbdItems(raw),
+        summarySource,
+        summaryRaw
+      };
     })
   );
 
@@ -300,6 +314,9 @@ function renderEntryList() {
     button.innerHTML = `${entry.title}<small>${CATEGORY_LABELS[entry.category] || entry.category}</small>`;
     button.addEventListener("click", () => {
       state.activeEntryId = entry.id;
+      if (state.summaryVisibleForEntryId !== entry.id) {
+        state.summaryVisibleForEntryId = null;
+      }
       if (window.innerWidth <= 1080) {
         state.mobileNavOpen = false;
       }
@@ -325,7 +342,9 @@ function renderActiveEntry() {
   elements.entryDescription.textContent = entry.description;
   elements.noteEntrySelect.value = entry.id;
 
+  renderEntryActions(entry);
   renderRelatedLinks(entry);
+  renderSummary(entry);
   renderGallery(entry);
   renderEntrySections(entry);
   renderEntryTbd(entry);
@@ -366,6 +385,38 @@ function renderRelatedLinks(entry) {
     });
     elements.entryRelated.appendChild(button);
   });
+}
+
+function renderEntryActions(entry) {
+  elements.entryActions.innerHTML = "";
+
+  if (!entry.summaryRaw || isUnavailableText(entry.summaryRaw)) {
+    return;
+  }
+
+  const button = document.createElement("button");
+  button.type = "button";
+  button.className = "related-link";
+  button.textContent = state.summaryVisibleForEntryId === entry.id ? "Hide Summary" : "Read Summary";
+  button.addEventListener("click", () => {
+    state.summaryVisibleForEntryId = state.summaryVisibleForEntryId === entry.id ? null : entry.id;
+    renderEntryActions(entry);
+    renderSummary(entry);
+  });
+  elements.entryActions.appendChild(button);
+}
+
+function renderSummary(entry) {
+  const hasVisibleSummary = state.summaryVisibleForEntryId === entry.id && entry.summaryRaw && !isUnavailableText(entry.summaryRaw);
+  elements.entrySummarySection.hidden = !hasVisibleSummary;
+  elements.entrySummaryContent.innerHTML = "";
+
+  if (!hasVisibleSummary) {
+    return;
+  }
+
+  elements.entrySummaryLabel.textContent = `Pulled from ${entry.summarySource}.`;
+  elements.entrySummaryContent.innerHTML = renderSummaryBody(entry.summaryRaw, entry.title);
 }
 
 function renderGallery(entry) {
@@ -763,6 +814,17 @@ function renderSectionBody(lines) {
   return chunks.join("");
 }
 
+function renderSummaryBody(raw, entryTitle) {
+  const sections = parseSections(raw);
+
+  return sections.map((section) => {
+    const normalizedTitle = section.title.trim().toLowerCase();
+    const redundantTitle = normalizedTitle === `${entryTitle} summary`.toLowerCase() || normalizedTitle === "summary";
+    const heading = redundantTitle ? "" : `<h5>${escapeHtml(section.title)}</h5>`;
+    return `<div class="summary-block">${heading}${renderSectionBody(section.lines)}</div>`;
+  }).join("");
+}
+
 async function fetchText(path) {
   try {
     const response = await fetch(path);
@@ -773,6 +835,18 @@ async function fetchText(path) {
   } catch {
     return `# Unavailable\n\n- Could not load \`${path}\` in this environment.`;
   }
+}
+
+function getSummarySource(entry) {
+  if (entry.category !== "characters") {
+    return null;
+  }
+
+  return entry.source.replace(/character\.md$/i, "summary.md");
+}
+
+function isUnavailableText(raw) {
+  return raw.startsWith("# Unavailable");
 }
 
 function splitTags(value) {
