@@ -888,11 +888,15 @@ async function fetchText(path) {
 }
 
 function getSummarySource(entry) {
-  if (entry.category !== "characters") {
-    return null;
+  if (entry.category === "characters") {
+    return entry.source.replace(/character\.md$/i, "summary.md");
   }
 
-  return entry.source.replace(/character\.md$/i, "summary.md");
+  if (entry.id === "world-lore" || entry.id === "political-motives") {
+    return entry.source.replace(/\.md$/i, "-summary.md");
+  }
+
+  return null;
 }
 
 function isUnavailableText(raw) {
