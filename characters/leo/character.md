@@ -15,13 +15,15 @@
 - Socially isolated
 - Bullied
 - Seen as weak
-- Associated with his father's legacy whether he wants that or not
+- Associated with his father's household and local reputation
 
 ## Inner reality
 
 - Logical and observant
 - Rejects superstition
 - Grieving both parents
+- Loved his father very much
+- Was very close with his father before the illness
 - Hungry, ashamed, and under pressure
 - Feels inadequate compared to his father
 - Carries latent instinct and capability not yet realized
@@ -31,7 +33,7 @@
 
 ## Relationships
 
-- Leo's father: idolized, feared, not fully understood
+- Leo's father: deeply loved, source of grief, inheritance, and emotional pressure
 - Richard: distant protector, not yet openly trusted
 - Marshe: bully, recurring threat, future tragedy
 - Marshe's father: part of inherited family conflict
@@ -55,12 +57,12 @@
 - Leo later kills Marshe
 - He does so instinctively and skillfully
 - The trigger is a cornered-animal response
-- His current weakness is intentional contrast
+- Leo loved his father very much
+- He and his father were very close before the illness
 - He is the hidden continuation of Leo's father's bloodline in exile
 - He may ultimately embody the stronger future-facing prophecy the current religion only partially preserves
 
 ## TBD
 
 - Specific emotional relationship to mother beyond the jewelry-box memory
-- How much he consciously resents his father versus reveres him
 - What kinds of things he notices that others miss

@@ -115,6 +115,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Logical, observant, rejects superstition
 - Socially isolated and bullied
 - Recently lost his father
+- Loved his father deeply and had been close with him before the illness
 
 ### Leo's father
 
@@ -127,6 +128,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Younger brother of the King
 - True bearer of the ancients gene
 - Raised under a false commoner identity
+- His true identity remained hidden from the village
 
 ### Richard
 
@@ -390,6 +392,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 - Hunger to desperation to fear to survival
 - Loses his mother's jewelry box during the Marshe chase, but realizes it only after returning home, failing at training, and refusing to enter his father's room
+- Loved his father deeply before the sickness reshaped that bond into grief and absence
 - Idolizes his father but feels inadequate
 - Attempts imitation and fails
 - Avoids his father's room as an emotional barrier

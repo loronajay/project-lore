@@ -32,4 +32,3 @@ Leo is:
 - Leo kills Marshe later.
 - He does it instinctively and skillfully.
 - The trigger is a cornered-animal response.
-- Leo's current weakness is intentional contrast.

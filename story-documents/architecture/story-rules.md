@@ -19,7 +19,6 @@
 - The village believes it is under a warlock's curse.
 - That belief is not the same thing as objective truth.
 - The sickness is real, feared, escalating, and tied to hidden violence inside homes.
-- Leo is weak right now on purpose. That contrast is important.
 - Leo later kills Marshe instinctively and skillfully under a cornered-animal trigger.
 - Leo's father was an exceptionally skilled fighter with a loose, fluid, non-traditional style.
 - Richard functions as a silent protector, not an early warm mentor.
@@ -34,6 +33,7 @@
 - Rejects superstition
 - Socially isolated and bullied
 - Recently lost his father
+- Loved his father very much and had been close with him before the illness
 - Carries grief, hunger, shame, and suppressed inheritance
 
 ### Leo's father
@@ -42,7 +42,13 @@
 - Exiled to the village
 - Resisted the sickness longer than expected
 - Died after becoming isolated and distant
-- Should feel mythic to Leo, but not fully understood by him
+- His true royal identity remained hidden from the village
+- Kept a hidden cache of weapons in his room, unknown to Leo
+- Was seen by Richard as the man who deserved to be King
+- Initially resisted the truth of his identity and what acting on it would cost Leo
+- Is the younger brother of the King
+- Was the only sibling who inherited the ancients gene
+- Grew up believing the King's false rescue narrative
 
 ### Marshe
 
@@ -70,15 +76,6 @@
 - Later driven into rage by the sickness
 - Attempts to attack the town elders during a formal event
 - Is killed by Richard when Richard intervenes
-
-### Leo's father
-
-- Kept a hidden cache of weapons in his room, unknown to Leo
-- Was seen by Richard as the man who deserved to be King
-- Initially resisted the truth of his identity and what acting on it would cost Leo
-- Is the younger brother of the King
-- Was the only sibling who inherited the ancients gene
-- Grew up believing the King's false rescue narrative
 
 ### The King
 

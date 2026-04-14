@@ -79,6 +79,7 @@
 - Leo's father's birth records and royal identity were erased.
 - He was raised as an orphaned commoner the King had supposedly taken in out of kindness.
 - Leo's father grew up believing this lie.
+- That royal identity remained hidden from the village as well.
 - The King later forced a woman to bear him a child because he wanted an heir.
 - The child was Esmeralda.
 - Esmeralda is publicly the King's daughter, but Richard is her biological father.

@@ -22,7 +22,6 @@
 - Contracted the sickness
 - Resisted it longer than expected
 - Became isolated and distant before death
-- Remains mythic to Leo, but not fully understood by him
 - Did not initially want to accept the buried truth of who he was or what that truth would demand of his life
 - Grew up believing the King had rescued him and given him a life of duty and privilege
 - Initially met the truth about his identity with disbelief
@@ -38,7 +37,7 @@
 
 ## Relationships
 
-- Leo: father, model, emotional barrier, source of inheritance
+- Leo: beloved son, close bond before illness, source of inheritance and grief after his decline
 - Richard: trusted him with Leo's future, longtime comrade, close friend, and secret collaborator in a larger cause
 - Marshe's father: former comrade, later violent opponent
 - Mother: family anchor in earlier memories
@@ -49,6 +48,8 @@
 - Secretly observed by Leo while training
 - Defeats Marshe's father in the remembered fight
 - His room remains emotionally off-limits to Leo for now
+- Leo loved him deeply
+- He and Leo were very close before the sickness took hold
 - His sword later passes to Richard and is intended for Leo
 - Kept a hidden cache of weapons in his room
 - The King ordered him, Richard, and Marshe's father to wipe out another exiled village, erase its history, and retrieve the crystal
