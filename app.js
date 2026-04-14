@@ -410,10 +410,10 @@ function renderEntrySections(entry) {
     return;
   }
 
-  entry.sections.forEach((section, index) => {
+  entry.sections.forEach((section) => {
     const wrapper = document.createElement("details");
     wrapper.className = "content-section";
-    wrapper.open = index < 3;
+    wrapper.open = false;
 
     const summary = document.createElement("summary");
     summary.textContent = section.title;
@@ -426,7 +426,7 @@ function renderEntrySections(entry) {
     elements.entryContent.appendChild(wrapper);
   });
 
-  elements.collapseButton.textContent = "Collapse All";
+  elements.collapseButton.textContent = "Expand All";
 }
 
 function renderEntryTbd(entry) {
