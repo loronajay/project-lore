@@ -17,15 +17,18 @@
 - Seen in memory through conflict
 - Later known through the violent event that ends in his death
 
-## Inner reality
+## Backstory motives
 
 - Long carried envy toward Leo's father
 - Believed Leo's father rose to General in the place he deserved
-- Eventually driven into rage by the sickness
-- Acts as an example of how the sickness can turn private danger into public horror
 - Was willing to obey the King's brutal command when Leo's father refused
 - Carried lasting resentment toward Leo's father after the exile event
 - Saw Leo's father's refusal as a choice made by a man with less immediate family risk because Marshe's father already had a wife and young son
+
+## Later public event
+
+- Eventually driven into rage by the sickness
+- Acts as an example of how the sickness can turn private danger into public horror
 
 ## Relationships
 

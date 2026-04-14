@@ -18,7 +18,7 @@
 - Remembered as highly skilled and battle-tested
 - During the sickness, increasingly associated with secrecy, distance, and unease
 
-## Inner reality
+## Present story meaning
 
 - Great father whose deepest attachment in life is Leo
 - Contracted the sickness
@@ -26,6 +26,15 @@
 - Became isolated and distant before death
 - Became mysterious largely because the sickness hollowed out an otherwise warm and social man
 - Never pitied himself as much as he pitied what Leo was losing
+
+## Inner reality
+
+- Deeply father-oriented
+- Kind and respected beneath the harder surface created by illness
+- Would have made a great king in temperament as well as lineage
+
+## Buried history
+
 - Did not initially want to accept the buried truth of who he was or what that truth would demand of his life
 - Grew up believing the King had rescued him and given him a life of duty and privilege
 - Loved the King as a father figure and benefactor
@@ -34,7 +43,6 @@
 - Initially met the truth about his identity with disbelief
 - Feared leaving Leo without a father after Leo's mother was already gone
 - Was the strongest legitimate claimant to the throne under the kingdom's own belief system
-- Would have made a great king in temperament as well as lineage
 
 ## Combat identity
 

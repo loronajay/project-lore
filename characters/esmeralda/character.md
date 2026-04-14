@@ -19,7 +19,7 @@
 - Positioned as the future of the kingdom
 - Surrounded by privilege, attention, and affection
 
-## Inner reality
+## Current reality
 
 - Leo's age
 - Raised by the King after her mother's death
@@ -36,7 +36,6 @@
 - Has many friends her age outside the walls
 - Carries many of Richard's characteristics without knowing why
 - Lives inside a false destiny being built around her
-- Can later weaponize the revised prophecy because she sincerely believes the story built around her
 
 ## Origin
 
@@ -113,7 +112,7 @@
 - That inner circle manufactures supporting doctrine and ancient-text "discoveries" to legitimize her
 - They silence people they suspect are getting too close to the truth
 - He is reshaping prophecy to frame her as the chosen successor
-- Esmeralda sincerely believes the prophetic story being built around her and can later weaponize it against the people
+- She can later weaponize the revised prophecy because she sincerely believes the story built around her
 - He would rather position Esmeralda than raise another child
 - Esmeralda knows nothing about her father's evil acts or hidden plans
 - Richard has loved and quietly watched over Esmeralda from afar for years

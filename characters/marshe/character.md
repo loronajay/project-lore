@@ -19,26 +19,6 @@
 - Comfortable inflicting humiliation
 - Clearly has a personal fixation on Leo that predates the current scene
 
-## Inner reality
-
-- Misunderstood kid shaped by a cruel world he did not choose
-- Carries inherited damage from his father's history
-- Loved his father deeply
-- Was traumatized by losing his mother and being forced into exile
-- Present in both past and present story threads
-- Has a hole in his life created by grief, migration, and inherited shame
-- Redirects frustration about his father and his family's fall onto Leo
-- Connected to family violence even before the later reveal around his father
-- Inherits the consequences of a deeper military and political fracture he does not fully understand
-- Lives inside the social aftershock of the failed mission, exile, sickness, and public shame surrounding the older generation
-
-## Relationships
-
-- Leo: chosen target, humiliation outlet, and future victim
-- Marshe's father: loved father, source of legacy, temper, and inherited identity
-- Leo's father: part of the family conflict Marshe witnessed as a child
-- Richard: feared village outcast tied to his father's death and the older generation's hidden history
-
 ## Current Act 1 function
 
 - Pursues Leo
@@ -48,6 +28,29 @@
 - Uses humiliation, fear, and violence together
 - Participates in harassment at Leo's house later
 - Should first read as a bully with unexplained personal history tied to Leo
+
+## Inner reality
+
+- Misunderstood kid shaped by a cruel world he did not choose
+- Carries inherited damage from his father's history
+- Loved his father deeply
+- Has a hole in his life created by grief, migration, and inherited shame
+- Redirects frustration about his father and his family's fall onto Leo
+- Lives inside the social aftershock of the failed mission, exile, sickness, and public shame surrounding the older generation
+
+## Past and inherited history
+
+- Was traumatized by losing his mother and being forced into exile
+- Present in both past and present story threads
+- Connected to family violence even before the later reveal around his father
+- Inherits the consequences of a deeper military and political fracture he does not fully understand
+
+## Relationships
+
+- Leo: chosen target, humiliation outlet, and future victim
+- Marshe's father: loved father, source of legacy, temper, and inherited identity
+- Leo's father: part of the family conflict Marshe witnessed as a child
+- Richard: feared village outcast tied to his father's death and the older generation's hidden history
 
 ## Locked canon
 

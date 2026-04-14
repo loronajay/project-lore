@@ -17,6 +17,14 @@
 - Seen as weak
 - Associated with his father's household and local reputation
 
+## Current screenplay state
+
+- Recently lost his father
+- Back home after Marshe's attack
+- Failed to imitate his father's style
+- Refused to enter his father's room
+- Realizes only afterward that he lost his mother's jewelry box during the chase
+
 ## Inner reality
 
 - Logical and observant
@@ -28,6 +36,9 @@
 - Carries warmth and nostalgia around those memories rather than clear detail
 - Hungry, ashamed, and under pressure
 - Feels inadequate compared to his father
+
+## Hidden significance
+
 - Carries latent instinct and capability not yet realized
 - Is unknowingly tied to a buried royal bloodline and political history
 - Represents the surviving continuation of the line the King meant to erase
@@ -45,14 +56,6 @@
 
 - Mother's jewelry box, the last surviving piece of her possessions
 - Father's future sword
-
-## Current Act 1 state
-
-- Recently lost his father
-- Back home after Marshe's attack
-- Failed to imitate his father's style
-- Refused to enter his father's room
-- Realizes only afterward that he lost his mother's jewelry box during the chase
 
 ## Locked canon
 

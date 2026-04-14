@@ -6,6 +6,7 @@ It works together with:
 - `story-documents/world-lore.md`
 - `story-documents/political-motives.md`
 - `characters/<name>/character.md`
+- `characters/<name>/summary.md`
 - the root-level GitHub Pages workbench in `index.html`, `styles.css`, and `app.js`
 
 ## Core architecture docs
@@ -23,6 +24,7 @@ It works together with:
 ## Character canon
 
 - Character-specific canon lives under `characters/<name>/character.md`.
+- Character-facing prose summaries live under `characters/<name>/summary.md`.
 - Those files should hold the cleanest per-character breakdown of:
 - status
 - story role
@@ -37,19 +39,21 @@ It works together with:
 
 - The GitHub Pages workbench reads from the current markdown and text files rather than from a separate canon database.
 - `app.js` maps which docs appear as top-level entries in the reader.
+- Character entries can also surface their matching `summary.md` files inside the reader.
 - `TBD` sections in the docs are surfaced automatically in the workbench dashboard.
 - Workbench notes created from the page are currently browser-local and exportable as JSON; they are not canon until merged back into the docs.
 
 ## Workflow
 
 - Update `current-handoff.md` when the active writing position changes.
-- Update `act-1-outline.md` when beat order or pacing changes.
+- Keep `current-handoff.md` and `act-1-outline.md` aligned when the active beat changes.
 - Update `full-story-structure.md` when larger canon placement or reveal logic changes.
 - Update `story-rules.md` when we lock a storytelling constraint, reveal rule, or collaboration norm.
 - Update `world-lore.md` when setting truth changes.
 - Update `political-motives.md` when agendas or political stakes change.
 - Update the relevant `characters/<name>/character.md` file whenever we clarify a character.
-- When touching a character, do a coherence pass across every relevant reference doc so shorthand summaries do not drift.
+- Update the relevant `characters/<name>/summary.md` file when the prose-facing read on that character changes.
+- When touching active-story canon, do a coherence pass across the relevant character, political, and structure docs so shorthand does not drift.
 
 ## Reference prose docs
 

@@ -17,7 +17,13 @@
 - Carefully framed as legitimate, benevolent, and spiritually significant
 - Supported by manipulated records and religious messaging
 
-## Hidden reality
+## Current ruling strategy
+
+- Uses exile as a way to bury dangerous bloodlines and truths
+- Uses reputation poisoning to make politically necessary exiles appear justified
+- Protects his benevolent and spiritually legitimate public image by avoiding the appearance of openly vindictive punishment
+
+## Buried history
 
 - Older brother of Leo's father
 - Not the bearer of the ancients gene
@@ -29,9 +35,6 @@
 - Ordered key historians, priests, and informed witnesses silenced or killed
 - Erased Leo's father's birth record and royal identity
 - Recast Leo's father as an orphaned commoner he had supposedly taken in
-- Uses exile as a way to bury dangerous bloodlines and truths
-- Uses reputation poisoning to make politically necessary exiles appear justified
-- Protects his benevolent and spiritually legitimate public image by avoiding the appearance of openly vindictive punishment
 - Secretly executed nearly the entire squadron after the refused village-destruction mission
 
 ## Religion and control
