@@ -19,7 +19,8 @@
 - The village believes it is under a warlock's curse.
 - That belief is not the same thing as objective truth.
 - The sickness is real, feared, escalating, and tied to hidden violence inside homes.
-- Leo later kills Marshe instinctively and skillfully under a cornered-animal trigger.
+- Leo later kills Marshe, and the event initially reads as an accident to Leo and in the screenplay.
+- Only later is it revealed that, under a cornered-animal trigger, Leo took Marshe down with buried instinctive skill.
 - Leo's father was an exceptionally skilled fighter with a loose, fluid, non-traditional style.
 - Richard functions as a silent protector, not an early warm mentor.
 - The kingdom is ruled by a dictator King who maintains legitimacy through propaganda, altered history, and weaponized religion.
@@ -40,8 +41,11 @@
 
 - Former royal army member
 - Exiled to the village
+- Warm, kind, and deeply father-oriented beneath the mystery around him
+- Respected, outgoing, and helpful in healthier years
 - Resisted the sickness longer than expected
 - Died after becoming isolated and distant
+- During the sickness, became reclusive enough to initially read as harder and more secretive than he truly was
 - His true royal identity remained hidden from the village
 - Kept a hidden cache of weapons in his room, unknown to Leo
 - Was seen by Richard as the man who deserved to be King
@@ -49,11 +53,14 @@
 - Is the younger brother of the King
 - Was the only sibling who inherited the ancients gene
 - Grew up believing the King's false rescue narrative
+- Grew up loyal to the King and grateful to him
 
 ### Marshe
 
-- Bully, aggressive, and socially dominant over Leo
+- Bully who specifically targets Leo
+- Aggressive, older, and socially dominant over Leo
 - Son of Leo's father's former comrade
+- Carries unexplained personal history with Leo that should be felt before it is explained
 - Connected to both family history and future tragedy
 
 ### Richard

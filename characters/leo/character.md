@@ -33,9 +33,9 @@
 
 ## Relationships
 
-- Leo's father: deeply loved, source of grief, inheritance, and emotional pressure
+- Leo's father: deeply loved, source of grief, warmth, inheritance, and hidden mystery
 - Richard: distant protector, not yet openly trusted
-- Marshe: bully, recurring threat, future tragedy
+- Marshe: specific bully, recurring threat, unexplained personal history, future tragedy
 - Marshe's father: part of inherited family conflict
 - Mother: source of tenderness, memory, and emotional grounding
 
@@ -55,7 +55,8 @@
 ## Locked canon
 
 - Leo later kills Marshe
-- He does so instinctively and skillfully
+- Leo remembers it as an accident, and it should initially present that way
+- Only later is it revealed that he acted with instinctive, buried skill
 - The trigger is a cornered-animal response
 - Leo loved his father very much
 - He and his father were very close before the illness

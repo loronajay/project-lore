@@ -49,6 +49,8 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 
 - Raised to believe he was a commoner elevated through the King's kindness
 - Served as a loyal military figure
+- Valued loyalty, family, and neighborliness over ambition
+- Would be easy to mistake for a hard former soldier if only seen late in his life
 
 ### Hidden position
 
@@ -61,11 +63,14 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Initially unable to believe the truth of his own legitimacy
 - Afraid rebellion would leave Leo without a father after Leo's mother was already gone
 - Initially resists accepting the buried truth because acting on it would force him to risk Leo's future and his own life
+- Leo is the greatest joy in his life
+- His loyalty to the King comes from lifelong gratitude and ignorance, which makes the betrayal foundational rather than recent
 
 ### Political meaning
 
 - Living contradiction of the King's legitimacy
 - Suppressed truth embodied in one person
+- The tragedy is not only that the rightful heir was hidden, but that a genuinely good and loyal man was built inside a lie
 
 ## Richard
 

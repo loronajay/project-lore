@@ -79,6 +79,7 @@
 - Leo's father's birth records and royal identity were erased.
 - He was raised as an orphaned commoner the King had supposedly taken in out of kindness.
 - Leo's father grew up believing this lie.
+- He grew up grateful to the King and loyal to him.
 - That royal identity remained hidden from the village as well.
 - The King later forced a woman to bear him a child because he wanted an heir.
 - The child was Esmeralda.
@@ -115,6 +116,7 @@
 
 - Leo's father, Richard, and Marshe's father were high-ranking royal army members.
 - Richard rose to General before Leo's father later replaced him.
+- Leo's father was widely respected and battle-tested before exile.
 - The King ordered their mission to wipe out the other exiled village, erase its history, and retrieve the crystal.
 - Leo's father refused once he understood the truth of the mission.
 - Marshe's father wanted to obey.
@@ -129,6 +131,12 @@
 - Leo's father kept a hidden cache of weapons in his room.
 - Leo did not know that cache existed.
 - Richard sometimes made new weapons for Leo's father to test.
+
+## Personal texture around Leo's father
+
+- In healthier years, Leo's father was outgoing, helpful, and deeply neighborly.
+- In exile, he remained well-liked and generous before the sickness made him reclusive.
+- Leo was the greatest joy in his life.
 
 ## Future-prophecy thread
 

@@ -44,7 +44,7 @@
 - Richard was also a comrade of Leo's father and Marshe's father
 - He was exiled alongside them during the exile event
 - Leo: watches over him because of a promise or duty tied to Leo's father
-- Leo's father: entrusted Richard with responsibility for Leo, longtime comrade, close friend, and fellow architect of a hidden future
+- Leo's father: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
 - Marshe's father: killed him later during a sickness-fueled elder attack
 - Esmeralda: biological daughter, hidden from her, the King, and the public
 - Village: shuns and fears him
@@ -68,6 +68,7 @@
 - Helped convince Leo's father and others to join that cause
 - Abandoned that mission when Leo's father fell ill
 - Was heartbroken when he learned Leo's father had contracted the sickness
+- Knew Leo's father as a warm, highly respected man before the sickness turned him inward
 - Was present during the King's rise
 - Rose through the royal military to the rank of General before Leo's father later replaced him
 - Was part of the mission ordered to wipe out another exiled village, erase its history, and retrieve the crystal
@@ -90,6 +91,7 @@
 - Richard and Leo's father shared many years of battle, friendship, and toil
 - Richard became the one who uncovered enough truth to persuade Leo's father that the rebellion was real and justified
 - Richard was preparing Leo's father for a future rebellion before the sickness ended that path
+- Richard knew Leo was the center of Leo's father's emotional world
 - Richard was present during the King's rise
 - Richard is Esmeralda's biological father
 - The woman chosen to bear the King's child had been a love interest of Richard's after the loss of his wife

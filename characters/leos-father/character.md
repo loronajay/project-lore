@@ -13,20 +13,28 @@
 
 ## Public perception
 
-- Respected or feared by those who knew what he could do
-- Remembered as highly skilled
-- Associated with exile, secrecy, and violence
+- In healthier years, remembered as respected, outgoing, and deeply helpful
+- In exile, known as a good neighbor and devoted father
+- Remembered as highly skilled and battle-tested
+- During the sickness, increasingly associated with secrecy, distance, and unease
 
 ## Inner reality
 
+- Great father whose deepest attachment in life is Leo
 - Contracted the sickness
 - Resisted it longer than expected
 - Became isolated and distant before death
+- Became mysterious largely because the sickness hollowed out an otherwise warm and social man
+- Never pitied himself as much as he pitied what Leo was losing
 - Did not initially want to accept the buried truth of who he was or what that truth would demand of his life
 - Grew up believing the King had rescued him and given him a life of duty and privilege
+- Loved the King as an older brother and father figure
+- Served the King with complete loyalty because he knew nothing of the betrayal beneath his life
+- His betrayal runs all the way back to infancy
 - Initially met the truth about his identity with disbelief
 - Feared leaving Leo without a father after Leo's mother was already gone
 - Was the strongest legitimate claimant to the throne under the kingdom's own belief system
+- Would have made a great king in temperament as well as lineage
 
 ## Combat identity
 
@@ -38,10 +46,10 @@
 ## Relationships
 
 - Leo: beloved son, close bond before illness, source of inheritance and grief after his decline
-- Richard: trusted him with Leo's future, longtime comrade, close friend, and secret collaborator in a larger cause
+- Richard: longtime comrade, close friend, and later secret collaborator in a larger cause
 - Marshe's father: former comrade, later violent opponent
 - Mother: family anchor in earlier memories
-- The King: older brother, false benefactor, and hidden usurper
+- The King: older brother, false benefactor, father-figure bond, and hidden usurper
 
 ## Locked canon
 
@@ -50,8 +58,11 @@
 - His room remains emotionally off-limits to Leo for now
 - Leo loved him deeply
 - He and Leo were very close before the sickness took hold
+- Leo was the greatest joy in his life
 - His sword later passes to Richard and is intended for Leo
 - Kept a hidden cache of weapons in his room
+- In ordinary life he was respected, outgoing, and helpful
+- In exile he was known as neighborly and generous before the sickness isolated him
 - The King ordered him, Richard, and Marshe's father to wipe out another exiled village, erase its history, and retrieve the crystal
 - He refused once he understood the truth of the mission
 - He aborted the mission and returned
@@ -61,6 +72,9 @@
 - Was the only sibling who inherited the ancients gene
 - Was raised under a false identity as an orphaned commoner taken in by the King
 - Grew up not knowing he was the true royal heir
+- Grew up grateful to the King and loyal to him
+- The King had functioned as both brother and father figure in his life
+- Early audience perception should lean toward sick, secretive former soldier before his warmth and gentleness are revealed
 - Eventually accepted the truth and got on board with the rebellion
 
 ## TBD

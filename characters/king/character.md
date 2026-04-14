@@ -64,6 +64,7 @@
 - His authority is sustained by propaganda, altered records, and weaponized religion
 - He is the older brother of Leo's father
 - Leo's father was the only sibling to inherit the ancients gene
+- Leo's father grew up loyal to him and grateful for a false rescue
 - The King took the throne through murder, suppression, and revision of history
 - He forced a woman to bear him a child because he wanted an heir
 - He believes Esmeralda is his daughter

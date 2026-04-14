@@ -30,5 +30,6 @@ Leo is:
 ## Locked future reveal
 
 - Leo kills Marshe later.
-- He does it instinctively and skillfully.
+- Leo remembers it as an accident, and it should initially play that way on the page.
+- Only later is it revealed that he acted with instinctive, buried skill.
 - The trigger is a cornered-animal response.

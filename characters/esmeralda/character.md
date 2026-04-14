@@ -13,6 +13,8 @@
 ## Public perception
 
 - Adored
+- Beautiful
+- Kind
 - Treated as special
 - Positioned as the future of the kingdom
 - Surrounded by privilege, attention, and affection
@@ -26,6 +28,11 @@
 - Believes a fabricated story about how her mother died
 - Knows nothing about her father's evil acts
 - Knows nothing about his hidden plans or political manipulations
+- Smart, adventurous, and a bit of a tomboy
+- Used to luxury but more alive outside the castle than within it
+- Often wanders beyond the castle walls because she has more fun among commoners
+- Has many friends her age outside the walls
+- Carries many of Richard's characteristics without knowing why
 - Lives inside a false destiny being built around her
 
 ## Origin
@@ -65,6 +72,8 @@
 
 - Esmeralda is publicly the King's daughter
 - She is Leo's age
+- She is beautiful and kind
+- She is smart, adventurous, and a bit of a tomboy
 - She was born because the King forcibly sought an heir
 - Her mother was secretly a love interest of Richard's from after the loss of his wife
 - Richard is Esmeralda's biological father
@@ -79,6 +88,10 @@
 - He became genuinely attached to her over time
 - He spoils her heavily
 - Esmeralda feels loved by him
+- She is used to a life of luxury
+- She often wanders outside the castle walls because she prefers the life she finds among commoners
+- She has many friends her age outside the walls
+- She already reflects many of Richard's traits
 - She is adored publicly
 - She is being positioned as heir
 - The King knows she does not carry the ancients gene
@@ -88,8 +101,6 @@
 
 ## TBD
 
-- Her personality in private and in public
-- Whether she is naive, perceptive, devout, proud, lonely, conflicted, or some combination
 - How much she believes the prophecy being built around her
 - Whether anyone besides the King knows the truth about her lack of the ancients gene
 - What her first meaningful connection to Leo will be

@@ -25,7 +25,7 @@
 
 ## Relationships
 
-- Marshe: father
+- Marshe: deeply loved father whose loss and humiliation shape Marshe's later fixation on Leo
 - Leo's father: former comrade, later adversary
 - Richard: the man who kills him while stopping the elder attack
 - Town elders: targets of his later formal-event attack
@@ -43,4 +43,3 @@
 ## TBD
 
 - What he was like before the sickness overtook him
-- Whether Marshe loved, feared, admired, or hated him

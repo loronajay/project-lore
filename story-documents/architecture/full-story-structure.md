@@ -121,14 +121,18 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 - Former royal army member
 - Exiled to the village
+- Respected, outgoing, and helpful in healthier years
+- Deeply loving father whose bond with Leo is unusually strong
 - Contracted the sickness
 - Resisted the illness longer than expected
 - Became isolated and distant before death
+- The contrast between his warm earlier life and his later reclusion is central to Leo's grief
 - Exceptionally skilled fighter with a unique, loose, non-traditional style
 - Younger brother of the King
 - True bearer of the ancients gene
 - Raised under a false commoner identity
 - His true identity remained hidden from the village
+- Grew up grateful to the King and served him with total loyalty before learning the truth
 
 ### Richard
 
@@ -160,9 +164,12 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 ### Marshe
 
-- Bully
+- Specific bully who targets Leo
+- Specifically targets Leo
+- Older and physically dominant over Leo
 - Son of Leo's father's former comrade
-- Has a hostile relationship with Leo
+- Has a hostile relationship with Leo that clearly predates the current story moment
+- Should first read as a rough village bully with personal history we do not yet understand
 
 ### The King
 
@@ -320,7 +327,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 #### Sequence 14: Marshe chase
 
-- Marshe calls out
+- Marshe calls out, making it clear Leo already knows him and fears him
 - Leo runs
 - The chase ends with Leo cornered
 
@@ -329,7 +336,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Marshe asks, "Where do you think you're going?"
 - He approaches slowly
 - He punches Leo in the stomach first
-- Then he continues the beating
+- Then he continues the beating in a measured, personal way
 - A civilian intervenes verbally
 - Marshe leaves
 
@@ -350,6 +357,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 - Leo snaps back to reality
 - Boys, including Marshe, throw rocks at the house
+- The harassment continues the same targeted pressure rather than feeling random
 - Leo hides
 - A woman intervenes and the boys scatter
 
@@ -416,6 +424,9 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Keeps a hidden arsenal even from Leo
 - True heir hidden beneath a manufactured commoner identity
 - Initially disbelieves the truth and fears what rebellion would cost his son
+- Initially reads as a sick, secretive former soldier before his kindness and fatherhood are revealed
+- Leo was the greatest joy in his life
+- Even near death, his pity is directed more toward Leo than toward himself
 
 ### The King
 
@@ -433,9 +444,11 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 ### Marshe
 
-- Bully and aggressor
+- Specific bully and aggressor toward Leo
 - Present in both past and present
-- Early dominance established
+- Early dominance over Leo established
+- Feels like a bully with unexplained history tied to Leo
+- Should also carry pity as a child shaped by a cruel world, without softening the threat too early
 
 ## Locked later reveal
 
@@ -447,7 +460,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Richard secretly continued blacksmithing after exile despite the village weapon ban.
 - He forged weapons for Leo's father to test.
 - He maintained outside contacts and started building toward a rebellion.
-- Richard and Leo's father both knew Leo's father was the man who deserved to be King.
+- Richard eventually persuaded Leo's father that he was the man who deserved to be King.
 - Richard eventually discovered enough truth to persuade Leo's father and others to join the rebellion.
 - Leo's father initially thought Richard was crazy.
 - He resisted at first out of disbelief and fear that Leo would grow up without a father after already losing his mother.
