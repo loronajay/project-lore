@@ -724,15 +724,32 @@ function getActiveEntry() {
 function parseSections(raw) {
   const lines = raw.split(/\r?\n/);
   const sections = [];
+  const headingLevels = lines
+    .map((line) => line.match(/^(#{1,6})\s+(.*)$/))
+    .filter(Boolean)
+    .map((match) => match[1].length);
+  const baseLevel = headingLevels.find((level) => level > 1) || headingLevels[0] || 1;
   let current = { title: "Overview", lines: [] };
 
   lines.forEach((line) => {
     const headerMatch = line.match(/^(#{1,6})\s+(.*)$/);
     if (headerMatch) {
-      if (current.lines.length) {
-        sections.push(current);
+      const level = headerMatch[1].length;
+      const title = headerMatch[2].trim();
+
+      if (level < baseLevel) {
+        return;
       }
-      current = { title: headerMatch[2].trim(), lines: [] };
+
+      if (level === baseLevel) {
+        if (current.lines.length) {
+          sections.push(current);
+        }
+        current = { title, lines: [] };
+        return;
+      }
+
+      current.lines.push(line);
       return;
     }
 
@@ -792,10 +809,22 @@ function renderSectionBody(lines) {
     paragraphBuffer = [];
   };
 
+  const flushHeading = (title) => {
+    flushList();
+    flushParagraph();
+    chunks.push(`<h5>${escapeHtml(title)}</h5>`);
+  };
+
   lines.forEach((line) => {
     if (!line.trim()) {
       flushList();
       flushParagraph();
+      return;
+    }
+
+    const headerMatch = line.match(/^#{3,6}\s+(.*)$/);
+    if (headerMatch) {
+      flushHeading(headerMatch[1].trim());
       return;
     }
 

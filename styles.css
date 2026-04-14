@@ -334,6 +334,11 @@ textarea { resize: vertical; }
 .content-section summary::-webkit-details-marker { display: none; }
 .content-section[open] summary { background: color-mix(in srgb, var(--accent) 10%, transparent); }
 .section-body { padding: 0 18px 18px; }
+.section-body h5 {
+  margin: 16px 0 10px;
+  font-size: 1rem;
+}
+.section-body h5:first-child { margin-top: 0; }
 .section-body ul { margin: 0; padding-left: 20px; line-height: 1.65; }
 .section-body li + li { margin-top: 6px; }
 .section-body p { margin: 0 0 12px; line-height: 1.68; }
