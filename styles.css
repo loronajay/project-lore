@@ -355,6 +355,7 @@ textarea { resize: vertical; }
 
 .note-form { display: grid; gap: 12px; }
 .note-topline { display: flex; justify-content: space-between; gap: 12px; align-items: start; }
+.note-actions { display: flex; flex-wrap: wrap; gap: 8px; }
 .note-body { margin-top: 8px; color: var(--ink); white-space: pre-wrap; }
 .note-tags { margin-top: 12px; }
 .note-tag {
@@ -367,6 +368,14 @@ textarea { resize: vertical; }
 }
 
 .delete-button { padding: 8px 12px; }
+.send-button {
+  padding: 8px 12px;
+  border: none;
+  border-radius: 999px;
+  background: var(--accent);
+  color: var(--accent-strong);
+  cursor: pointer;
+}
 .toolbar { justify-content: end; }
 .file-label { display: inline-flex; align-items: center; padding: 10px 14px; }
 
@@ -411,6 +420,9 @@ button:hover,
     flex-direction: column;
     align-items: start;
   }
+  .note-actions {
+    width: 100%;
+  }
   .section-nav,
   .filter-list,
   .hero-actions,
@@ -419,7 +431,9 @@ button:hover,
   }
   .mode-button,
   .action-button,
-  .ghost-button {
+  .ghost-button,
+  .send-button,
+  .delete-button {
     flex: 1 1 100%;
     text-align: center;
   }

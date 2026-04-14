@@ -27,6 +27,8 @@ const CATEGORY_LABELS = {
   reference: "Reference"
 };
 
+const GITHUB_REPO = "loronajay/project-lore";
+
 const GALLERY_CONFIG = {
   overview: [
     { src: "world-art/castle.jfif", label: "Castle" },
@@ -128,6 +130,7 @@ const elements = {
   collapseButton: document.getElementById("collapseButton"),
   showTbdButton: document.getElementById("showTbdButton"),
   showAllNotesButton: document.getElementById("showAllNotesButton"),
+  sendAllNotesButton: document.getElementById("sendAllNotesButton"),
   exportNotesButton: document.getElementById("exportNotesButton"),
   importNotesInput: document.getElementById("importNotesInput"),
   noteTemplate: document.getElementById("noteTemplate")
@@ -227,6 +230,7 @@ function bindEvents() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   });
 
+  elements.sendAllNotesButton.addEventListener("click", sendAllNotesToGitHub);
   elements.exportNotesButton.addEventListener("click", exportNotes);
   elements.importNotesInput.addEventListener("change", importNotes);
   elements.galleryDialogClose.addEventListener("click", closeGalleryDialog);
@@ -509,6 +513,10 @@ function renderNotes() {
         tagsWrap.appendChild(tagNode);
       });
 
+      node.querySelector(".send-button").addEventListener("click", () => {
+        openGitHubIssueForNotes([note]);
+      });
+
       node.querySelector(".delete-button").addEventListener("click", () => {
         state.notes = state.notes.filter((item) => item.id !== note.id);
         persistNotes();
@@ -573,6 +581,58 @@ function exportNotes() {
   anchor.download = "lore-workbench-notes.json";
   anchor.click();
   URL.revokeObjectURL(url);
+}
+
+function sendAllNotesToGitHub() {
+  if (!state.notes.length) {
+    alert("There are no saved notes to send yet.");
+    return;
+  }
+  openGitHubIssueForNotes(state.notes);
+}
+
+function openGitHubIssueForNotes(notes) {
+  const issue = buildGitHubIssue(notes);
+  const url = new URL(`https://github.com/${GITHUB_REPO}/issues/new`);
+  url.searchParams.set("title", issue.title);
+  url.searchParams.set("body", issue.body);
+  window.open(url.toString(), "_blank", "noopener,noreferrer");
+}
+
+function buildGitHubIssue(notes) {
+  const single = notes.length === 1;
+  const firstNote = notes[0];
+  const firstEntry = state.entries.find((entry) => entry.id === firstNote.entryId);
+
+  const title = single
+    ? `[Workbench] ${firstEntry ? firstEntry.title : "General"} - ${firstNote.title}`
+    : `[Workbench] Mobile note batch (${notes.length})`;
+
+  const body = [
+    "## Workbench Capture",
+    "",
+    "Captured from the GitHub Pages story workbench.",
+    "",
+    ...notes.flatMap((note, index) => {
+      const entry = state.entries.find((item) => item.id === note.entryId);
+      return [
+        `### Note ${index + 1}`,
+        `- Entry: ${entry ? entry.title : note.entryId}`,
+        `- Status: ${statusLabel(note.status)}`,
+        `- Tags: ${note.tags.length ? note.tags.join(", ") : "None"}`,
+        `- Created: ${new Date(note.createdAt).toLocaleString()}`,
+        "",
+        `**${note.title}**`,
+        "",
+        note.body,
+        "",
+        "---",
+        ""
+      ];
+    })
+  ].join("\n");
+
+  return { title, body };
 }
 
 function importNotes(event) {
