@@ -101,6 +101,7 @@
 - Public daughter of the King
 - Leo's age
 - Believes she is loved and protected by her father
+- Has been raised on a revised prophecy that encourages her to see herself as a future savior figure
 - Knows little about her mother and nothing of the King's real crimes
 - Publicly adored
 - Is being positioned as a prophetic successor through manufactured legitimacy

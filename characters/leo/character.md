@@ -24,6 +24,8 @@
 - Grieving both parents
 - Loved his father very much
 - Was very close with his father before the illness
+- Remembers his mother only in soft, fuzzy fragments
+- Carries warmth and nostalgia around those memories rather than clear detail
 - Hungry, ashamed, and under pressure
 - Feels inadequate compared to his father
 - Carries latent instinct and capability not yet realized
@@ -37,11 +39,11 @@
 - Richard: distant protector, not yet openly trusted
 - Marshe: specific bully, recurring threat, unexplained personal history, future tragedy
 - Marshe's father: part of inherited family conflict
-- Mother: source of tenderness, memory, and emotional grounding
+- Mother: source of tenderness, memory, and emotional grounding whose early death left him with only warm fragments of her
 
 ## Important objects
 
-- Mother's jewelry box
+- Mother's jewelry box, the last surviving piece of her possessions
 - Father's future sword
 
 ## Current Act 1 state
@@ -58,6 +60,10 @@
 - Leo remembers it as an accident, and it should initially present that way
 - Only later is it revealed that he acted with instinctive, buried skill
 - The trigger is a cornered-animal response
+- Leo was still young when his mother died from an illness unrelated to the sickness that later took his father
+- His memories of her are fuzzy but warmly nostalgic
+- Leo's father began getting sick not long after the mother's death, but from a different illness
+- The jewelry box is the last piece of his mother's possessions
 - Leo loved his father very much
 - He and his father were very close before the illness
 - He is the hidden continuation of Leo's father's bloodline in exile
@@ -65,5 +71,4 @@
 
 ## TBD
 
-- Specific emotional relationship to mother beyond the jewelry-box memory
 - What kinds of things he notices that others miss

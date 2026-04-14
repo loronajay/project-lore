@@ -26,6 +26,8 @@
 - Feels loved by her father
 - Knows very little about her mother
 - Believes a fabricated story about how her mother died
+- Grew up hearing from the King that a princess would one day save the world from itself
+- Has been quietly shaped to believe that story points to her
 - Knows nothing about her father's evil acts
 - Knows nothing about his hidden plans or political manipulations
 - Smart, adventurous, and a bit of a tomboy
@@ -34,6 +36,7 @@
 - Has many friends her age outside the walls
 - Carries many of Richard's characteristics without knowing why
 - Lives inside a false destiny being built around her
+- Can later weaponize the revised prophecy because she sincerely believes the story built around her
 
 ## Origin
 
@@ -51,6 +54,7 @@
 - Being positioned as the heir
 - Being framed through a revised prophetic narrative as the chosen successor
 - Used by the King as the next vessel of legitimacy
+- Supported by staged doctrinal discoveries and revised ancient texts manufactured around her claim
 
 ## Hidden truth
 
@@ -59,14 +63,18 @@
 - The King does not know this
 - Does not carry the ancients gene
 - The King knows she does not carry it
+- The King's closest priests, historians, and researchers also know the truth about her lack of the ancients gene
 - Her public legitimacy is being manufactured rather than inherited under the kingdom's deeper logic
 - The King chose to amend prophecy around her rather than raise another child
+- That inner circle helps "discover" doctrine and texts to support the revised prophecy
+- People suspected of seeing through the lie are silenced
 
 ## Relationships
 
 - The King: father, source of love, protection, and total deception
 - Mother: almost unknown figure whose real fate has been hidden from her
 - Richard: biological father, unknown to her and unknown to the King
+- Leo: future first meaningful connection, as she later finds him collapsed after Marshe's death
 
 ## Locked canon
 
@@ -88,6 +96,8 @@
 - He became genuinely attached to her over time
 - He spoils her heavily
 - Esmeralda feels loved by him
+- The King told her from childhood a story about a princess who would one day save the world from itself
+- That story was part of how he indoctrinated her into a revised prophecy centered on her
 - She is used to a life of luxury
 - She often wanders outside the castle walls because she prefers the life she finds among commoners
 - She has many friends her age outside the walls
@@ -95,12 +105,15 @@
 - She is adored publicly
 - She is being positioned as heir
 - The King knows she does not carry the ancients gene
+- The King's closest priests, historians, and researchers know she does not carry the ancients gene
+- That inner circle manufactures supporting doctrine and ancient-text "discoveries" to legitimize her
+- They silence people they suspect are getting too close to the truth
 - He is reshaping prophecy to frame her as the chosen successor
+- Esmeralda sincerely believes the prophetic story being built around her and can later weaponize it against the people
 - He would rather position Esmeralda than raise another child
 - Esmeralda knows nothing about her father's evil acts or hidden plans
+- Esmeralda is the person who later finds Leo collapsed after the events of Marshe's death
 
 ## TBD
 
-- How much she believes the prophecy being built around her
-- Whether anyone besides the King knows the truth about her lack of the ancients gene
-- What her first meaningful connection to Leo will be
+- How aware Esmeralda becomes of the violence used to protect her legitimacy before the truth fully breaks open

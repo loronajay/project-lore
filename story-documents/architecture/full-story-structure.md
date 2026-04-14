@@ -59,6 +59,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The future generation prophecy points toward an even stronger figure who will lead the people back to the ancients.
 - The King does not yet know Leo may embody that future fulfillment.
 - The King later believed he fathered Esmeralda while seeking a controllable heir, but she does not carry the ancients gene either.
+- His closest priests, historians, and researchers know that too and help conceal it.
 
 ### The King's rise
 
@@ -79,6 +80,8 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - After Esmeralda's mother tried to escape with her, he had the mother executed.
 - He then raised Esmeralda himself and grew genuinely attached to her over time.
 - Rather than raise another child, he began reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene.
+- He and his inner circle support that revision with staged discoveries of doctrine and ancient texts.
+- He also raises Esmeralda on a story that a princess will one day save the world from itself.
 
 ### The sickness
 
@@ -116,6 +119,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Socially isolated and bullied
 - Recently lost his father
 - Loved his father deeply and had been close with him before the illness
+- Remembers his mother only in warm, blurry fragments because she died when he was still young
 
 ### Leo's father
 
@@ -192,6 +196,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Knows nothing about her father's real crimes or plans
 - Being positioned as the next royal chosen figure despite not carrying the ancients gene
 - Secretly Richard's biological daughter
+- Raised on a prophecy story that primes her to believe she may be the one meant to save the world from itself
 
 ## Key objects
 
@@ -218,6 +223,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 ### Mother's jewelry box
 
 - Deeply personal keepsake tied to Leo's mother
+- The last remaining piece of his mother's possessions
 - Leo refuses to pawn it when desperate
 - Lost during the Marshe chase
 - Realized missing only after Leo returns home, fails at training, and refuses to enter his father's room
@@ -441,6 +447,8 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Loved by the King inside a fabricated father-daughter story
 - Secretly Richard's biological daughter
 - Another hidden fracture in the kingdom's false succession order
+- Raised to sincerely believe the revised prophecy built around her
+- Later becomes the one who finds Leo collapsed after the events of Marshe's death
 
 ### Marshe
 
@@ -478,4 +486,5 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - His researchers were not fully wrong: the crystal is effectively close, but the ancients' language is difficult to transcribe.
 - The King later tried to solve succession by raising Esmeralda as his daughter and chosen successor.
 - He does not know Richard is her biological father.
+- His closest priests, historians, and researchers know Esmeralda lacks the ancients gene and help cover it with staged doctrine.
 - The future-generation prophecy points toward a stronger figure, which may ultimately apply to Leo, though the King does not know that yet.

@@ -40,6 +40,8 @@
 - Suppresses the fact that the true prophesied leader should be able to read the ancients' language at a glance
 - Keeps that fact limited to himself and paid-off researchers because he cannot do it
 - Is reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene
+- Supports that revision with priests, historians, and researchers who stage favorable doctrinal and textual "discoveries"
+- Raised Esmeralda on a future-facing princess story so the revised prophecy would feel natural to her
 
 ## Crystal and larger plan
 
@@ -72,6 +74,9 @@
 - He had Esmeralda's mother executed after she tried to flee with the child
 - He raised Esmeralda himself and became genuinely attached to her
 - He is positioning Esmeralda as a chosen successor through manipulated prophecy even though she does not carry the ancients gene
+- His closest priests, historians, and researchers know Esmeralda does not carry the ancients gene
+- That inner circle helps fabricate supporting doctrine and ancient-text discoveries around her legitimacy
+- He raised Esmeralda on a story about a princess who would one day save the world from itself
 - He later exiled Leo's father, Richard, and Marshe's father after the refused mission
 - He secretly executed everyone else in the squadron
 - He hopes Leo's father's bloodline will die in exile and bury the truth forever

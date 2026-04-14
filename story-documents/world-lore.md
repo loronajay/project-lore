@@ -30,6 +30,8 @@
 - The current King cannot do this.
 - He suppresses that fact.
 - Only the King and his paid-off researchers are confirmed to know this hidden doctrinal detail.
+- The King later expands the prophecy with a future-facing princess story about someone who will save the world from itself.
+- That expansion is not ancient truth but a manufactured reinterpretation built to support Esmeralda.
 
 ## The ancients
 
@@ -94,8 +96,11 @@
 
 - After taking power, the King began a slow campaign to rewrite history and religion.
 - Paid-off historians and priests helped reshape public memory.
+- His closest priests, historians, and researchers "discover" doctrine and ancient texts that support whatever public truth he currently needs.
 - People who knew too much about true lineage, doctrine, or history were silenced or killed.
 - He later adapted the kingdom's prophetic narrative again to position Esmeralda as his chosen successor.
+- That adaptation included raising Esmeralda on a story that a princess would one day save the world from itself.
+- The King's closest inner circle knows Esmeralda does not carry the ancients gene, but keeps that fact tightly controlled.
 
 ## Crystal
 
@@ -145,3 +150,4 @@
 - The King does not yet know Leo may represent that threat.
 - The King is positioning Esmeralda publicly as a chosen future heir through manipulated prophecy.
 - He knows she does not carry the ancients gene.
+- Esmeralda was raised to believe the revised prophecy points to her.

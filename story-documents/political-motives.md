@@ -29,6 +29,8 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Exile as burial of truth
 - Strategic propaganda
 - Dynastic fabrication
+- Childhood indoctrination through curated prophecy
+- Staged doctrinal and textual "discoveries"
 
 ### Current limitation
 
@@ -42,6 +44,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - He was disappointed she was a daughter
 - He no longer wants to raise another child
 - He is now amending prophetic interpretation to position Esmeralda as his chosen successor
+- He raises her on a story that a princess will save the world from itself so the claim feels natural to her
 
 ## Leo's Father
 
@@ -136,6 +139,8 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - At least some are bought off by the King
 - Used to alter history and religious understanding over time
 - Part of the machinery that stabilizes false legitimacy
+- The closest inner circle knowingly supports the lie around Esmeralda's lack of the ancients gene
+- They help produce convenient doctrinal and textual "discoveries" to justify her succession
 
 ### Open question
 
