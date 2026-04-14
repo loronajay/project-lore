@@ -409,7 +409,6 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 ### Leo's father
 
-- Expert weapon user, not weapon maker
 - Secretly prepared by Richard for a greater political future he did not initially want
 - Keeps a hidden arsenal even from Leo
 - True heir hidden beneath a manufactured commoner identity

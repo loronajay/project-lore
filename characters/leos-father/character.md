@@ -16,7 +16,6 @@
 - Respected or feared by those who knew what he could do
 - Remembered as highly skilled
 - Associated with exile, secrecy, and violence
-- Publicly not known as a maker of weapons
 
 ## Inner reality
 
@@ -36,7 +35,6 @@
 - Loose, fluid, non-traditional style
 - Considered the most skilled by those who knew him
 - His movement feels instinctive, refined, and difficult to imitate
-- Expert user and tester of weapons, not their maker
 
 ## Relationships
 
@@ -53,7 +51,6 @@
 - His room remains emotionally off-limits to Leo for now
 - His sword later passes to Richard and is intended for Leo
 - Kept a hidden cache of weapons in his room
-- Did not forge those weapons himself
 - The King ordered him, Richard, and Marshe's father to wipe out another exiled village, erase its history, and retrieve the crystal
 - He refused once he understood the truth of the mission
 - He aborted the mission and returned

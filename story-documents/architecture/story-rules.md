@@ -73,8 +73,6 @@
 
 ### Leo's father
 
-- Did not forge weapons himself
-- Was the expert user and tester of weapons
 - Kept a hidden cache of weapons in his room, unknown to Leo
 - Was seen by Richard as the man who deserved to be King
 - Initially resisted the truth of his identity and what acting on it would cost Leo
@@ -111,5 +109,4 @@
 - Put locked reveals and major canon in durable docs, not only in temporary notes.
 - When changing sequence order, update both the master structure and the fast outline.
 - Keep later revelations marked as later revelations when they are not yet part of the active story surface.
-- Preserve the distinction between weapon makers and weapon users when tracking character lore.
 - Preserve the distinction between public doctrine and hidden doctrine when tracking religion and political legitimacy.
