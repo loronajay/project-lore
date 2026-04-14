@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>LORE Workbench</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <div class="brand-block">
+        <p class="eyebrow">Story Archive</p>
+        <h1>LORE Workbench</h1>
+        <p class="brand-copy">Read canon, trace structure, and capture new story ideas wherever you are.</p>
+      </div>
+
+      <label class="search-wrap" for="searchInput">
+        <span>Search</span>
+        <input id="searchInput" type="search" placeholder="Characters, concepts, sequences...">
+      </label>
+
+      <nav class="section-nav" aria-label="Primary">
+        <button class="mode-button is-active" data-mode="read">Read</button>
+        <button class="mode-button" data-mode="workbench">Workbench</button>
+      </nav>
+
+      <div class="filter-block">
+        <p class="filter-label">Browse</p>
+        <div id="categoryFilters" class="filter-list"></div>
+      </div>
+
+      <div class="nav-block">
+        <div class="nav-head">
+          <p class="filter-label">Entries</p>
+          <button id="collapseButton" class="ghost-button" type="button">Collapse All</button>
+        </div>
+        <div id="entryList" class="entry-list"></div>
+      </div>
+    </aside>
+
+    <main class="main-panel">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">GitHub Pages Story Hub</p>
+          <h2 id="heroTitle">Loading story material...</h2>
+          <p id="heroSubtitle" class="hero-copy">Building a reading and note-taking layer over the current lore docs.</p>
+        </div>
+        <div class="hero-actions">
+          <button id="showTbdButton" class="action-button" type="button">Open Questions</button>
+          <button id="showAllNotesButton" class="action-button secondary" type="button">All Notes</button>
+        </div>
+      </header>
+
+      <section id="readPanel" class="panel is-visible" aria-label="Reader">
+        <div class="content-layout">
+          <article class="reader-card">
+            <div class="reader-meta">
+              <span id="entryCategory" class="meta-pill"></span>
+              <span id="entrySource" class="meta-link"></span>
+            </div>
+            <h3 id="entryTitle"></h3>
+            <p id="entryDescription" class="entry-description"></p>
+            <div id="entryRelated" class="related-links"></div>
+            <div id="entryContent" class="entry-content"></div>
+          </article>
+
+          <aside class="context-column">
+            <section class="context-card">
+              <div class="card-head">
+                <h3>Open Questions</h3>
+                <span id="tbdCount" class="count-badge">0</span>
+              </div>
+              <div id="tbdList" class="mini-list"></div>
+            </section>
+
+            <section class="context-card">
+              <div class="card-head">
+                <h3>Quick Note</h3>
+              </div>
+              <form id="quickNoteForm" class="note-form">
+                <input id="quickNoteTitle" type="text" placeholder="Short note title">
+                <textarea id="quickNoteBody" rows="5" placeholder="Drop in an idea, canon question, scene thought, or fix."></textarea>
+                <div class="inline-fields">
+                  <select id="quickNoteStatus">
+                    <option value="idea">Idea</option>
+                    <option value="exploring">Exploring</option>
+                    <option value="locked">Locked</option>
+                  </select>
+                  <input id="quickNoteTags" type="text" placeholder="tags: prophecy, act2, leo">
+                </div>
+                <button class="action-button" type="submit">Save Note</button>
+              </form>
+            </section>
+          </aside>
+        </div>
+      </section>
+
+      <section id="workbenchPanel" class="panel" aria-label="Workbench">
+        <div class="workbench-layout">
+          <section class="workbench-card">
+            <div class="card-head">
+              <h3>Story Inbox</h3>
+              <p class="card-copy">Capture unfinished ideas without polluting locked canon.</p>
+            </div>
+            <form id="noteForm" class="note-form">
+              <input id="noteTitle" type="text" placeholder="Note title">
+              <textarea id="noteBody" rows="7" placeholder="What are you thinking through? Character angle, worldbuilding gap, reveal idea, emotional note..."></textarea>
+              <div class="inline-fields">
+                <select id="noteEntrySelect"></select>
+                <select id="noteStatus">
+                  <option value="idea">Idea</option>
+                  <option value="exploring">Exploring</option>
+                  <option value="locked">Locked</option>
+                </select>
+              </div>
+              <input id="noteTags" type="text" placeholder="Comma-separated tags">
+              <button class="action-button" type="submit">Add To Workbench</button>
+            </form>
+          </section>
+
+          <section class="workbench-card">
+            <div class="card-head">
+              <h3>Saved Notes</h3>
+              <div class="toolbar">
+                <button id="exportNotesButton" class="ghost-button" type="button">Export</button>
+                <label class="ghost-button file-label" for="importNotesInput">Import</label>
+                <input id="importNotesInput" type="file" accept=".json" hidden>
+              </div>
+            </div>
+            <div id="notesList" class="notes-list"></div>
+          </section>
+
+          <section class="workbench-card">
+            <div class="card-head">
+              <h3>TBD Dashboard</h3>
+              <p class="card-copy">Every currently unresolved bullet surfaced from the source docs.</p>
+            </div>
+            <div id="tbdDashboard" class="notes-list"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <template id="noteTemplate">
+    <article class="note-card">
+      <div class="note-topline">
+        <div>
+          <h4 class="note-title"></h4>
+          <p class="note-meta"></p>
+        </div>
+        <button class="delete-button" type="button">Delete</button>
+      </div>
+      <p class="note-body"></p>
+      <div class="note-tags"></div>
+    </article>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
