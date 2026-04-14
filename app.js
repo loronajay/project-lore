@@ -34,9 +34,10 @@ const GALLERY_CONFIG = {
     { src: "world-art/leo-hometown.jfif", label: "Leo's Hometown" }
   ],
   leo: [
-    { src: "characters/leo/concept-art/teenager/download - 2026-04-13T202304.120.jpeg", label: "Teen Leo" },
-    { src: "characters/leo/concept-art/teenager/download - 2026-04-13T202750.874.jpeg", label: "Teen Leo Variation" },
-    { src: "characters/leo/concept-art/child/download - 2026-04-13T205008.563.jpeg", label: "Child Leo" }
+    { src: "characters/leo/concept-art/child/1.jpeg", label: "Child Leo 1" },
+    { src: "characters/leo/concept-art/child/2.jpeg", label: "Child Leo 2" },
+    { src: "characters/leo/concept-art/teenager/3.jpeg", label: "Teen Leo 3" },
+    { src: "characters/leo/concept-art/teenager/4.jpeg", label: "Teen Leo 4" }
   ],
   "leos-father": [
     { src: "characters/leos-father/concept-art/young/download - 2026-04-13T203447.747.jpeg", label: "Young Leo's Father" },
@@ -58,9 +59,10 @@ const GALLERY_CONFIG = {
     { src: "characters/king/concept-art/old/download - 2026-04-13T204343.603.jpeg", label: "Older King" }
   ],
   esmeralda: [
-    { src: "characters/esmeralda/concept-art/cartoon/6d58dabd-361a-493e-84b8-5829e0360cd0.png", label: "Cartoon Esmeralda" },
-    { src: "characters/esmeralda/concept-art/cartoon/download - 2026-04-13T074442.064.jpeg", label: "Cartoon Variation" },
-    { src: "characters/esmeralda/concept-art/realistic/download - 2026-04-13T074245.604.jpeg", label: "Realistic Esmeralda" }
+    { src: "characters/esmeralda/concept-art/realistic/1.png", label: "Realistic Esmeralda 1" },
+    { src: "characters/esmeralda/concept-art/realistic/2.jpeg", label: "Realistic Esmeralda 2" },
+    { src: "characters/esmeralda/concept-art/cartoon/3.png", label: "Cartoon Esmeralda 3" },
+    { src: "characters/esmeralda/concept-art/cartoon/4.jpeg", label: "Cartoon Esmeralda 4" }
   ],
   "world-lore": [
     { src: "world-art/castle.jfif", label: "Castle" },
@@ -100,6 +102,10 @@ const elements = {
   entryGallerySection: document.getElementById("entryGallerySection"),
   entryGalleryLabel: document.getElementById("entryGalleryLabel"),
   entryGallery: document.getElementById("entryGallery"),
+  galleryDialog: document.getElementById("galleryDialog"),
+  galleryDialogImage: document.getElementById("galleryDialogImage"),
+  galleryDialogCaption: document.getElementById("galleryDialogCaption"),
+  galleryDialogClose: document.getElementById("galleryDialogClose"),
   entryContent: document.getElementById("entryContent"),
   tbdList: document.getElementById("tbdList"),
   tbdCount: document.getElementById("tbdCount"),
@@ -223,6 +229,12 @@ function bindEvents() {
 
   elements.exportNotesButton.addEventListener("click", exportNotes);
   elements.importNotesInput.addEventListener("change", importNotes);
+  elements.galleryDialogClose.addEventListener("click", closeGalleryDialog);
+  elements.galleryDialog.addEventListener("click", (event) => {
+    if (event.target === elements.galleryDialog) {
+      closeGalleryDialog();
+    }
+  });
 }
 
 function render() {
@@ -368,11 +380,27 @@ function renderGallery(entry) {
     const figure = document.createElement("figure");
     figure.className = "gallery-card";
     figure.innerHTML = `
-      <img src="${item.src}" alt="${escapeHtml(item.label)}" loading="lazy">
+      <button class="gallery-button" type="button" aria-label="Expand ${escapeHtml(item.label)}">
+        <img src="${item.src}" alt="${escapeHtml(item.label)}" loading="lazy">
+      </button>
       <figcaption>${escapeHtml(item.label)}</figcaption>
     `;
+    figure.querySelector(".gallery-button").addEventListener("click", () => openGalleryDialog(item));
     elements.entryGallery.appendChild(figure);
   });
+}
+
+function openGalleryDialog(item) {
+  elements.galleryDialogImage.src = item.src;
+  elements.galleryDialogImage.alt = item.label;
+  elements.galleryDialogCaption.textContent = item.label;
+  if (typeof elements.galleryDialog.showModal === "function") {
+    elements.galleryDialog.showModal();
+  }
+}
+
+function closeGalleryDialog() {
+  elements.galleryDialog.close();
 }
 
 function renderEntrySections(entry) {
