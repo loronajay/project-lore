@@ -63,10 +63,10 @@
 - Kept a hidden cache of weapons in his room
 - In ordinary life he was respected, outgoing, and helpful
 - In exile he was known as neighborly and generous before the sickness isolated him
-- The King ordered him, Richard, and Marshe's father to wipe out another exiled village, erase its history, and retrieve the crystal
+- The King ordered him, Marshe's father, and his squadron to wipe out another exiled village, erase its history, and retrieve the crystal
 - He refused once he understood the truth of the mission
 - He aborted the mission and returned
-- The King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father
+- The King exiled the squadron and secretly executed everyone except Leo's father and Marshe's father
 - Was being prepared by Richard for a rebellion intended to claim justice and the throne
 - Initially resisted that path out of disbelief and fear for what it would cost Leo
 - Was the only sibling who inherited the ancients gene
@@ -74,6 +74,7 @@
 - Grew up not knowing he was the true royal heir
 - Grew up grateful to the King and loyal to him
 - The King had functioned as a father figure in his life before the truth came out
+- Leo was born in the exile village after that squadron exile
 - Early audience perception should lean toward sick, secretive former soldier before his warmth and gentleness are revealed
 - Eventually accepted the truth and got on board with the rebellion
 

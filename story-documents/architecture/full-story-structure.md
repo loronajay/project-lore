@@ -44,15 +44,17 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Richard was also one of their comrades.
 - Richard served as one of the King's most useful and risky assets, trusted with many secrets but not the deepest truths of the regime.
 - Marshe's father had long envied Leo's father and believed the later rise to General should have been his.
-- The King ordered their mission to wipe out another exiled village, erase its history, and retrieve the crystal.
+- The King ordered Leo's father, Marshe's father, and Leo's father's squadron to wipe out another exiled village, erase its history, and retrieve the crystal.
 - Leo's father refused once he understood the truth of the order.
 - Marshe's father wanted to obey.
 - Marshe's father already had a wife and young son by then, which shaped how he judged the refusal.
 - He later carried resentment toward Leo's father because he believed Leo's father chose principle from a position with less immediately at stake.
 - Leo's father aborted the mission and returned.
-- The King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father.
+- The King exiled the squadron and secretly executed everyone except Leo's father and Marshe's father.
 - He supported that exile with reputation-poisoning so the fall of such revered soldiers would appear justified rather than suspicious.
 - This also protected his carefully maintained image by keeping the event from reading as openly vindictive rule.
+- Richard was not part of that squadron exile.
+- He was exiled later after the King decided he knew too much and had to be buried politically as well.
 - The exile event is tied to the origin of the curse legend.
 - The exile contract includes a ban on weapons within the village.
 - Royal soldiers occasionally audit the village and search for forbidden weapons.
@@ -90,6 +92,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - After Esmeralda's mother tried to escape with her, he had the mother executed.
 - He then raised Esmeralda himself and grew genuinely attached to her over time.
 - Richard considered fleeing with Esmeralda but understood they would both be killed if the truth surfaced, so he left her alive inside the castle.
+- Shortly after Esmeralda's birth, the King concluded Richard knew too much and exiled him separately.
 - That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
 - Rather than raise another child, he began reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene.
 - He and his inner circle support that revision with staged discoveries, controlled interpretation, and suppression of real material.
@@ -167,6 +170,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic right attached to it
 - Secretly tasked by Leo's father to watch over Leo
 - Maintains distance intentionally to let Leo grow independently
+- Was exiled later than Leo's father rather than as part of the original squadron event
 - Later revealed to have killed Marshe's father to stop an attack on the town elders
 - Shunned by the town because the killing was graphically violent in front of witnesses
 - Secretly forged weapons for Leo's father after exile

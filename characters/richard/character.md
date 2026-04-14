@@ -52,7 +52,7 @@
 ## Relationships
 
 - Richard was also a comrade of Leo's father and Marshe's father
-- He was exiled alongside them during the exile event
+- He was exiled later, not as part of Leo's father's original squadron exile
 - Leo: watches over him because of a promise or duty tied to Leo's father
 - Leo's father: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
 - Marshe's father: killed him later during a sickness-fueled elder attack
@@ -87,8 +87,9 @@
 - Knew Leo's father as a warm, highly respected man before the sickness turned him inward
 - Was present during the King's rise
 - Rose through the royal military to the rank of General before Leo's father later replaced him
-- Was part of the mission ordered to wipe out another exiled village, erase its history, and retrieve the crystal
-- Survived the aftermath when the King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father
+- Was not part of the squadron sent to wipe out another exiled village
+- Was exiled later, after the King decided Richard knew too much and needed to be buried politically as well
+- That later exile came shortly after Esmeralda's birth
 
 ## Important objects
 
@@ -98,7 +99,7 @@
 ## Locked canon
 
 - Richard was part of the same army history as Leo's father and Marshe's father
-- He was exiled with them
+- He was not exiled with them in the original squadron event
 - Richard is not an early warm mentor
 - His help to Leo is indirect
 - He buys Leo's dish
@@ -115,6 +116,8 @@
 - Richard is Esmeralda's biological father
 - Richard knows Esmeralda is his daughter
 - The woman chosen to bear the King's child had been a love interest of Richard's after the loss of his wife
+- Richard remained in royal life long enough after the squadron exile to father Esmeralda
+- The King later exiled Richard separately once he became too politically dangerous to keep close
 - Richard considered running away with Esmeralda but decided she would be safer alive inside the castle than with him in exile
 - He has loved and watched over Esmeralda from afar ever since
 - Esmeralda closely resembles her mother

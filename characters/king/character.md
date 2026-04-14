@@ -79,8 +79,9 @@
 - His closest priests, historians, and researchers know Esmeralda does not carry the ancients gene
 - That inner circle helps fabricate supporting doctrine and ancient-text discoveries around her legitimacy
 - He raised Esmeralda on a story about a princess who would one day save the world from itself
-- He later exiled Leo's father, Richard, and Marshe's father after the refused mission
-- He secretly executed everyone else in the squadron
+- He later exiled Leo's father and Marshe's father after the refused mission
+- He secretly executed everyone else in that squadron
+- He exiled Richard separately later, after deciding Richard knew too much to keep close
 - He hopes Leo's father's bloodline will die in exile and bury the truth forever
 
 ## TBD

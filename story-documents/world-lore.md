@@ -96,6 +96,8 @@
 - When Esmeralda's mother tried to flee with her, the King had the mother executed.
 - He raised Esmeralda himself and became genuinely attached to her over time.
 - Richard considered fleeing with Esmeralda but chose not to because exposure would have gotten them both killed and the castle could keep her safer than exile.
+- Shortly after Esmeralda's birth, the King realized Richard knew too much and had to be buried politically as well.
+- Richard was exiled after that, separately from Leo's father's earlier squadron exile.
 - Richard's silence around Esmeralda is also part of his broader pattern of looking away from dangerous partial truth when he believes exposure would terrify the people without protecting them.
 
 ## Rewriting of truth
@@ -134,15 +136,18 @@
 - He was trusted with many secrets, but not the deepest truths behind the King's rise or Leo's father's hidden identity.
 - Leo's father was widely respected and battle-tested before exile.
 - Marshe's father carried envy toward Leo's father and believed the later rise to General should have been his.
-- The King ordered their mission to wipe out the other exiled village, erase its history, and retrieve the crystal.
+- The King ordered Leo's father, Marshe's father, and Leo's father's squadron to wipe out the other exiled village, erase its history, and retrieve the crystal.
 - Leo's father refused once he understood the truth of the mission.
 - Marshe's father wanted to obey.
 - Marshe's father already had a wife and young son at that point, while Leo's father did not yet have Leo.
 - Marshe's father later resented Leo's father in part because he believed Leo's father's refusal came from a position with less immediate family risk.
 - Leo's father aborted the mission and returned.
-- The King exiled the entire squadron, then secretly executed everyone except Leo's father, Richard, and Marshe's father.
+- The King exiled the entire squadron, then secretly executed everyone except Leo's father and Marshe's father.
 - Malicious rumors were spread to discredit the survivors publicly and make the exile of such revered soldiers seem justified.
 - That reputation-poisoning also protected the King's own image by keeping the event from reading as a cruel public punishment carried out by a supposedly gracious and holy ruler.
+- Richard was not part of that mission or squadron exile.
+- He was exiled later, after the King decided his proximity to too much hidden truth made him dangerous.
+- By that later period, Esmeralda had already been born and Leo was also born in the exile village.
 
 ## Richard's knowledge arc
 
