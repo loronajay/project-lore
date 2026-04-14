@@ -160,7 +160,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Neighbor feared by the village
 - Former royal army member
 - Former comrade of Leo's father and Marshe's father
-- Exiled to the village alongside them
+- Exiled to the village later, after Leo's father and Marshe's father were already buried there through the squadron punishment
 - Publicly lives as a carpenter
 - Secretly works as a blacksmith
 - Rose through the army to General before Leo's father later replaced him
