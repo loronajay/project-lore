@@ -30,14 +30,20 @@
 - Keeps his blacksmithing hidden because weapons are banned in the village
 - Continues practicing in secret despite the risk of audits
 - Carries private losses and attachments that remain invisible beneath his public hardness
+- Knows Esmeralda is his daughter
+- Loves her from afar and quietly watches over her when he can
 
 ## Personal history
 
 - Lost his wife before later falling in love with the woman who became Esmeralda's mother
 - That relationship was broken by the King's coercive claim over her
 - Esmeralda is Richard's biological daughter
+- He knew all along that she was his daughter
+- He considered fleeing with her but understood they would both be killed if the truth surfaced
+- He let her remain in the castle because it offered safety and comfort he could not give her in exile
 - Neither Esmeralda nor the King knows that truth
 - Her public life inside the palace stands in painful contrast to Richard's exile and silence
+- Esmeralda strongly resembles her mother
 
 ## Relationships
 
@@ -46,7 +52,7 @@
 - Leo: watches over him because of a promise or duty tied to Leo's father
 - Leo's father: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
 - Marshe's father: killed him later during a sickness-fueled elder attack
-- Esmeralda: biological daughter, hidden from her, the King, and the public
+- Esmeralda: biological daughter, known to him but hidden from her, the King, and the public
 - Village: shuns and fears him
 
 ## Key event
@@ -94,7 +100,11 @@
 - Richard knew Leo was the center of Leo's father's emotional world
 - Richard was present during the King's rise
 - Richard is Esmeralda's biological father
+- Richard knows Esmeralda is his daughter
 - The woman chosen to bear the King's child had been a love interest of Richard's after the loss of his wife
+- Richard considered running away with Esmeralda but decided she would be safer alive inside the castle than with him in exile
+- He has loved and watched over Esmeralda from afar ever since
+- Esmeralda closely resembles her mother
 - The King does not know Esmeralda is Richard's daughter
 
 ## TBD
@@ -102,6 +112,5 @@
 - Whether Richard feels guilt, resentment, or indifference about being shunned
 - How the formal event is remembered by different townspeople
 - Nature of Richard's outside contacts
-- Details of Richard's family
 - The later flashback where Richard convinces Leo's father to accept the mission
 - How Richard first discovered the truth

@@ -75,10 +75,12 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - He later forced a woman to bear him a child in order to secure an heir.
 - That woman had secretly become a love interest of Richard's after Richard lost his wife.
 - Richard, not the King, is Esmeralda's biological father.
+- Richard knows Esmeralda is his daughter.
 - The King does not know this.
 - When that child, Esmeralda, was born female, he was disappointed.
 - After Esmeralda's mother tried to escape with her, he had the mother executed.
 - He then raised Esmeralda himself and grew genuinely attached to her over time.
+- Richard considered fleeing with Esmeralda but understood they would both be killed if the truth surfaced, so he left her alive inside the castle.
 - Rather than raise another child, he began reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene.
 - He and his inner circle support that revision with staged discoveries of doctrine and ancient texts.
 - He also raises Esmeralda on a story that a princess will one day save the world from itself.
@@ -157,6 +159,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Intended that rebellion to deliver justice and place Leo's father on the throne
 - Abandoned that mission when Leo's father fell ill
 - Secretly Esmeralda's biological father, though neither the King nor Esmeralda knows it
+- Knows Esmeralda is his daughter and protects her from afar
 
 ### Marshe's father
 
@@ -196,6 +199,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Knows nothing about her father's real crimes or plans
 - Being positioned as the next royal chosen figure despite not carrying the ancients gene
 - Secretly Richard's biological daughter
+- Richard knows the truth even though she does not
 - Raised on a prophecy story that primes her to believe she may be the one meant to save the world from itself
 
 ## Key objects
@@ -423,6 +427,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - One of the few people with partial access to the deeper royal truth
 - The man who eventually convinced Leo's father to accept that truth
 - Secret fatherhood and private loss deepen his connection to the kingdom's stolen lineage
+- Loves Esmeralda from afar and accepts distance as the price of keeping her alive
 
 ### Leo's father
 
@@ -485,6 +490,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The King launched the later mission after suspecting another exiled village of rebellion and possible crystal proximity.
 - His researchers were not fully wrong: the crystal is effectively close, but the ancients' language is difficult to transcribe.
 - The King later tried to solve succession by raising Esmeralda as his daughter and chosen successor.
+- Richard knew Esmeralda was his daughter and chose not to expose that truth because it would have gotten them both killed.
 - He does not know Richard is her biological father.
 - His closest priests, historians, and researchers know Esmeralda lacks the ancients gene and help cover it with staged doctrine.
 - The future-generation prophecy points toward a stronger figure, which may ultimately apply to Leo, though the King does not know that yet.

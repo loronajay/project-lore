@@ -59,6 +59,7 @@
 ## Hidden truth
 
 - Richard is Esmeralda's biological father
+- Richard knows she is his daughter
 - The King is not
 - The King does not know this
 - Does not carry the ancients gene
@@ -73,7 +74,7 @@
 
 - The King: father, source of love, protection, and total deception
 - Mother: almost unknown figure whose real fate has been hidden from her
-- Richard: biological father, unknown to her and unknown to the King
+- Richard: biological father, known to him but unknown to her and unknown to the King
 - Leo: future first meaningful connection, as she later finds him collapsed after Marshe's death
 
 ## Locked canon
@@ -85,6 +86,7 @@
 - She was born because the King forcibly sought an heir
 - Her mother was secretly a love interest of Richard's from after the loss of his wife
 - Richard is Esmeralda's biological father
+- Richard knows Esmeralda is his daughter
 - The King does not know Richard is Esmeralda's biological father
 - Her mother was chosen for beauty, not love
 - The King was disappointed she was born female
@@ -102,6 +104,7 @@
 - She often wanders outside the castle walls because she prefers the life she finds among commoners
 - She has many friends her age outside the walls
 - She already reflects many of Richard's traits
+- She closely resembles her mother
 - She is adored publicly
 - She is being positioned as heir
 - The King knows she does not carry the ancients gene
@@ -112,6 +115,7 @@
 - Esmeralda sincerely believes the prophetic story being built around her and can later weaponize it against the people
 - He would rather position Esmeralda than raise another child
 - Esmeralda knows nothing about her father's evil acts or hidden plans
+- Richard has loved and quietly watched over Esmeralda from afar for years
 - Esmeralda is the person who later finds Leo collapsed after the events of Marshe's death
 
 ## TBD

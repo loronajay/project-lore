@@ -86,11 +86,13 @@
 - The King later forced a woman to bear him a child because he wanted an heir.
 - The child was Esmeralda.
 - Esmeralda is publicly the King's daughter, but Richard is her biological father.
+- Richard knows Esmeralda is his daughter.
 - The King does not know this.
 - Esmeralda's mother had secretly been a love interest of Richard's after Richard lost his wife.
 - He was disappointed she was a daughter.
 - When Esmeralda's mother tried to flee with her, the King had the mother executed.
 - He raised Esmeralda himself and became genuinely attached to her over time.
+- Richard considered fleeing with Esmeralda but chose not to because exposure would have gotten them both killed and the castle could keep her safer than exile.
 
 ## Rewriting of truth
 
@@ -136,6 +138,7 @@
 - Leo's father kept a hidden cache of weapons in his room.
 - Leo did not know that cache existed.
 - Richard sometimes made new weapons for Leo's father to test.
+- Richard quietly watches over Esmeralda from afar when he can, despite having no public claim on her life.
 
 ## Personal texture around Leo's father
 
