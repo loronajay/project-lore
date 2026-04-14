@@ -67,6 +67,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Initially unable to believe the truth of his own legitimacy
 - Afraid rebellion would leave Leo without a father after Leo's mother was already gone
 - Initially resists accepting the buried truth because acting on it would force him to risk Leo's future and his own life
+- Eventually accepts the truth and agrees to a rebellion, but only after resistance, disbelief, and fear
 - Leo is the greatest joy in his life
 - His loyalty to the King comes from lifelong gratitude and ignorance, which makes the betrayal foundational rather than recent
 
@@ -89,7 +90,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Preserve hidden martial capacity in the village
 - Support the lost political future centered on Leo's father
 - Continue acting in line with friendship, duty, and unfinished justice
-- Convince Leo's father to face the truth of who he is and what that truth demands
+- Carry forward the burden of a truth Leo's father eventually accepted too late
 - Protect the people of the kingdom even when that means carrying private moral compromise
 
 ### Past political role
@@ -152,7 +153,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 
 ### Future political role
 
-- Likely true fulfillment of the stronger future prophecy
+- Possible true fulfillment of the stronger future prophecy
 - Potential collapse point for the King's fabricated legitimacy
 
 ## Historians and priests
@@ -167,18 +168,23 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Used to alter history and religious understanding over time
 - Part of the machinery that stabilizes false legitimacy
 - The closest inner circle knowingly supports the lie around Esmeralda's lack of the ancients gene
+- That same inner circle knows the suppressed doctrinal marker around reading the ancients' language at a glance
+- They are allowed to work from real material while everyone else is fed curated "discoveries"
 - They help produce convenient doctrinal and textual "discoveries" to justify her succession
 
 ### Open question
 
-- Whether the wider religious institution is complicit, fractured, or deceived remains unresolved
+- The wider religious institution is still composed mostly of people being deceived rather than fully complicit
+- That margin is narrowing over time as the King consolidates control
+- Priests and historians who go against the King's narrative are silenced, executed, or exiled
 
 ## Researchers
 
 ### Role
 
 - Help the King investigate the crystal and ancient material
-- Know at least some hidden doctrinal truths the public does not
+- Only a selected inner circle of them knows the hidden doctrinal truths the public does not
+- One such researcher can plausibly serve as a hidden contact in Richard's resistance network while publicly feigning ignorance
 
 ### Importance
 

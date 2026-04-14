@@ -29,7 +29,10 @@
 - A suppressed doctrinal truth says the real prophesied figure should be able to read the ancients' language at a glance.
 - The current King cannot do this.
 - He suppresses that fact.
-- Only the King and his paid-off researchers are confirmed to know this hidden doctrinal detail.
+- Before the current King, priests alone were permitted to study the surviving ancient material directly.
+- Over time, the King broadened controlled access to selected researchers and historians, then later cycled priests out of direct access altogether.
+- Now only the King and his dedicated propaganda team are allowed to handle the real material directly.
+- Only that tight inner circle knows the hidden doctrinal marker about reading the ancients' language at a glance.
 - The King later expands the prophecy with a future-facing princess story about someone who will save the world from itself.
 - That expansion is not ancient truth but a manufactured reinterpretation built to support Esmeralda.
 
@@ -99,11 +102,13 @@
 
 - After taking power, the King began a slow campaign to rewrite history and religion.
 - Paid-off historians and priests helped reshape public memory.
-- His closest priests, historians, and researchers "discover" doctrine and ancient texts that support whatever public truth he currently needs.
+- As his control hardened, he cycled out priests and historians who became dangerous to his plan.
+- His closest inner circle uses suppression, staged interpretation, and convenient "discoveries" to support whatever public truth he currently needs.
+- Most of the broader religious and scholarly institution is still being deceived rather than fully let in on the lie, though that margin is narrowing as control hardens.
 - People who knew too much about true lineage, doctrine, or history were silenced or killed.
+- Priests and historians who openly resisted the King's narrative were silenced, executed, or exiled.
 - He later adapted the kingdom's prophetic narrative again to position Esmeralda as his chosen successor.
-- That adaptation included raising Esmeralda on a story that a princess would one day save the world from itself.
-- The King's closest inner circle knows Esmeralda does not carry the ancients gene, but keeps that fact tightly controlled.
+- That same tight inner circle knows Esmeralda does not carry the ancients gene, but keeps that fact tightly controlled.
 - Richard noticed some of this doctrinal drift during his years of service, but did not yet understand the full system behind it.
 
 ## Crystal
@@ -142,12 +147,15 @@
 ## Richard's knowledge arc
 
 - Richard knew some of the King's wrongdoing before exile, but not the full architecture of the regime.
+- He served for decades in close proximity to the King and saw enough violence, suppression, and concealment to know the regime was morally rotten in ways the public did not see.
 - He did not know how the King achieved his status.
 - He did not know the King's true relationship to Leo's father during his years of service.
 - He did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic promise attached to it.
+- He noticed suppression around knowledge, doctrine, and records even before he understood the full theft behind it.
 - He stayed silent about some of what he noticed because he believed premature exposure would bring panic and fear to the people without protecting them.
 - Later he connected doctrinal drift, hidden legitimacy, and the crystal into a fuller understanding.
 - That is when he began planning rebellion with the goal of putting Leo's father in his rightful place on the throne.
+- Leo's father eventually accepted that cause, but the sickness cut the path short before it could become open action.
 
 ## Weapons and hidden resistance
 
@@ -167,7 +175,7 @@
 ## Future-prophecy thread
 
 - The religion contains a future-facing idea that a stronger figure will arise in a coming generation.
-- Leo is the likely true fulfillment of that future line, though this is not publicly known.
+- Leo may be the true fulfillment of that future line, though this is not publicly known.
 - The King does not yet know Leo may represent that threat.
 - The King is positioning Esmeralda publicly as a chosen future heir through manipulated prophecy.
 - He knows she does not carry the ancients gene.

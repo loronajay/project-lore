@@ -13,99 +13,79 @@
 - Preserve the feeling of isolation, deterioration, and quiet social pressure.
 - Favor perception-versus-reality tension over explicit exposition.
 - Let the world feel superstitious without making the story itself gullible.
+- Keep political and religious corruption embedded in lived experience rather than delivered as abstract lore speeches.
 
-## Canon guardrails
+## Reveal and canon-handling rules
 
-- The village believes it is under a warlock's curse.
-- That belief is not the same thing as objective truth.
-- The sickness is real, feared, escalating, and tied to hidden violence inside homes.
-- Leo later kills Marshe, and the event initially reads as an accident to Leo and in the screenplay.
-- Only later is it revealed that, under a cornered-animal trigger, Leo took Marshe down with buried instinctive skill.
-- Leo's father was an exceptionally skilled fighter with a loose, fluid, non-traditional style.
-- Richard functions as a silent protector, not an early warm mentor.
-- The kingdom is ruled by a dictator King who maintains legitimacy through propaganda, altered history, and weaponized religion.
-- The religion is built on partial truth, not pure fabrication.
+- Preserve the distinction between public belief and hidden truth.
+- Preserve the distinction between public doctrine and hidden doctrine.
+- Keep the village's warlock-curse belief as sincere public interpretation, not objective confirmed fact.
+- Treat the sickness as real, feared, escalating, and tied to hidden violence inside homes.
+- Keep the kingdom's religion rooted in partial truth rather than pure fabrication.
+- Keep the King's legitimacy system dependent on propaganda, altered records, and weaponized religion.
+- Keep the doctrine-access model intact: only the King and his tight propaganda inner circle know the suppressed doctrinal truth directly, while the broader institution is managed through curated findings.
+- Keep Esmeralda's manufactured legitimacy tied to that same controlled doctrine system.
+- Keep later revelations marked as later revelations when they are not yet part of the active story surface.
+- Leo later kills Marshe, and the event must initially read as an accident to Leo and in the screenplay.
+- Only later should it be revealed that Leo acted with buried instinctive skill under a cornered-animal trigger.
 
 ## Character usage rules
 
 ### Leo
 
-- Logical and observant
-- Rejects superstition
-- Socially isolated and bullied
-- Recently lost his father
-- Loved his father very much and had been close with him before the illness
-- Carries grief, hunger, shame, and suppressed inheritance
+- Play Leo as logical, observant, and resistant to superstition.
+- Keep him socially isolated, pressured, and ashamed without flattening him into passivity.
+- Let grief, hunger, and inadequacy shape his behavior before hidden inheritance does.
+- Keep his buried lineage and prophetic significance out of his conscious understanding in active story material.
+- When writing Leo around his father, emphasize love, loss, and reverence before political meaning.
 
 ### Leo's father
 
-- Former royal army member
-- Exiled to the village
-- Warm, kind, and deeply father-oriented beneath the mystery around him
-- Respected, outgoing, and helpful in healthier years
-- Resisted the sickness longer than expected
-- Died after becoming isolated and distant
-- During the sickness, became reclusive enough to initially read as harder and more secretive than he truly was
-- His true royal identity remained hidden from the village
-- Kept a hidden cache of weapons in his room, unknown to Leo
-- Was seen by Richard as the man who deserved to be King
-- Initially resisted the truth of his identity and what acting on it would cost Leo
-- Is the younger brother of the King
-- Was the only sibling who inherited the ancients gene
-- Grew up believing the King's false rescue narrative
-- Grew up loyal to the King and grateful to him
+- Present Leo's father first through absence, memory, illness, and mystery before the buried royal truth is surfaced.
+- Keep the contrast between his warm earlier self and his later reclusive sickness state central to Leo's grief.
+- Preserve him as deeply father-oriented, kind, and respected beneath the harder surface created by illness.
+- Treat his fighting style as exceptional, loose, fluid, and difficult to imitate.
+- Do not surface his true royal identity to the village or to Leo too early.
+- Preserve the rebellion arc as reluctance first, then eventual acceptance, then collapse through sickness.
 
 ### Marshe
 
-- Bully who specifically targets Leo
-- Aggressive, older, and socially dominant over Leo
-- Son of Leo's father's former comrade
-- Carries unexplained personal history with Leo that should be felt before it is explained
-- Connected to both family history and future tragedy
+- Use Marshe as a specific, personal pressure on Leo rather than as generic village menace.
+- Let his hostility feel older than the current scene before its history is explained.
+- Keep him threatening early, but leave room for later pity once the inherited damage becomes clear.
 
 ### Richard
 
-- Feared by the village
-- Former royal army comrade of Leo's father and Marshe's father
-- Exiled alongside them
-- Publicly lives as a carpenter
-- Secretly works as a blacksmith because weapons are banned in the village
-- Rose to General before Leo's father later replaced him
-- Secretly tasked with watching over Leo
-- Helps indirectly and keeps emotional distance on purpose
-- Later revealed to have killed Marshe's father while stopping an attack on the elders
-- Feared and shunned because the town fixates on the gore of the act rather than the lives he saved
-- Maintains hidden ties to a lost political mission centered on Leo's father
+- Play Richard as a silent protector, not an early warm mentor.
+- Keep his help indirect, practical, and emotionally restrained.
+- Preserve his public identity as feared carpenter and his hidden identity as blacksmith.
+- Treat his history with the King as proximity to corruption without full early comprehension of the regime.
+- Keep his silence morally compromised rather than noble or indifferent.
+- Preserve his later shunning as a result of public horror at the killing of Marshe's father.
+- Keep his connection to Esmeralda hidden in active story material until the story is ready to carry that reveal.
 
 ### Marshe's father
 
-- Former royal army member
-- Later driven into rage by the sickness
-- Attempts to attack the town elders during a formal event
-- Is killed by Richard when Richard intervenes
+- Use Marshe's father mainly as backstory pressure and later public-horror payoff.
+- Preserve his role as the figure who turns the sickness from private dread into communal spectacle.
+- Keep his resentment toward Leo's father tied to family-risk grievance as well as envy.
 
 ### The King
 
-- Older brother of Leo's father
-- Took power through murder, suppression, and historical revision
-- Positioned himself as the prophesied ruler
-- Suppresses the hidden doctrinal fact that the true figure must be able to read the ancients' language at a glance
-- Does not yet know Leo may represent the future stronger fulfillment of prophecy
-- Is repositioning Esmeralda as a chosen successor through manipulated prophecy despite her lack of the ancients gene
+- Keep the King primarily as an offscreen ruling force unless a scene truly needs his presence.
+- Present him as composed, persuasive, and system-building rather than cartoonishly monstrous.
+- Preserve the gap between his benevolent public image and his hidden violence.
+- Keep his rule tied to suppression, revision, and controlled interpretation rather than blunt terror alone.
+- Preserve his inability to fulfill the hidden doctrinal marker.
+- Keep Leo's future significance outside the King's understanding for now.
 
 ### Esmeralda
 
-- Not introduced yet
-- Do not build current story beats around her yet
-- Safe to ignore in active planning until explicitly brought in
-- Public daughter of the King
-- Leo's age
-- Believes she is loved and protected by her father
-- Has been raised on a revised prophecy that encourages her to see herself as a future savior figure
-- Knows little about her mother and nothing of the King's real crimes
-- Publicly adored
-- Is being positioned as a prophetic successor through manufactured legitimacy
-- Is secretly Richard's biological daughter
+- Do not build current story beats around Esmeralda until the story reaches the point where she matters on the page.
+- Safe to leave her in background canon during active early-story planning.
+- When she is used later, preserve her as sincere inside a fabricated destiny rather than cynically knowing.
+- Keep her as publicly adored, genuinely loved by the King in a morally corrupted way, and structurally tied to manufactured succession.
+- Keep her parentage reveal and her connection to Richard out of active-story handling until deliberately unlocked.
 
 ## Collaboration rules for agents
 
@@ -113,5 +93,5 @@
 - Keep `current-handoff.md` narrowly focused on the active story position.
 - Put locked reveals and major canon in durable docs, not only in temporary notes.
 - When changing sequence order, update both the master structure and the fast outline.
-- Keep later revelations marked as later revelations when they are not yet part of the active story surface.
-- Preserve the distinction between public doctrine and hidden doctrine when tracking religion and political legitimacy.
+- When changing a rule here, make sure the relevant canon docs still support it cleanly.
+- Do not turn this file back into a duplicate character or lore encyclopedia.

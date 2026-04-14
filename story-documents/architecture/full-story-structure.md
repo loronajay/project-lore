@@ -34,7 +34,9 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - It also teaches that in each generation a modern ancient will arise to rule the kingdom.
 - Hidden doctrine states that the true prophesied figure should be able to read the ancients' language at a glance.
 - That doctrine is suppressed by the King because he cannot do it.
-- Only the King and his paid-off researchers are confirmed to know that hidden fact.
+- Direct access to ancient material is tightly controlled.
+- Only the King and a small propaganda inner circle of selected researchers, priests, and historians know the hidden doctrinal truth.
+- Most of the broader religious and scholarly institution is fed curated "findings" rather than real source material.
 
 ### Backstory: army exile event
 
@@ -62,10 +64,10 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Late in life, they had one more child: Leo's father.
 - Leo's father was confirmed to be the bearer of the ancients gene.
 - This made him the strongest legitimate claimant to the throne under the kingdom's belief system.
-- The future generation prophecy points toward an even stronger figure who will lead the people back to the ancients.
-- The King does not yet know Leo may embody that future fulfillment.
-- The King later believed he fathered Esmeralda while seeking a controllable heir, but she does not carry the ancients gene either.
-- His closest priests, historians, and researchers know that too and help conceal it.
+- A future-generation prophecy points toward an even stronger figure who will lead the people back to the ancients.
+- Leo may eventually embody that future fulfillment, though this is not publicly known and the King does not yet understand the threat.
+- The King later tried to solve succession through Esmeralda, even though she does not carry the ancients gene.
+- The same tight inner circle that knows the hidden doctrine also knows her legitimacy must be manufactured.
 
 ### The King's rise
 
@@ -74,8 +76,8 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Leo's father survived as an infant.
 - The King chose not to kill him because the ancients gene might later prove useful in relation to the crystal.
 - After taking power, the King began a slow initiative to rewrite history and religion.
-- He used paid-off historians and priests to reshape public truth over time.
-- Richard noticed some of the doctrinal and political distortion during his service years, but did not yet understand the full system behind it.
+- He used paid-off historians and priests to reshape public truth over time, later narrowing real access to a trusted propaganda team.
+- Richard noticed doctrinal distortion, suppression, and concealed violence during his years of service, but did not yet understand the full system behind it.
 - He killed or silenced people who knew too much about the real history, religion, or Leo's father's birth.
 - He erased records of Leo's father's royal identity.
 - He reintroduced Leo's father as an orphaned commoner whom he had supposedly taken in out of kindness.
@@ -90,7 +92,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Richard considered fleeing with Esmeralda but understood they would both be killed if the truth surfaced, so he left her alive inside the castle.
 - That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
 - Rather than raise another child, he began reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene.
-- He and his inner circle support that revision with staged discoveries of doctrine and ancient texts.
+- He and his inner circle support that revision with staged discoveries, controlled interpretation, and suppression of real material.
 - He also raises Esmeralda on a story that a princess will one day save the world from itself.
 
 ### The sickness
@@ -130,6 +132,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Recently lost his father
 - Loved his father deeply and had been close with him before the illness
 - Remembers his mother only in warm, blurry fragments because she died when he was still young
+- Structurally, he carries the survival plot, the inheritance plot, and the buried-lineage reveal without knowing any of that yet
 
 ### Leo's father
 
@@ -147,6 +150,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Raised under a false commoner identity
 - His true identity remained hidden from the village
 - Grew up grateful to the King and served him with total loyalty before learning the truth
+- Structurally, he is the absent emotional center of the story and the buried political truth the film reveals gradually
 
 ### Richard
 
@@ -166,11 +170,9 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Later revealed to have killed Marshe's father to stop an attack on the town elders
 - Shunned by the town because the killing was graphically violent in front of witnesses
 - Secretly forged weapons for Leo's father after exile
-- Maintained outside contacts and began planning a rebellion
+- Maintained outside contacts and became the practical bridge between buried truth and possible rebellion
 - Stayed silent about some of what he had noticed because he believed exposure would panic the people without protecting them
-- Eventually discovered enough of the hidden truth to convince Leo's father the rebellion was real and justified
-- Intended that rebellion to deliver justice and place Leo's father on the throne
-- Abandoned that mission when Leo's father fell ill
+- Structurally, he operates as a protector, a delayed truth-carrier, and the living cost of compromised resistance
 - Secretly Esmeralda's biological father, though neither the King nor Esmeralda knows it
 - Knows Esmeralda is his daughter and protects her from afar
 
@@ -181,6 +183,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Later driven into a sickness-fueled rage
 - Attempts to attack the town elders during a formal event
 - Killed by Richard when Richard acts quickly to stop him
+- Structurally, he turns the sickness from private dread into public horror and locks in the village's distorted view of Richard
 
 ### Marshe
 
@@ -190,6 +193,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Son of Leo's father's former comrade
 - Has a hostile relationship with Leo that clearly predates the current story moment
 - Should first read as a rough village bully with personal history we do not yet understand
+- Structurally, he is the bridge between everyday humiliation and later lethal tragedy
 
 ### The King
 
@@ -201,6 +205,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Hopes Leo's father's bloodline will die in exile and bury the truth forever
 - Public father of Esmeralda
 - Publicly positioning Esmeralda as his chosen successor through revised prophecy
+- Structurally, he is the offscreen force that ties together exile, false legitimacy, prophetic fraud, and the lost rebellion
 
 ### Esmeralda
 
@@ -215,6 +220,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Richard knows the truth even though she does not
 - Richard's distance from her is shaped both by fear for her safety and by the same larger moral compromise that once kept him silent about pieces of the King's corruption
 - Raised on a prophecy story that primes her to believe she may be the one meant to save the world from itself
+- Structurally, she matters more as a later succession fracture than as an active Act 1 driver
 
 ## Key objects
 
@@ -437,9 +443,8 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Shunned after killing Marshe's father to stop an elder attack
 - Remembered by the town for the gore of the act more than the lives he saved
 - Public carpenter, secret blacksmith
-- Hidden architect of a rebellion that died when Leo's father fell ill
-- One of the few people with partial access to the deeper royal truth
-- The man who eventually convinced Leo's father to accept that truth
+- Carries the remains of a rebellion that died when Leo's father fell ill
+- Holds fragments of deeper truth that cannot yet be spoken cleanly
 - A man who once accepted silence as the lesser harm and later has to live with the cost of that choice
 - Secret fatherhood and private loss deepen his connection to the kingdom's stolen lineage
 - Loves Esmeralda from afar and accepts distance as the price of keeping her alive
@@ -486,27 +491,11 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The elders are saved.
 - The gore of the killing horrifies the townspeople.
 - Richard is shunned for the spectacle instead of being rewarded for saving the elders.
-- Richard secretly continued blacksmithing after exile despite the village weapon ban.
-- He forged weapons for Leo's father to test.
-- He maintained outside contacts and started building toward a rebellion.
-- Richard eventually persuaded Leo's father that he was the man who deserved to be King.
-- Richard eventually discovered enough truth to persuade Leo's father and others to join the rebellion.
-- Leo's father initially thought Richard was crazy.
-- He resisted at first out of disbelief and fear that Leo would grow up without a father after already losing his mother.
-- Over time, the truth started to track for him and he accepted his fate.
-- The rebellion mission was abandoned when Leo's father contracted the sickness.
-- The King is Leo's father's older brother.
-- Leo's father was the only sibling who carried the ancients gene.
-- The King murdered or arranged the deaths of family members to seize power.
-- Leo's father was spared as a potentially useful gene-bearer and raised under a false identity.
-- The King slowly rewrote religion and history with help from paid-off historians and priests.
-- Hidden doctrine says the true prophesied figure can read the ancients' language at a glance.
-- The King suppresses that fact because he cannot do it.
-- Only the King and his paid-off researchers are confirmed to know that hidden doctrinal detail.
-- The King launched the later mission after suspecting another exiled village of rebellion and possible crystal proximity.
-- His researchers were not fully wrong: the crystal is effectively close, but the ancients' language is difficult to transcribe.
-- The King later tried to solve succession by raising Esmeralda as his daughter and chosen successor.
-- Richard knew Esmeralda was his daughter and chose not to expose that truth because it would have gotten them both killed.
-- He does not know Richard is her biological father.
-- His closest priests, historians, and researchers know Esmeralda lacks the ancients gene and help cover it with staged doctrine.
-- The future-generation prophecy points toward a stronger figure, which may ultimately apply to Leo, though the King does not know that yet.
+- Richard secretly continued blacksmithing after exile despite the village weapon ban and forged weapons for Leo's father to test.
+- He maintained outside contacts and began building toward a rebellion around Leo's father's legitimacy.
+- Richard eventually uncovered enough truth to persuade Leo's father, who resisted at first out of disbelief and fear for Leo, then eventually accepted the cause.
+- That rebellion died when Leo's father contracted the sickness.
+- The deeper royal reveal is that the King is Leo's father's older brother, stole the throne through murder and revision, and raised the true heir under a false commoner identity.
+- The deeper doctrinal reveal is that the King cannot fulfill the suppressed marker of legitimacy, and only his tight propaganda inner circle knows the truth while the broader institution is fed curated findings.
+- The deeper succession reveal is that Esmeralda is not the King's biological child, does not carry the ancients gene, and is being used as a manufactured answer to the same legitimacy crisis.
+- The longer-range prophecy reveal is that Leo may represent the stronger future fulfillment the King does not yet recognize.
