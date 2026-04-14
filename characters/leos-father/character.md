@@ -28,7 +28,7 @@
 - Never pitied himself as much as he pitied what Leo was losing
 - Did not initially want to accept the buried truth of who he was or what that truth would demand of his life
 - Grew up believing the King had rescued him and given him a life of duty and privilege
-- Loved the King as an older brother and father figure
+- Loved the King as a father figure and benefactor
 - Served the King with complete loyalty because he knew nothing of the betrayal beneath his life
 - His betrayal runs all the way back to infancy
 - Initially met the truth about his identity with disbelief
@@ -49,7 +49,7 @@
 - Richard: longtime comrade, close friend, and later secret collaborator in a larger cause
 - Marshe's father: former comrade, later violent opponent
 - Mother: family anchor in earlier memories
-- The King: older brother, false benefactor, father-figure bond, and hidden usurper
+- The King: hidden older brother, false benefactor, father-figure bond, and hidden usurper
 
 ## Locked canon
 
@@ -73,7 +73,7 @@
 - Was raised under a false identity as an orphaned commoner taken in by the King
 - Grew up not knowing he was the true royal heir
 - Grew up grateful to the King and loyal to him
-- The King had functioned as both brother and father figure in his life
+- The King had functioned as a father figure in his life before the truth came out
 - Early audience perception should lean toward sick, secretive former soldier before his warmth and gentleness are revealed
 - Eventually accepted the truth and got on board with the rebellion
 

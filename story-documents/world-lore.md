@@ -124,9 +124,12 @@
 - Leo's father, Richard, and Marshe's father were high-ranking royal army members.
 - Richard rose to General before Leo's father later replaced him.
 - Leo's father was widely respected and battle-tested before exile.
+- Marshe's father carried envy toward Leo's father and believed the later rise to General should have been his.
 - The King ordered their mission to wipe out the other exiled village, erase its history, and retrieve the crystal.
 - Leo's father refused once he understood the truth of the mission.
 - Marshe's father wanted to obey.
+- Marshe's father already had a wife and young son at that point, while Leo's father did not yet have Leo.
+- Marshe's father later resented Leo's father in part because he believed Leo's refusal came from a position with less immediate family risk.
 - Leo's father aborted the mission and returned.
 - The King exiled the entire squadron, then secretly executed everyone except Leo's father, Richard, and Marshe's father.
 - Malicious rumors were spread to discredit the survivors publicly.

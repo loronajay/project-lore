@@ -110,6 +110,15 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 
 - Represents obedience to corrupt command
 - Serves as the military foil to Leo's father during the mission refusal
+- Resents Leo's father for making the refusal from what he sees as a less costly personal position
+
+### Personal motive
+
+- Long carried envy toward Leo's father
+- Believed the rise to General should have been his
+- Already had a wife and young son when the massacre order came
+- Viewed exile through the lens of what Leo's refusal cost his family specifically
+- Carried that grievance throughout exile
 
 ### Later symbolic role
 

@@ -40,9 +40,12 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 - Leo's father and Marshe's father were members of the royal army.
 - Richard was also one of their comrades.
+- Marshe's father had long envied Leo's father and believed the later rise to General should have been his.
 - The King ordered their mission to wipe out another exiled village, erase its history, and retrieve the crystal.
 - Leo's father refused once he understood the truth of the order.
 - Marshe's father wanted to obey.
+- Marshe's father already had a wife and young son by then, which shaped how he judged the refusal.
+- He later carried resentment toward Leo's father because he believed Leo's father chose principle from a position with less immediately at stake.
 - Leo's father aborted the mission and returned.
 - The King exiled the squadron and secretly executed everyone except Leo's father, Richard, and Marshe's father.
 - The exile event is tied to the origin of the curse legend.
