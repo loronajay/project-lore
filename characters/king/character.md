@@ -27,7 +27,10 @@
 
 - Older brother of Leo's father
 - Not the bearer of the ancients gene
-- Was psychologically manipulated over time by spies from the opposing kingdom
+- The rival kingdom was the splintered continuation of an older shared kingdom
+- The king of that rival realm was his uncle
+- The modern interstate rivalry sat on top of a much older family fracture between brothers
+- Was psychologically manipulated over time by spies from that splinter kingdom
 - Was convinced he had been lied to about the ancients gene and was destined to find the crystal
 - Seized power by arranging the deaths of his parents and siblings
 - Moved before Leo's father's confirmed gene status could spread outward in a form the public could absorb
@@ -55,6 +58,7 @@
 
 - Has spent decades researching the crystal
 - Believes the crystal is tied to awakening or reaching the ancients
+- His crystal obsession is entangled with both personal legitimacy panic and the pressure exerted by the rival branch of the family line
 - Launched a mission against another exiled village after suspecting both rebellion and crystal proximity
 - Acts strategically over time, but can become impulsively violent when fear and opportunity align
 
@@ -75,6 +79,7 @@
 - He is the older brother of Leo's father
 - Public knowledge about gene-bearing status was delayed and curated rather than cleanly shared
 - Leo's father was internally confirmed as the true bearer in his generation
+- The opposing kingdom was ruled by his uncle and descended from an older brother-conflict that split one kingdom into two
 - The opposing kingdom placed spies near the future King and helped radicalize his grievance and sense of destiny
 - Leo's father grew up loyal to him and grateful for a false rescue
 - The King took the throne through murder, suppression, and revision of history

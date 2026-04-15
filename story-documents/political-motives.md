@@ -196,16 +196,39 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 
 ### Known motive
 
+- Is ruled by the uncle of the king on Leo's side
+- Comes from an older kingdom that split in two after a long conflict between brothers
 - Also seeks the crystal
 - Secretly sabotaged the rival kingdom from within for decades rather than relying on open war
 - Placed spies near the future King and helped radicalize his sense of grievance, destiny, and entitlement
 - Wanted to use the kingdom's own prophecy, lineage rules, and internal fractures to gain access to the crystal first
 - Hoped Leo's father's survival might eventually make ancient material readable enough to lead them to the crystal
+- Is ruled by a king who made a bargain with the ancient hostile force in exchange for the crystal
+- Uses that ruler's restored youth as part of its current strategy and political viability
 
 ### Open political question
 
 - Whether it is morally different from the current kingdom remains unresolved
-- It is acting under pressure from an even more powerful force that wants the ancients' history wiped from the world
+- It is acting under pressure from the same ancient hostile force that wants the ancients' history wiped from the world
+
+## Ancient hostile force
+
+### Known motive
+
+- Wants the ancients' history erased from the world
+- Wants the crystal obtained through compromised human intermediaries
+- Uses personal bargains rather than broad direct rule because it is too weakened for larger domination
+
+### Known method
+
+- Corrupts ambitious or desperate rulers
+- Grants selective supernatural benefit to bind those rulers more tightly
+- Works through hidden pressure rather than open conquest
+
+### Known bargain
+
+- Restored the opposing kingdom's king to apparent youth before the crystal was secured
+- Did so to incentivize obedience and strengthen his capacity to carry out the plan
 
 ## Core political conflict
 

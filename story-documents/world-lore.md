@@ -44,6 +44,13 @@
 - That language is difficult to transcribe and interpret.
 - This creates a gap between proximity to truth and ability to recognize it.
 
+## Ancient hostile force
+
+- A former foe of the ancients still exists in a weakened state.
+- It can no longer dominate large parts of the world directly.
+- It now works mainly through influence over individuals, bargains, and selective corruption.
+- It wants the ancients' history wiped from the world.
+
 ## The ancients gene
 
 - The ancients gene is real.
@@ -76,6 +83,13 @@
 - The kingdom is ruled by a dictator King with a carefully managed positive public image.
 - His authority is maintained through propaganda, altered records, and weaponized religion.
 - Much of the public trusts him because the evidence supporting his legitimacy appears documented and credible.
+
+## Split kingdom history
+
+- The present rival kingdoms were once part of a single older kingdom.
+- A long conflict between brothers eventually split that older kingdom into two realms.
+- The king of the opposing kingdom is the uncle of the king on Leo's side.
+- The current interstate rivalry sits on top of that older dynastic fracture.
 
 ## Hidden royal history
 
@@ -125,8 +139,12 @@
 - It is connected to awakening or reaching the ancients.
 - The King has spent decades researching it.
 - An opposing kingdom is also seeking it.
+- That kingdom is not wholly foreign in origin, but the splintered continuation of an older shared royal history.
 - That opposing kingdom had already spent decades studying this kingdom's religion, succession logic, and weak points in order to reach the crystal without needing open war.
 - Its long sabotage campaign helped shape the King's rise from inside the castle.
+- The opposing kingdom is acting under pressure from the same weakened hostile force that wants the ancients erased.
+- The ruler of that kingdom has made a bargain with the force in exchange for the crystal.
+- That ruler is truly old, but was granted restored youth early so he could better prepare to seize it.
 - The crystal is effectively closer than the King's side realizes, but interpretation failures prevent them from locating it cleanly.
 
 ## Other exiled village

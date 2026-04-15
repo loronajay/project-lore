@@ -18,6 +18,15 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - His authority is sustained by propaganda, manipulated historical records, and weaponized religion.
 - Much of the public accepts his legitimacy because the supporting evidence has been fabricated, altered, or selectively preserved.
 
+### Opposing kingdom pressure
+
+- The opposing kingdom is ruled by the uncle of the king on Leo's side.
+- The two present kingdoms were once one older kingdom before a long brother-conflict split them apart.
+- The opposing kingdom is acting under pressure from the ancient hostile force.
+- Its king made a bargain to deliver the crystal in exchange for restored youth.
+- He is actually quite old, but now appears as a strong young nobleman because the bargain paid out early.
+- That restored youth gives him the bodily strength and political advantage to pursue the crystal more aggressively.
+
 ### Village context
 
 - Populated primarily by exiled individuals or their descendants
@@ -37,6 +46,13 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Direct access to ancient material is tightly controlled.
 - Only the King and a small propaganda inner circle of selected researchers, priests, and historians know the hidden doctrinal truth.
 - Most of the broader religious and scholarly institution is fed curated "findings" rather than real source material.
+
+### Ancient hostile force
+
+- A former foe of the ancients still exists in a weakened state.
+- It can no longer dominate large parts of the world directly.
+- It now works through individuals, bargains, and targeted corruption.
+- It wants the ancients' history erased from the world.
 
 ### Backstory: army exile event
 
@@ -252,7 +268,9 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Connected to awakening or reaching the ancients
 - Sought by the King for decades
 - Also sought by an opposing kingdom
+- That opposing kingdom is the splintered continuation of an older shared kingdom rather than a wholly separate outside state
 - The opposing kingdom has spent decades studying this kingdom's religion and history in order to intercept the crystal without a major war
+- The hostile force is using the crystal struggle as one of its remaining paths back into meaningful influence
 
 ### Mother's jewelry box
 
