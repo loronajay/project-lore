@@ -47,9 +47,11 @@
 ## The ancients gene
 
 - The ancients gene is real.
-- Leo's father's generation was tested or understood closely enough to determine who did and did not carry it.
-- The King and his many siblings were all confirmed not to be the bearer.
-- Leo's father, born late, was the only sibling confirmed to carry it.
+- Knowledge about gene-bearing status was kept extremely close to the castle rather than broadly shared with the public.
+- Internal royal and scholarly circles tracked the question more closely than ordinary people ever did.
+- Public understanding lagged behind private discovery and was only updated when the crown could make new information politically digestible.
+- The older children of the royal family had not emerged as confirmed bearers.
+- Leo's father, born late, was internally confirmed to carry the gene.
 - This made him the strongest legitimate claimant to the throne under the kingdom's own belief system.
 
 ## The sickness
@@ -78,9 +80,13 @@
 ## Hidden royal history
 
 - The King is the older brother of Leo's father.
-- After learning he would not be the true heir, he arranged the deaths of his parents and siblings.
+- Foreign spies from the opposing kingdom had infiltrated positions close enough to the future King to poison his thinking over time.
+- They convinced him he had been lied to about the ancients gene, that he was the true bearer, and that he was destined to find the crystal.
+- After Leo's father was internally confirmed as a real gene-bearer, the future King moved quickly before that discovery could spread outward.
+- He arranged the deaths of his parents and siblings.
 - Leo's father survived as an infant.
-- The King spared him because the ancients gene might later be useful, especially in connection to the crystal.
+- Around the same time, a deeper doctrinal truth surfaced inside the castle: the stronger prophesied figure should be able to read the ancients' language at a glance.
+- The King spared Leo's father because the baby's confirmed gene status and possible future value around ancient translation made him too useful to kill, especially in connection to the crystal.
 - Leo's father's birth records and royal identity were erased.
 - He was raised as an orphaned commoner the King had supposedly taken in out of kindness.
 - Leo's father grew up believing this lie.
@@ -119,6 +125,8 @@
 - It is connected to awakening or reaching the ancients.
 - The King has spent decades researching it.
 - An opposing kingdom is also seeking it.
+- That opposing kingdom had already spent decades studying this kingdom's religion, succession logic, and weak points in order to reach the crystal without needing open war.
+- Its long sabotage campaign helped shape the King's rise from inside the castle.
 - The crystal is effectively closer than the King's side realizes, but interpretation failures prevent them from locating it cleanly.
 
 ## Other exiled village

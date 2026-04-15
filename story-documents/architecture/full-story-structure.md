@@ -62,9 +62,11 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 ### Hidden royal lineage
 
 - The King is the older brother of Leo's father.
-- Their parents had many children who were all confirmed not to carry the ancients gene.
-- Late in life, they had one more child: Leo's father.
-- Leo's father was confirmed to be the bearer of the ancients gene.
+- Public knowledge about which royal children carried the ancients gene was never cleanly settled outside the castle.
+- Inside the castle, gene-bearing status was tracked much more closely than the public understood.
+- The older children had not emerged as confirmed bearers.
+- Late in life, their parents had one more child: Leo's father.
+- Leo's father was internally confirmed to be the bearer of the ancients gene.
 - This made him the strongest legitimate claimant to the throne under the kingdom's belief system.
 - A future-generation prophecy points toward an even stronger figure who will lead the people back to the ancients.
 - Leo may eventually embody that future fulfillment, though this is not publicly known and the King does not yet understand the threat.
@@ -73,10 +75,13 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 ### The King's rise
 
-- Once the King understood he would not be the true heir, he hatched a plan to seize power.
+- The opposing kingdom had placed spies close enough to the future King to manipulate him over many years.
+- They convinced him he had been lied to about the ancients gene and that he was destined to find the crystal.
+- Once Leo's father was internally confirmed as the true bearer, the future King moved to seize power before that knowledge could spread outward.
 - He arranged for his parents and siblings to be killed.
 - Leo's father survived as an infant.
-- The King chose not to kill him because the ancients gene might later prove useful in relation to the crystal.
+- A deeper doctrinal discovery inside the castle suggested the stronger prophesied figure should be able to read the ancients' language at a glance.
+- The King chose not to kill Leo's father because the child might later prove useful in relation to the crystal and ancient translation.
 - After taking power, the King began a slow initiative to rewrite history and religion.
 - He used paid-off historians and priests to reshape public truth over time, later narrowing real access to a trusted propaganda team.
 - Richard noticed doctrinal distortion, suppression, and concealed violence during his years of service, but did not yet understand the full system behind it.
@@ -247,6 +252,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Connected to awakening or reaching the ancients
 - Sought by the King for decades
 - Also sought by an opposing kingdom
+- The opposing kingdom has spent decades studying this kingdom's religion and history in order to intercept the crystal without a major war
 
 ### Mother's jewelry box
 

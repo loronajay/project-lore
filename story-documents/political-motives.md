@@ -25,6 +25,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Murder
 - Historical revision
 - Paid religious and scholarly cooperation
+- Delayed release of sensitive truths until they can be absorbed through controlled public narrative
 - Selective suppression and execution
 - Exile as burial of truth
 - Strategic propaganda
@@ -196,10 +197,15 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 ### Known motive
 
 - Also seeks the crystal
+- Secretly sabotaged the rival kingdom from within for decades rather than relying on open war
+- Placed spies near the future King and helped radicalize his sense of grievance, destiny, and entitlement
+- Wanted to use the kingdom's own prophecy, lineage rules, and internal fractures to gain access to the crystal first
+- Hoped Leo's father's survival might eventually make ancient material readable enough to lead them to the crystal
 
 ### Open political question
 
 - Whether it is morally different from the current kingdom remains unresolved
+- It is acting under pressure from an even more powerful force that wants the ancients' history wiped from the world
 
 ## Core political conflict
 
