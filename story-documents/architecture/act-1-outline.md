@@ -29,3 +29,11 @@
 21. Father training flashback
 22. Reflection at father's door, but he refuses to enter
 23. Leo realizes he dropped his mother's jewelry box during the Marshe chase
+24. Leo runs out to retrace his steps and avoids the alley at first
+25. He gives up, then forces himself to search the alley
+26. He finds the jewelry box kicked aside, but the jewelry is gone
+27. Leo keeps the empty box and heads back by a different route to avoid Marshe
+28. He notices a strange patch of heat near a house
+29. He peeks inside and discovers a hidden working space with an unfinished sword
+30. Marshe approaches, so Leo slips inside to hide
+31. Richard catches him there

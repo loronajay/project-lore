@@ -5,23 +5,25 @@
 Leo is:
 
 - Injured
-- Back home
-- After the failed training attempt and reflection at his father's door
-- Realizing the jewelry box is missing
-- Understanding he must have dropped it during the Marshe chase
-- Feeling the emotional impact of losing the one item from his mother he refused to sell
+- After retracing his steps for the missing jewelry box
+- Carrying the box again, but with the jewelry gone
+- On a different route home after avoiding the square and Marshe
+- Inside Richard's house after slipping in to hide from Marshe and the other boys
+- Suddenly face to face with Richard
 
 ## Immediate next beat
 
-- Leo realizes the jewelry box is gone after the failed training attempt and after refusing to enter his father's room.
-- He understands he dropped it during the Marshe chase.
-- The loss should land as deeply personal, not merely practical.
+- Leo has just been caught inside Richard's house.
+- The reveal matters because Leo has discovered both the hidden heat source and an unfinished forbidden sword.
+- Richard should remain controlled, practical, and emotionally restrained rather than turning warm or openly explanatory too early.
+- The box's recovery is partial relief only: the mother's keepsake survives, but the practical value is gone.
 
 ## Why the jewelry box matters
 
 - It belonged to Leo's mother.
 - He specifically refused to pawn it earlier.
-- Its loss intensifies grief, not just desperation.
+- Recovering the box preserves the last surviving piece of his mother.
+- The missing jewelry still sharpens Leo's material desperation and leaves him with nothing to offer Richard.
 
 ## Official timeline note
 
