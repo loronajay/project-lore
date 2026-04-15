@@ -77,7 +77,7 @@
 - The King exiled the squadron and secretly executed everyone except Leo's father and Marshe's father
 - Was being prepared by Richard for a rebellion intended to claim justice and the throne
 - Initially resisted that path out of disbelief and fear for what it would cost Leo
-- Was the only sibling who inherited the ancients gene
+- Was internally confirmed as the true gene-bearer in his generation
 - Was raised under a false identity as an orphaned commoner taken in by the King
 - Grew up not knowing he was the true royal heir
 - Grew up grateful to the King and loyal to him

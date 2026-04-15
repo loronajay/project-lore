@@ -27,8 +27,11 @@
 
 - Older brother of Leo's father
 - Not the bearer of the ancients gene
+- Was psychologically manipulated over time by spies from the opposing kingdom
+- Was convinced he had been lied to about the ancients gene and was destined to find the crystal
 - Seized power by arranging the deaths of his parents and siblings
-- Spared Leo's father because the gene made him potentially useful
+- Moved before Leo's father's confirmed gene status could spread outward in a form the public could absorb
+- Spared Leo's father because the child's confirmed status and possible value in reading ancient material made him potentially useful
 - Later believed he had fathered a daughter, Esmeralda, while trying to secure an heir
 - Does not know Richard is Esmeralda's biological father
 - Slowly rewrote history and religion after taking the throne
@@ -70,9 +73,12 @@
 - The King is a dictator with a carefully maintained positive public image
 - His authority is sustained by propaganda, altered records, and weaponized religion
 - He is the older brother of Leo's father
-- Leo's father was the only sibling to inherit the ancients gene
+- Public knowledge about gene-bearing status was delayed and curated rather than cleanly shared
+- Leo's father was internally confirmed as the true bearer in his generation
+- The opposing kingdom placed spies near the future King and helped radicalize his grievance and sense of destiny
 - Leo's father grew up loyal to him and grateful for a false rescue
 - The King took the throne through murder, suppression, and revision of history
+- A deeper doctrinal truth about reading the ancients' language at a glance helped make Leo's father too useful to kill
 - He forced a woman to bear him a child because he wanted an heir
 - He believes Esmeralda is his daughter
 - He does not know Richard is Esmeralda's biological father
