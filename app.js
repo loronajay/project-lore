@@ -14,7 +14,7 @@ const ENTRY_CONFIG = [
   { id: "full-structure", title: "Full Story Structure", category: "structure", description: "Master architecture doc for backstory, sequences, reveals, and core placements.", source: "story-documents/architecture/full-story-structure.md", related: ["act-1-outline", "current-handoff", "story-version-lore"] },
   { id: "act-1-outline", title: "Act 1 Outline", category: "structure", description: "Fast sequence outline for current screenplay progression.", source: "story-documents/architecture/act-1-outline.md", related: ["full-structure", "current-handoff", "leo"] },
   { id: "current-handoff", title: "Current Handoff", category: "structure", description: "Where the active story currently is and what reveal handling must stay locked.", source: "story-documents/architecture/current-handoff.md", related: ["act-1-outline", "story-rules", "full-structure"] },
-  { id: "story-version-lore", title: "Story Version of Lore", category: "reference", description: "Prose-facing story material and remembered beats in screenplay language.", source: "story-documents/architecture/Story Version of Lore - Fresh Draft.txt", related: ["full-structure", "act-1-outline", "leo", "leos-father"] },
+  { id: "story-version-lore", title: "Story Version of Lore", category: "reference", description: "Prose-facing story material and remembered beats in screenplay language.", source: "story-documents/architecture/screenplay-prosev1.txt", related: ["full-structure", "act-1-outline", "leo", "leos-father"] },
   { id: "kingdom-lore", title: "Story Version of Kingdom Lore", category: "reference", description: "Narrative explanation of the kingdom's theft, doctrine, and succession fracture.", source: "story-documents/architecture/Story Version of Kingdom Lore - Fresh Draft.txt", related: ["world-lore", "political-motives", "king", "leos-father"] }
 ];
 
@@ -39,8 +39,8 @@ const GALLERY_CONFIG = {
   leo: [
     { src: "characters/leo/concept-art/child/1.jpeg", label: "Child Leo 1" },
     { src: "characters/leo/concept-art/child/2.jpeg", label: "Child Leo 2" },
-    { src: "characters/leo/concept-art/teenager/3.jpeg", label: "Teen Leo 3" },
-    { src: "characters/leo/concept-art/teenager/4.jpeg", label: "Teen Leo 4" }
+    { src: "characters/leo/concept-art/teenager/3.jpeg", label: "Leo 18 - 1" },
+    { src: "characters/leo/concept-art/teenager/4.jpeg", label: "Leo 18 - 2" }
   ],
   "leos-father": [
     { src: "characters/leos-father/concept-art/young/download - 2026-04-13T203447.747.jpeg", label: "Young Leo's Father" },
@@ -62,10 +62,10 @@ const GALLERY_CONFIG = {
     { src: "characters/king/concept-art/old/download - 2026-04-13T204343.603.jpeg", label: "Older King" }
   ],
   esmeralda: [
-    { src: "characters/esmeralda/concept-art/realistic/1.png", label: "Realistic Esmeralda 1" },
-    { src: "characters/esmeralda/concept-art/realistic/2.jpeg", label: "Realistic Esmeralda 2" },
-    { src: "characters/esmeralda/concept-art/cartoon/3.png", label: "Cartoon Esmeralda 3" },
-    { src: "characters/esmeralda/concept-art/cartoon/4.jpeg", label: "Cartoon Esmeralda 4" }
+    { src: "characters/esmeralda/concept-art/realistic/1.png", label: "Esmeralda 18 - Realistic 1" },
+    { src: "characters/esmeralda/concept-art/realistic/2.jpeg", label: "Esmeralda 18 - Realistic 2" },
+    { src: "characters/esmeralda/concept-art/cartoon/3.png", label: "Esmeralda 18 - Anime 1" },
+    { src: "characters/esmeralda/concept-art/cartoon/4.jpeg", label: "Esmeralda 18 - Anime 2" }
   ],
   "world-lore": [
     { src: "world-art/castle.jfif", label: "Castle" },
