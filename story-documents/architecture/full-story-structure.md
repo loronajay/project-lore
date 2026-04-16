@@ -6,19 +6,23 @@
 - Format: Movie
 - Genre: Grounded fantasy adventure
 
-## World and lore
+---
 
-### World overview
+## Part 1: Lore and Canon
+
+### World and setting
+
+#### World overview
 
 A medieval kingdom contains an isolated village on its outskirts. The village functions as a place of exile for people cast out from the kingdom.
 
-### Kingdom rule
+#### Kingdom rule
 
 - The kingdom is ruled by a dictator King with a carefully maintained positive public image.
 - His authority is sustained by propaganda, manipulated historical records, and weaponized religion.
 - Much of the public accepts his legitimacy because the supporting evidence has been fabricated, altered, or selectively preserved.
 
-### Opposing kingdom pressure
+#### Opposing kingdom pressure
 
 - The opposing kingdom is ruled by the uncle of the king on Leo's side.
 - The two present kingdoms were once one older kingdom before a long brother-conflict split them apart.
@@ -27,13 +31,13 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - He is actually quite old, but now appears as a strong young nobleman because the bargain paid out early.
 - That restored youth gives him the bodily strength and political advantage to pursue the crystal more aggressively.
 
-### Village context
+#### Village context
 
 - Populated primarily by exiled individuals or their descendants
 - Geographically and socially isolated from the kingdom
 - Self-sustaining but deteriorating
 
-### Core belief system
+#### Core belief system
 
 - The population is highly religious and superstitious.
 - A widely accepted belief holds that the village is under a warlock's curse.
@@ -47,14 +51,14 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Only the King and a small propaganda inner circle of selected researchers, priests, and historians know the hidden doctrinal truth.
 - Most of the broader religious and scholarly institution is fed curated "findings" rather than real source material.
 
-### Ancient hostile force
+#### Ancient hostile force
 
 - A former foe of the ancients still exists in a weakened state.
 - It can no longer dominate large parts of the world directly.
 - It now works through individuals, bargains, and targeted corruption.
 - It wants the ancients' history erased from the world.
 
-### Backstory: army exile event
+#### Backstory: army exile event
 
 - Leo's father and Marshe's father were members of the royal army.
 - Richard was also one of their comrades.
@@ -69,12 +73,12 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The King exiled the squadron and secretly executed everyone except Leo's father and Marshe's father.
 - He supported that exile with reputation-poisoning so the fall of such revered soldiers would appear justified rather than suspicious.
 - This also protected his carefully maintained image by keeping the event from reading as openly vindictive rule.
-- He was exiled later after the King decided he knew too much and had to be buried politically as well.
+- Richard was exiled later after the King decided he knew too much and had to be buried politically as well.
 - The exile event is tied to the origin of the curse legend.
 - The exile contract includes a ban on weapons within the village.
 - Royal soldiers occasionally audit the village and search for forbidden weapons.
 
-### Hidden royal lineage
+#### Hidden royal lineage
 
 - The King is the older brother of Leo's father.
 - Public knowledge about which royal children carried the ancients gene was never cleanly settled outside the castle.
@@ -88,7 +92,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The King later tried to solve succession through Esmeralda, even though she does not carry the ancients gene.
 - The same tight inner circle that knows the hidden doctrine also knows her legitimacy must be manufactured.
 
-### The King's rise
+#### The King's rise
 
 - Traitors already close to the future King had stayed behind after the kingdom split and played both sides, manipulating him over many years.
 - They convinced him he had been lied to about the ancients gene and that he was destined to find the crystal.
@@ -112,42 +116,44 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - After Esmeralda's mother tried to escape with her, he had the mother executed.
 - He then raised Esmeralda himself and grew genuinely attached to her over time.
 - Richard considered fleeing with Esmeralda but understood they would both be killed if the truth surfaced, so he left her alive inside the castle.
-- Shortly after Esmeralda's birth, the King concluded Richard knew too much and exiled him separately.
+- Shortly after Esmeralda's birth, the King concluded Richard knew too much and exiled him.
 - That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
 - Rather than raise another child, he began claiming Esmeralda as the fulfillment of the existing prophecy, positioning her as the super modern ancient meant to lead the people back to the ancients, despite her lack of the ancients gene.
 - His inner circle supports that claim with staged discoveries, controlled interpretation, and suppression of real material.
 - He raises her to believe the existing prophecy already points to her.
 
-### The sickness
+#### The sickness
 
-#### Nature
+##### Nature
 
 - Known condition within the village
 - Initially rare, now increasing in frequency
 
-#### Symptoms
+##### Symptoms
 
 - Mental deterioration
 - Loss of control
 - Violent outbursts
 - Eventual death
 
-#### Public handling
+##### Public handling
 
 - Families isolate infected individuals indoors.
 - Public incidents are becoming more common.
 - Fear and discussion within the village are increasing.
 
-#### Hidden reality
+##### Hidden reality
 
 - Infected individuals sometimes kill loved ones inside homes.
 - Many die in isolation.
 - The population is gradually shrinking without full public awareness.
 - Rare public eruptions of violence deepen the town's fear.
 
-## Key characters
+---
 
-### Leo
+### Key characters
+
+#### Leo
 
 - Age: about 16
 - Logical, observant, rejects superstition
@@ -155,71 +161,78 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Recently lost his father
 - Loved his father deeply and had been close with him before the illness
 - Remembers his mother only in warm, blurry fragments because she died when he was still young
-- Structurally, he carries the survival plot, the inheritance plot, and the buried-lineage reveal without knowing any of that yet
+- Born in the exile village as the hidden continuation of Leo's father's bloodline
+- May eventually embody the stronger future-facing prophecy
 
-### Leo's father
+#### Leo's father
 
-- Former royal army member
-- Exiled to the village
-- Respected, outgoing, and helpful in healthier years
+Pre Exile:
+- Younger brother of the King
+- True bearer of the ancients gene
+- Raised under a false commoner identity, believing himself an orphaned commoner taken in by the King
+- Grew up grateful to the King and served him with total loyalty before learning the truth
+- Former royal army member, rising to General and replacing Richard
+- Widely respected and battle-tested
+- Exceptionally skilled fighter with a unique, loose, non-traditional style
+
+Post Exile:
+- Exiled to the village following the refused massacre mission
+- His true identity remained hidden from the village
+- Respected, outgoing, and helpful in his earlier exile years
 - Deeply loving father whose bond with Leo is unusually strong
+- Eventually learned the truth of his own identity and accepted the rebellion cause after initial resistance
 - Contracted the sickness
 - Resisted the illness longer than expected
 - Became isolated and distant before death
-- The contrast between his warm earlier life and his later reclusion is central to Leo's grief
-- Exceptionally skilled fighter with a unique, loose, non-traditional style
-- Younger brother of the King
-- True bearer of the ancients gene
-- Raised under a false commoner identity
-- His true identity remained hidden from the village
-- Grew up grateful to the King and served him with total loyalty before learning the truth
-- Structurally, he is the absent emotional center of the story and the buried political truth the film reveals gradually
+- The contrast between his warm earlier exile years and his later reclusion is central to Leo's grief
 
-### Richard
+#### Richard
 
-- Neighbor feared by the village
+Pre Exile:
 - Former royal army member
 - Former comrade of Leo's father and Marshe's father
-- Exiled to the village later, after Leo's father and Marshe's father were already buried there through the squadron punishment
-- Publicly lives as a carpenter
-- Secretly works as a blacksmith
 - Rose through the army to General before Leo's father later replaced him
 - Served as one of the King's most trusted but also most dangerous assets
 - Knew some hidden wrongdoing and doctrinal irregularity without understanding the full truth of the King's rise
 - Did not know the King was Leo's father's brother during his years of service
 - Did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic right attached to it
+
+Post Exile:
+- Exiled to the village later, after the King decided his proximity to too much hidden truth made him dangerous
+- Neighbor feared by the village
+- Publicly lives as a carpenter
+- Secretly works as a blacksmith
 - Secretly tasked by Leo's father to watch over Leo
 - Maintains distance intentionally to let Leo grow independently
-- Was exiled later, after the King decided his proximity to too much hidden truth made him dangerous
-- Later revealed to have killed Marshe's father to stop an attack on the town elders
-- Shunned by the town because the killing was graphically violent in front of witnesses
 - Secretly forged weapons for Leo's father after exile
 - Maintained outside contacts and became the practical bridge between buried truth and possible rebellion
 - Stayed silent about some of what he had noticed because he believed exposure would panic the people without protecting them
-- Structurally, he operates as a protector, a delayed truth-carrier, and the living cost of compromised resistance
+- Later revealed to have killed Marshe's father to stop an attack on the town elders
+- Shunned by the town because the killing was graphically violent in front of witnesses
+
 - Secretly Esmeralda's biological father, though neither the King nor Esmeralda knows it
 - Knows Esmeralda is his daughter and protects her from afar
 
-### Marshe's father
+#### Marshe's father
 
+Pre Exile:
 - Former royal army member
 - Former comrade of Leo's father
+- Long carried envy toward Leo's father, believing the rise to General should have been his
+
+Post Exile:
 - Later driven into a sickness-fueled rage
 - Attempts to attack the town elders during a formal event
 - Killed by Richard when Richard acts quickly to stop him
-- Structurally, he turns the sickness from private dread into public horror and locks in the village's distorted view of Richard
 
-### Marshe
+#### Marshe
 
 - Specific bully who targets Leo
-- Specifically targets Leo
 - Older and physically dominant over Leo
 - Son of Leo's father's former comrade
 - Has a hostile relationship with Leo that clearly predates the current story moment
-- Should first read as a rough village bully with personal history we do not yet understand
-- Structurally, he is the bridge between everyday humiliation and later lethal tragedy
 
-### The King
+#### The King
 
 - Dictator ruler of the kingdom
 - Older brother of Leo's father
@@ -229,9 +242,8 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Hopes Leo's father's bloodline will die in exile and bury the truth forever
 - Public father of Esmeralda
 - Publicly positioning Esmeralda as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients
-- Structurally, he is the offscreen force that ties together exile, false legitimacy, prophetic fraud, and the lost rebellion
 
-### Esmeralda
+#### Esmeralda
 
 - Public daughter of the King
 - Leo's age
@@ -242,26 +254,26 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Being positioned as the next royal chosen figure despite not carrying the ancients gene
 - Secretly Richard's biological daughter
 - Richard knows the truth even though she does not
-- Richard's distance from her is shaped both by fear for her safety and by the same larger moral compromise that once kept him silent about pieces of the King's corruption
-- Raised on a prophecy story that primes her to believe she may be the one meant to save the world from itself
-- Structurally, she matters more as a later succession fracture than as an active Act 1 driver
+- Raised to sincerely believe the existing prophecy points to her
 
-## Key objects
+---
 
-### Sword
+### Key objects
+
+#### Sword
 
 - Originally belonged to Leo's father
 - Passed to Richard
 - Intended for Leo
 - Recognizable to the kingdom
 
-### Hidden weapons cache
+#### Hidden weapons cache
 
 - Leo's father kept a large hidden collection of weapons in his room
 - Leo did not know the collection existed
 - Richard sometimes made new weapons for Leo's father to test
 
-### Crystal
+#### Crystal
 
 - Real object of power
 - Connected to awakening or reaching the ancients
@@ -271,15 +283,11 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The opposing kingdom has spent decades studying this kingdom's religion and history in order to intercept the crystal without a major war
 - The hostile force is using the crystal struggle as one of its remaining paths back into meaningful influence
 
-### Mother's jewelry box
+---
 
-- Deeply personal keepsake tied to Leo's mother
-- The last remaining piece of his mother's possessions
-- Leo refuses to pawn it when desperate
-- Lost during the Marshe chase
-- Realized missing only after Leo returns home, fails at training, and refuses to enter his father's room
+## Part 2: Screenplay and Story Structure
 
-## Thematic foundations
+### Thematic foundations
 
 - Perception versus reality: curse belief versus unknown cause
 - Isolation and survival
@@ -290,18 +298,26 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Buried legitimacy and the future that never happened
 - False history versus living truth
 
-## Act structure
+### Mother's jewelry box
 
-### Act 1
+- Deeply personal keepsake tied to Leo's mother
+- The last remaining piece of his mother's possessions
+- Leo refuses to pawn it when desperate
+- Lost during the Marshe chase
+- Realized missing only after Leo returns home, fails at training, and refuses to enter his father's room
 
-#### Sequence 1: opening dream and awakening
+### Act structure
+
+#### Act 1
+
+##### Sequence 1: opening dream and awakening
 
 - Daytime
 - Leo awakens from a battlefield dream with carnage and distinct armor
 - He wakes startled, sweating, and gasping
 - A brief flash of the battlefield lingers before cutting back
 
-#### Sequence 2: home and poverty
+##### Sequence 2: home and poverty
 
 - The house is neat but stripped
 - Leo searches for items to sell
@@ -310,18 +326,18 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - He hesitates and refuses to pawn it
 - He chooses a fancy dish instead
 
-#### Sequence 3: failed market attempts
+##### Sequence 3: failed market attempts
 
 - Multiple shops reject the dish
 - The item has little value
 - Leo sits against a wall
 
-#### Sequence 4: father flashback, sick
+##### Sequence 4: father flashback, sick
 
 - Leo remembers his father pale, exhausted, and resisting the sickness
 - Leo calls out and his father responds with effort
 
-#### Sequence 5: Richard encounter
+##### Sequence 5: Richard encounter
 
 - Richard buys the dish
 - He first offers to buy it
@@ -333,13 +349,13 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - He leaves silently
 - Leo thanks him and runs home
 
-#### Sequence 6: bread marketplace
+##### Sequence 6: bread marketplace
 
 - The market is busy
 - Bread is being made fresh, so Leo waits
 - Flashback: healthy father, mother, and young Leo in a lively market
 
-#### Sequence 7: public incident
+##### Sequence 7: public incident
 
 - A man violently attacks a woman
 - He is subdued, then breaks free and charges Leo
@@ -348,47 +364,47 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The attacker beats the shop owner
 - The crowd swarms him again and subdues him
 
-#### Sequence 8: panic
+##### Sequence 8: panic
 
 - Leo runs home
 - He forgets the bread
 
-#### Sequence 9: night and collapse
+##### Sequence 9: night and collapse
 
 - Leo is starving and restless
 - Heavy rain falls
 - He attempts to leave and collapses
 
-#### Sequence 10: second dream
+##### Sequence 10: second dream
 
 - A crystal is handed to a mounted general
 - The general looks directly at Leo
 
-#### Sequence 11: morning
+##### Sequence 11: morning
 
 - Leo wakes on the floor
 - He is weak and injured
 - He has a cut on his face
 
-#### Sequence 12: bread discovery
+##### Sequence 12: bread discovery
 
 - Bread has been left on the returned dish
 - Leo eats immediately
 - He infers Richard was responsible
 
-#### Sequence 13: decision
+##### Sequence 13: decision
 
 - Leo takes the jewelry box
 - He plans to offer it to Richard in return for the bread
 - He searches for Richard
 
-#### Sequence 14: Marshe chase
+##### Sequence 14: Marshe chase
 
 - Marshe calls out, making it clear Leo already knows him and fears him
 - Leo runs
 - The chase ends with Leo cornered
 
-#### Sequence 15: beating
+##### Sequence 15: beating
 
 - Marshe asks, "Where do you think you're going?"
 - He approaches slowly
@@ -397,12 +413,12 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - A civilian intervenes verbally
 - Marshe leaves
 
-#### Sequence 16: return home
+##### Sequence 16: return home
 
 - Leo limps home
 - He sits and reflects
 
-#### Sequence 17: father versus Marshe's father flashback
+##### Sequence 17: father versus Marshe's father flashback
 
 - The men argue, though the dialogue is inaudible
 - Marshe's father swings first
@@ -410,7 +426,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - A fight follows
 - Young Marshe witnesses it and is horrified
 
-#### Sequence 18: harassment at home
+##### Sequence 18: harassment at home
 
 - Leo snaps back to reality
 - Boys, including Marshe, throw rocks at the house
@@ -418,7 +434,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Leo hides
 - A woman intervenes and the boys scatter
 
-#### Sequence 19: training attempt
+##### Sequence 19: training attempt
 
 - Leo imitates his father using a pole
 - He is clumsy and unfocused
@@ -428,20 +444,20 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The father's style was loose, fluid, and highly skilled
 - It felt non-traditional and elite
 
-#### Sequence 20: reflection
+##### Sequence 20: reflection
 
 - Leo sits on the bed
 - He looks at his father's door
 - He considers entering
 - He refuses out of respect
 
-#### Sequence 21: jewelry box realization
+##### Sequence 21: jewelry box realization
 
 - After the reflection at his father's door, Leo realizes the jewelry box is missing
 - He understands he must have dropped it during the Marshe chase
 - The loss hits as emotional devastation, not just the loss of something valuable
 
-## Flashback index
+### Flashback index
 
 1. Battlefield opening
 2. Mother and jewelry box
@@ -451,9 +467,9 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 6. Father versus Marshe's father fight
 7. Father training observation
 
-## Character threads
+### Character threads
 
-### Leo
+#### Leo
 
 - Hunger to desperation to fear to survival
 - Loses his mother's jewelry box during the Marshe chase, but realizes it only after returning home, failing at training, and refusing to enter his father's room
@@ -462,8 +478,9 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Attempts imitation and fails
 - Avoids his father's room as an emotional barrier
 - Latent instinct is not yet realized
+- Structurally, he carries the survival plot, the inheritance plot, and the buried-lineage reveal without knowing any of that yet
 
-### Richard
+#### Richard
 
 - Silent protector
 - Indirect intervention
@@ -475,8 +492,9 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - A man who once accepted silence as the lesser harm and later has to live with the cost of that choice
 - Secret fatherhood and private loss deepen his connection to the kingdom's stolen lineage
 - Loves Esmeralda from afar and accepts distance as the price of keeping her alive
+- Structurally, he operates as a protector, a delayed truth-carrier, and the living cost of compromised resistance
 
-### Leo's father
+#### Leo's father
 
 - Secretly prepared by Richard for a greater political future he did not initially want
 - Keeps a hidden arsenal even from Leo
@@ -485,33 +503,36 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Initially reads as a sick, secretive former soldier before his kindness and fatherhood are revealed
 - Leo was the greatest joy in his life
 - Even near death, his pity is directed more toward Leo than toward himself
+- Structurally, he is the absent emotional center of the story and the buried political truth the film reveals gradually
 
-### The King
+#### The King
 
 - Stole legitimacy by killing, erasing, and rewriting
 - Suppresses hidden doctrine he cannot fulfill
 - Uses exile as a way to bury dangerous bloodlines and truths
 - Treats Esmeralda as a public solution to the succession problem even though that solution is false at multiple levels
+- Structurally, he is the offscreen force that ties together exile, false legitimacy, prophetic fraud, and the lost rebellion
 
-### Esmeralda
+#### Esmeralda
 
 - Publicly adored royal heir figure
 - Loved by the King inside a fabricated father-daughter story
 - Secretly Richard's biological daughter
 - Richard's hidden connection to her is part of the price he pays for earlier silence and compromise
 - Another hidden fracture in the kingdom's false succession order
-- Raised to sincerely believe the revised prophecy built around her
 - Later becomes the one who finds Leo collapsed after the events of Marshe's death
+- Structurally, she matters more as a later succession fracture than as an active Act 1 driver
 
-### Marshe
+#### Marshe
 
 - Specific bully and aggressor toward Leo
 - Present in both past and present
 - Early dominance over Leo established
 - Feels like a bully with unexplained history tied to Leo
 - Should also carry pity as a child shaped by a cruel world, without softening the threat too early
+- Structurally, he is the bridge between everyday humiliation and later lethal tragedy
 
-## Locked later reveal
+### Locked later reveal
 
 - Marshe's father, driven by rage induced by the sickness, later attempts to attack the town elders during a formal event.
 - Richard acts fast and kills him.

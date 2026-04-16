@@ -191,9 +191,6 @@ Post Exile:
 - That same inner circle knows the suppressed doctrinal marker around reading the ancients' language at a glance
 - They are allowed to work from real material while everyone else is fed curated "discoveries"
 - They help produce convenient doctrinal and textual "discoveries" to justify her succession
-
-### Open question
-
 - The wider religious institution is still composed mostly of people being deceived rather than fully complicit
 - That margin is narrowing over time as the King consolidates control
 - Priests and historians who go against the King's narrative are silenced, executed, or exiled
@@ -224,11 +221,7 @@ Post Exile:
 - Hoped Leo's father's survival might eventually make ancient material readable enough to lead them to the crystal
 - Is ruled by a king who made a bargain with the ancient hostile force in exchange for the crystal
 - Uses that ruler's restored youth as part of its current strategy and political viability
-
-### Open political question
-
-- Whether it is morally different from the current kingdom remains unresolved
-- It is acting under pressure from the same ancient hostile force that wants the ancients' history wiped from the world
+- Is acting under pressure from the same ancient hostile force that wants the ancients' history wiped from the world
 
 ## Ancient hostile force
 
@@ -257,3 +250,7 @@ Post Exile:
 - The sickness destroyed that path before it could happen.
 - Leo now stands as the hidden continuation of the same buried line.
 - Esmeralda stands as the King's fabricated answer to the same succession problem.
+- The rival kingdom is pursuing the crystal under pressure from the ancient hostile force.
+- Its king is already bound to that bargain through restored youth paid out in advance.
+- If the crystal reaches the force through either kingdom, the ancients' history risks erasure before the buried legitimate line can act on it.
+- That makes the crystal struggle larger than succession — it is the condition under which either future becomes possible or impossible.
