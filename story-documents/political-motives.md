@@ -45,23 +45,32 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - He believes he fathered Esmeralda because he wanted an heir
 - He was disappointed she was a daughter
 - He no longer wants to raise another child
-- He is now amending prophetic interpretation to position Esmeralda as his chosen successor
+- He is now positioning Esmeralda as his chosen successor and the prophesied "super" modern ancient
 - He raises her on a story that a princess will save the world from itself so the claim feels natural to her
 
 ## Leo's Father
 
 ### Public posture
 
+Pre Exile:
 - Raised to believe he was a commoner elevated through the King's kindness
 - Served as a loyal military figure
+- Rose to become General, replacing Richard
+- Battle-tested and widely respected within the army
 - Valued loyalty, family, and neighborliness over ambition
-- Would be easy to mistake for a hard former soldier if only seen late in his life
+- Had the utmost respect and loyalty for the King
+- Refused the King's order to destroy another exiled village and retrieve the crystal once he understood the truth of the mission
+- Exiled along with his squadron after the refusal; his reputation was publicly poisoned to make the fall appear justified
+
+Post Exile:
+- Respected even in the exile village for being helpful and protective of the residents
+- Later in life known as a recluse because he was ill and was hiding it from everybody. Only Leo and Richard knew he was ill.
 
 ### Hidden position
 
 - True bearer of the ancients gene
-- Strongest legitimate claimant to the throne
-- Man Richard believes deserves to be King
+- The legitimate claimant to the throne
+- Man Richard discovers is the true King
 
 ### Personal motive
 
@@ -82,6 +91,16 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 
 ### Public posture
 
+Pre Exile:
+- Rose through the army to become General before Leo's father later replaced him
+- Served as one of the King's most trusted and risky assets
+- Trusted with many secrets, but not the deepest truths behind the King's rise or Leo's father's hidden identity
+- Comrade of Leo's father and Marshe's father
+- Lost his wife during this period
+- Witnessed doctrinal drift, suppression, and hidden wrongdoing but did not yet understand the full system behind it
+- Exiled separately after Esmeralda's birth, when the King determined his proximity to too much hidden truth made him dangerous
+
+Post Exile:
 - Feared village carpenter
 - Socially isolated and morally misunderstood
 
@@ -200,7 +219,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - Comes from an older kingdom that split in two after a long conflict between brothers
 - Also seeks the crystal
 - Secretly sabotaged the rival kingdom from within for decades rather than relying on open war
-- Placed spies near the future King and helped radicalize his sense of grievance, destiny, and entitlement
+- Had traitors already close to the future King who stayed behind after the split and played both sides, radicalizing his sense of grievance, destiny, and entitlement
 - Wanted to use the kingdom's own prophecy, lineage rules, and internal fractures to gain access to the crystal first
 - Hoped Leo's father's survival might eventually make ancient material readable enough to lead them to the crystal
 - Is ruled by a king who made a bargain with the ancient hostile force in exchange for the crystal

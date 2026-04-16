@@ -81,7 +81,7 @@
 ## Relationships
 
 - Richard was also a comrade of Leo's father and Marshe's father
-- He was exiled later, not as part of Leo's father's original squadron exile
+- He was exiled later, after the King decided his proximity to too much hidden truth made him dangerous
 - Leo: watches over him because of a promise or duty tied to Leo's father
 - Leo's father: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
 - Marshe's father: killed him later during a sickness-fueled elder attack
@@ -104,7 +104,7 @@
 ## Locked canon
 
 - Richard was part of the same army history as Leo's father and Marshe's father
-- He was not exiled with them in the original squadron event
+
 - Richard is not an early warm mentor
 - His help to Leo is indirect
 - He buys Leo's dish

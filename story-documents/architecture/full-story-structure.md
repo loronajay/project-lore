@@ -90,7 +90,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 ### The King's rise
 
-- The opposing kingdom had placed spies close enough to the future King to manipulate him over many years.
+- Traitors already close to the future King had stayed behind after the kingdom split and played both sides, manipulating him over many years.
 - They convinced him he had been lied to about the ancients gene and that he was destined to find the crystal.
 - Once Leo's father was internally confirmed as the true bearer, the future King moved to seize power before that knowledge could spread outward.
 - He arranged for his parents and siblings to be killed.
@@ -114,9 +114,9 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Richard considered fleeing with Esmeralda but understood they would both be killed if the truth surfaced, so he left her alive inside the castle.
 - Shortly after Esmeralda's birth, the King concluded Richard knew too much and exiled him separately.
 - That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
-- Rather than raise another child, he began reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene.
-- He and his inner circle support that revision with staged discoveries, controlled interpretation, and suppression of real material.
-- He also raises Esmeralda on a story that a princess will one day save the world from itself.
+- Rather than raise another child, he began claiming Esmeralda as the fulfillment of the existing prophecy, positioning her as the super modern ancient meant to lead the people back to the ancients, despite her lack of the ancients gene.
+- His inner circle supports that claim with staged discoveries, controlled interpretation, and suppression of real material.
+- He raises her to believe the existing prophecy already points to her.
 
 ### The sickness
 
@@ -190,7 +190,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic right attached to it
 - Secretly tasked by Leo's father to watch over Leo
 - Maintains distance intentionally to let Leo grow independently
-- Was exiled later than Leo's father rather than as part of the original squadron event
+- Was exiled later, after the King decided his proximity to too much hidden truth made him dangerous
 - Later revealed to have killed Marshe's father to stop an attack on the town elders
 - Shunned by the town because the killing was graphically violent in front of witnesses
 - Secretly forged weapons for Leo's father after exile
@@ -228,7 +228,7 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Spent decades researching the crystal
 - Hopes Leo's father's bloodline will die in exile and bury the truth forever
 - Public father of Esmeralda
-- Publicly positioning Esmeralda as his chosen successor through revised prophecy
+- Publicly positioning Esmeralda as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients
 - Structurally, he is the offscreen force that ties together exile, false legitimacy, prophetic fraud, and the lost rebellion
 
 ### Esmeralda

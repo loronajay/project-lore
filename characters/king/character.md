@@ -30,7 +30,7 @@
 - The rival kingdom was the splintered continuation of an older shared kingdom
 - The king of that rival realm was his uncle
 - The modern interstate rivalry sat on top of a much older family fracture between brothers
-- Was psychologically manipulated over time by spies from that splinter kingdom
+- Was psychologically manipulated over time by traitors already close to him who had stayed behind after the kingdom split and played both sides
 - Was convinced he had been lied to about the ancients gene and was destined to find the crystal
 - Seized power by arranging the deaths of his parents and siblings
 - Moved before Leo's father's confirmed gene status could spread outward in a form the public could absorb
@@ -50,9 +50,9 @@
 - Knows more of the hidden doctrine than the public does
 - Suppresses the fact that the true prophesied leader should be able to read the ancients' language at a glance
 - Keeps that fact limited to himself and paid-off researchers because he cannot do it
-- Is reshaping prophecy again to position Esmeralda as his chosen successor despite her lack of the ancients gene
-- Supports that revision with priests, historians, and researchers who stage favorable doctrinal and textual "discoveries"
-- Raised Esmeralda on a future-facing princess story so the revised prophecy would feel natural to her
+- Is claiming Esmeralda as the fulfillment of the existing prophecy, positioning her as the super modern ancient meant to lead the people back to the ancients, despite her lack of the ancients gene.
+- Supports that claim with priests, historians, and researchers who stage favorable doctrinal and textual "discoveries".
+- Raised Esmeralda to believe the existing prophecy already points to her.
 
 ## Crystal and larger plan
 
@@ -80,7 +80,7 @@
 - Public knowledge about gene-bearing status was delayed and curated rather than cleanly shared
 - Leo's father was internally confirmed as the true bearer in his generation
 - The opposing kingdom was ruled by his uncle and descended from an older brother-conflict that split one kingdom into two
-- The opposing kingdom placed spies near the future King and helped radicalize his grievance and sense of destiny
+- Traitors already close to the future King stayed behind after the kingdom split, played both sides, and helped radicalize his grievance and sense of destiny
 - Leo's father grew up loyal to him and grateful for a false rescue
 - The King took the throne through murder, suppression, and revision of history
 - A deeper doctrinal truth about reading the ancients' language at a glance helped make Leo's father too useful to kill
@@ -89,10 +89,10 @@
 - He does not know Richard is Esmeralda's biological father
 - He had Esmeralda's mother executed after she tried to flee with the child
 - He raised Esmeralda himself and became genuinely attached to her
-- He is positioning Esmeralda as a chosen successor through manipulated prophecy even though she does not carry the ancients gene
+- He is positioning Esmeralda as the fulfillment of the existing prophecy — the super modern ancient — even though she does not carry the ancients gene
 - His closest priests, historians, and researchers know Esmeralda does not carry the ancients gene
 - That inner circle helps fabricate supporting doctrine and ancient-text discoveries around her legitimacy
-- He raised Esmeralda on a story about a princess who would one day save the world from itself
+- He raised Esmeralda to believe the existing prophecy points to her as the stronger figure meant to lead the people back to the ancients
 - He later exiled Leo's father and Marshe's father after the refused mission
 - He secretly executed everyone else in that squadron
 - He exiled Richard separately later, after deciding Richard knew too much to keep close

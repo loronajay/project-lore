@@ -26,8 +26,8 @@
 - Feels loved by her father
 - Knows very little about her mother
 - Believes a fabricated story about how her mother died
-- Grew up hearing from the King that a princess would one day save the world from itself
-- Has been quietly shaped to believe that story points to her
+- Grew up being told by the King that she is the stronger figure the existing prophecy already describes — the one meant to lead the people back to the ancients.
+- Has been quietly shaped to believe the existing prophecy points to her.
 - Knows nothing about her father's evil acts
 - Knows nothing about his hidden plans or political manipulations
 - Smart, adventurous, and a bit of a tomboy
@@ -51,7 +51,7 @@
 ## Political position
 
 - Being positioned as the heir
-- Being framed through a revised prophetic narrative as the chosen successor
+- Being positioned as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients
 - Used by the King as the next vessel of legitimacy
 - Supported by staged doctrinal discoveries and revised ancient texts manufactured around her claim
 
@@ -65,8 +65,8 @@
 - The King knows she does not carry it
 - The King's closest priests, historians, and researchers also know the truth about her lack of the ancients gene
 - Her public legitimacy is being manufactured rather than inherited under the kingdom's deeper logic
-- The King chose to amend prophecy around her rather than raise another child
-- That inner circle helps "discover" doctrine and texts to support the revised prophecy
+- The King chose to claim Esmeralda as the fulfillment of the existing prophecy rather than raise another child
+- That inner circle helps "discover" doctrine and ancient texts to support her claim to that prophesied role
 - People suspected of seeing through the lie are silenced
 - Richard keeps the truth hidden not only because exposure would get them killed, but because he believes the wrong revelation at the wrong time would bring panic and fear without protecting the people
 
@@ -98,8 +98,8 @@
 - He became genuinely attached to her over time
 - He spoils her heavily
 - Esmeralda feels loved by him
-- The King told her from childhood a story about a princess who would one day save the world from itself
-- That story was part of how he indoctrinated her into a revised prophecy centered on her
+- The King told her from childhood that she is the stronger figure the existing prophecy already describes — the one meant to lead the people back to the ancients
+- That upbringing primed her to believe the existing prophecy already points to her
 - She is used to a life of luxury
 - She often wanders outside the castle walls because she prefers the life she finds among commoners
 - She has many friends her age outside the walls
@@ -111,8 +111,8 @@
 - The King's closest priests, historians, and researchers know she does not carry the ancients gene
 - That inner circle manufactures supporting doctrine and ancient-text "discoveries" to legitimize her
 - They silence people they suspect are getting too close to the truth
-- He is reshaping prophecy to frame her as the chosen successor
-- She can later weaponize the revised prophecy because she sincerely believes the story built around her
+- He is claiming Esmeralda is the fulfillment of the existing prophecy — the super modern ancient the doctrine already describes
+- She can later weaponize the prophecy because she sincerely believes it already points to her
 - He would rather position Esmeralda than raise another child
 - Esmeralda knows nothing about her father's evil acts or hidden plans
 - Richard has loved and quietly watched over Esmeralda from afar for years

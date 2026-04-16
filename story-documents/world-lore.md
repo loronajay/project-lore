@@ -33,8 +33,8 @@
 - Over time, the King broadened controlled access to selected researchers and historians, then later cycled priests out of direct access altogether.
 - Now only the King and his dedicated propaganda team are allowed to handle the real material directly.
 - Only that tight inner circle knows the hidden doctrinal marker about reading the ancients' language at a glance.
-- The King later expands the prophecy with a future-facing princess story about someone who will save the world from itself.
-- That expansion is not ancient truth but a manufactured reinterpretation built to support Esmeralda.
+- The King later claims Esmeralda is the fulfillment of that stronger figure, positioning her publicly as the super modern ancient the prophecy already describes.
+- His inner circle supports that claim with staged doctrinal discoveries and controlled interpretation of ancient texts.
 
 ## The ancients
 
@@ -94,7 +94,7 @@
 ## Hidden royal history
 
 - The King is the older brother of Leo's father.
-- Foreign spies from the opposing kingdom had infiltrated positions close enough to the future King to poison his thinking over time.
+- Traitors already close to the future King had stayed behind after the kingdom split and played both sides, working to poison his thinking over time.
 - They convinced him he had been lied to about the ancients gene, that he was the true bearer, and that he was destined to find the crystal.
 - After Leo's father was internally confirmed as a real gene-bearer, the future King moved quickly before that discovery could spread outward.
 - He arranged the deaths of his parents and siblings.
@@ -117,7 +117,7 @@
 - He raised Esmeralda himself and became genuinely attached to her over time.
 - Richard considered fleeing with Esmeralda but chose not to because exposure would have gotten them both killed and the castle could keep her safer than exile.
 - Shortly after Esmeralda's birth, the King realized Richard knew too much and had to be buried politically as well.
-- Richard was exiled after that, separately from Leo's father's earlier squadron exile.
+- Richard was exiled after that, once the King decided his proximity to too much hidden truth made him dangerous.
 - Richard's silence around Esmeralda is also part of his broader pattern of looking away from dangerous partial truth when he believes exposure would terrify the people without protecting them.
 
 ## Rewriting of truth
@@ -129,7 +129,7 @@
 - Most of the broader religious and scholarly institution is still being deceived rather than fully let in on the lie, though that margin is narrowing as control hardens.
 - People who knew too much about true lineage, doctrine, or history were silenced or killed.
 - Priests and historians who openly resisted the King's narrative were silenced, executed, or exiled.
-- He later adapted the kingdom's prophetic narrative again to position Esmeralda as his chosen successor.
+- He later claimed Esmeralda as the fulfillment of the existing prophecy's stronger figure, positioning her as the super modern ancient meant to lead the people back to the ancients.
 - That same tight inner circle knows Esmeralda does not carry the ancients gene, but keeps that fact tightly controlled.
 - Richard noticed some of this doctrinal drift during his years of service, but did not yet understand the full system behind it.
 
@@ -207,6 +207,6 @@
 - The religion contains a future-facing idea that a stronger figure will arise in a coming generation.
 - Leo may be the true fulfillment of that future line, though this is not publicly known.
 - The King does not yet know Leo may represent that threat.
-- The King is positioning Esmeralda publicly as a chosen future heir through manipulated prophecy.
+- The King is positioning Esmeralda publicly as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients.
 - He knows she does not carry the ancients gene.
-- Esmeralda was raised to believe the revised prophecy points to her.
+- Esmeralda was raised to believe the existing prophecy points to her.

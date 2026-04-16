@@ -1,1 +1,5 @@
+# Ignore the skills folder
 skills/
+
+# Ignore the specific claude.md file
+CLAUDE.md
