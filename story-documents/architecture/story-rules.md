@@ -27,9 +27,13 @@
 - Keep the King's legitimacy system dependent on propaganda, altered records, and weaponized religion.
 - Keep the doctrine-access model intact: only the King and his tight propaganda inner circle know the suppressed doctrinal truth directly, while the broader institution is managed through curated findings.
 - Keep Esmeralda's manufactured legitimacy tied to that same controlled doctrine system.
+- Keep the prophecy itself as a real, existing religious text. The King does not invent or rewrite it — he positions Esmeralda as its fulfillment. That distinction matters: the lie is in the claim, not in the prophecy.
 - Keep later revelations marked as later revelations when they are not yet part of the active story surface.
 - Leo later kills Marshe, and the event must initially read as an accident to Leo and in the screenplay.
 - Only later should it be revealed that Leo acted with buried instinctive skill under a cornered-animal trigger.
+- Leo's potential as the true fulfillment of the future-facing prophecy is a locked later reveal. Do not surface it in active early-story material.
+- Keep the ancient hostile force offscreen and indirect in early material. It operates through bargains and individual corruption, not open presence.
+- Keep the opposing kingdom offscreen in Act 1. It exists as background pressure on the broader world, not as an active visible force in the village story.
 
 ## Character usage rules
 
@@ -105,7 +109,7 @@
 
 - Do not build current story beats around Esmeralda until the story reaches the point where she matters on the page.
 - Safe to leave her in background canon during active early-story planning.
-- When she is used later, preserve her as sincere inside a fabricated destiny rather than cynically knowing.
+- When she is used later, preserve her as sincere inside a false claim rather than cynically knowing — she genuinely believes the existing prophecy points to her.
 - Keep her as publicly adored, genuinely loved by the King in a morally corrupted way, and structurally tied to manufactured succession.
 - Preserve her as more alive, curious, and free-feeling outside the castle than within it.
 - Preserve her as a stolen daughter as well as a false heir.
