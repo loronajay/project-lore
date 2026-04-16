@@ -69,7 +69,6 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - The King exiled the squadron and secretly executed everyone except Leo's father and Marshe's father.
 - He supported that exile with reputation-poisoning so the fall of such revered soldiers would appear justified rather than suspicious.
 - This also protected his carefully maintained image by keeping the event from reading as openly vindictive rule.
-- Richard was not part of that squadron exile.
 - He was exiled later after the King decided he knew too much and had to be buried politically as well.
 - The exile event is tied to the origin of the curse legend.
 - The exile contract includes a ban on weapons within the village.

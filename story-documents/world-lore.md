@@ -171,7 +171,6 @@
 - The King exiled the entire squadron, then secretly executed everyone except Leo's father and Marshe's father.
 - Malicious rumors were spread to discredit the survivors publicly and make the exile of such revered soldiers seem justified.
 - That reputation-poisoning also protected the King's own image by keeping the event from reading as a cruel public punishment carried out by a supposedly gracious and holy ruler.
-- Richard was not part of that mission or squadron exile.
 - He was exiled later, after the King decided his proximity to too much hidden truth made him dangerous.
 - By that later period, Esmeralda had already been born and Leo was also born in the exile village.
 

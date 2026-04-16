@@ -75,7 +75,6 @@
 - Knew Leo's father as a warm, highly respected man before the sickness turned him inward
 - Was present during the King's rise
 - Rose through the royal military to the rank of General before Leo's father later replaced him
-- Was not part of the squadron sent to wipe out another exiled village
 - Was exiled later, after the King decided Richard knew too much and needed to be buried politically as well
 - That later exile came shortly after Esmeralda's birth
 
