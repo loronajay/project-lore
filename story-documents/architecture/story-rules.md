@@ -29,7 +29,7 @@
 - Keep Esmeralda's manufactured legitimacy tied to that same controlled doctrine system.
 - Keep the prophecy itself as a real, existing religious text. The King does not invent or rewrite it — he positions Esmeralda as its fulfillment. That distinction matters: the lie is in the claim, not in the prophecy.
 - Keep later revelations marked as later revelations when they are not yet part of the active story surface.
-- Leo later kills Marshe after discovering Marshe sneaking around Richard's house, evidentally having just murdered Richard, and the event must initially read as an accident to Leo and in the screenplay.
+- Leo later kills Marshe after discovering Marshe sneaking around Richard's house, evidently having just murdered Richard, and the event must initially read as an accident to Leo and in the screenplay.
 - Only later should it be revealed that Leo acted with buried instinctive skill under a cornered-animal trigger.
 - Leo's potential as the true fulfillment of the future-facing prophecy is a locked later reveal. Do not surface it in active early-story material.
 - Keep the ancient hostile force offscreen and indirect in early material. It operates through bargains and individual corruption, not open presence.
@@ -94,7 +94,7 @@
 - Keep his resentment toward Jack tied to family-risk grievance as well as envy.
 - Preserve him as a genuinely loved father whose loss and humiliation help shape Marshe's later fixation on Leo.
 
-### The King
+### Gideon (The King)
 
 - Keep the King primarily as an offscreen ruling force unless a scene truly needs his presence.
 - Present him as composed, persuasive, and system-building rather than cartoonishly monstrous.
@@ -104,6 +104,15 @@
 - Preserve his inability to fulfill the hidden doctrinal marker.
 - Preserve his succession strategy around Esmeralda as a manufactured answer to a legitimacy problem he cannot solve honestly.
 - Keep Leo's future significance outside the King's understanding for now.
+
+### Aldric
+
+- Do not introduce Aldric as an antagonist from the start — his opposition to the protagonist party develops through later story events, not from his first appearance.
+- Keep his loyalty to Gideon sincere and unquestioned — he is not secretly conflicted, suppressing doubt, or aware of the deeper truth behind the regime.
+- Let his threat come from competence and conviction rather than cruelty or personal malice.
+- Keep him sharp and observant in ways that create specific pressure — he notices things others miss, and that quality should be felt in scenes he inhabits.
+- Do not give him knowledge of the buried truth before the story is ready to carry that weight.
+- Keep his early appearances proportional to where the story is — he should not dominate material before his antagonist role has been earned.
 
 ### Esmeralda
 
