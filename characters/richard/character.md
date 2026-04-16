@@ -3,14 +3,14 @@
 ## Status
 
 - Canonical character file
-- Active supporting character
+- Active supporting character through Act 1; killed by Marshe late in Act 1
 
 ## Story role
 
 - Silent protector
 - Neighbor who watches over Leo from a distance
 - Figure of fear, ambiguity, and later moral complexity
-- Hidden steward of the lost political future centered on Leo's father
+- Hidden steward of the lost political future centered on Jack
 - Man whose buried personal history ties him to the royal succession crisis in more than one way
 
 ## Public perception
@@ -58,65 +58,67 @@
 - Keeps his blacksmithing hidden because weapons are banned in the village
 - Continues practicing in secret despite the risk of audits
 - Secretly forges weapons in the village
-- Regularly made new "toys" for Leo's father to test
+- Regularly made new weapons for Jack to test
 - Helped preserve a hidden martial capacity inside a village forbidden from bearing arms
 - Maintained secret outside contacts
 - Knew some of the King's hidden wrongdoing while still serving him, but not the full structure behind it
 - Noticed doctrinal drift before he understood how it connected to the stolen royal line
 - Was trusted with many of the King's secrets, but not all of them
 - Did not know how the King achieved his status
-- Did not know the King's true relationship to Leo's father during his years of service
+- Did not know the King's true relationship to Jack during his years of service
 - Did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic right attached to it
-- Eventually discovered the truth about Leo's father's royal identity and legitimacy
-- Began preparing for a rebellion intended to deliver justice and place Leo's father on the throne
-- Helped convince Leo's father and others to join that cause
-- Abandoned that mission when Leo's father fell ill
-- Was heartbroken when he learned Leo's father had contracted the sickness
-- Knew Leo's father as a warm, highly respected man before the sickness turned him inward
+- Eventually discovered the truth about Jack's royal identity and legitimacy
+- Began preparing for a rebellion intended to deliver justice and place Jack on the throne
+- Helped convince Jack and others to join that cause
+- Abandoned that mission when Jack fell ill
+- Was heartbroken when he learned Jack had contracted the sickness
+- Knew Jack as a warm, highly respected man before the sickness turned him inward
 - Was present during the King's rise
-- Rose through the royal military to the rank of General before Leo's father later replaced him
+- Rose through the royal military to the rank of General before Jack later replaced him
 - Was exiled later, after the King decided Richard knew too much and needed to be buried politically as well
 - That later exile came shortly after Esmeralda's birth
 
 ## Relationships
 
-- Richard was also a comrade of Leo's father and Marshe's father
+- Richard was also a comrade of Jack and Marcus
 - He was exiled later, after the King decided his proximity to too much hidden truth made him dangerous
-- Leo: watches over him because of a promise or duty tied to Leo's father
-- Leo's father: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
-- Marshe's father: killed him later during a sickness-fueled elder attack
+- Leo: watches over him because of a promise or duty tied to Jack
+- Jack: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
+- Marshe: murders Richard in his sleep during Act 1 after discovering Richard was the man who killed his father
 - Esmeralda: biological daughter, known to him but hidden from her, the King, and the public
 - Village: shuns and fears him
 
 ## Later public event
 
-- Later revealed to have killed Marshe's father during a formal event
-- Marshe's father was driven into rage by the sickness and attempted to attack the town elders
+- Later revealed to have killed Marcus during a formal event
+- Marcus was driven into rage by the sickness and attempted to attack the town elders
 - Richard acted quickly and stopped him
 - The gore horrified the town
 - He was shunned instead of honored
 
 ## Important objects
 
-- Leo's father's sword
+- Jack's sword
 - Hidden forge and weaponmaking tools
 
 ## Locked canon
 
-- Richard was part of the same army history as Leo's father and Marshe's father
+- Richard was part of the same army history as Jack and Marcus
 
 - Richard is not an early warm mentor
 - His help to Leo is indirect
 - He buys Leo's dish
 - He later leaves bread on the returned dish
 - Richard publicly lives as a carpenter while secretly functioning as a blacksmith
-- Richard and Leo's father shared many years of battle, friendship, and toil
+- Richard and Jack shared many years of battle, friendship, and toil
 - Richard served as one of the King's most trusted and dangerous assets without ever seeing the full truth of the regime
 - Richard noticed pieces of doctrinal and political corruption before he understood the larger royal theft behind them
 - Richard was loyal to the people more than to the King
-- Richard became the one who uncovered enough truth to persuade Leo's father that the rebellion was real and justified
-- Richard was preparing Leo's father for a future rebellion before the sickness ended that path
-- Richard knew Leo was the center of Leo's father's emotional world
+- Richard became the one who uncovered enough truth to persuade Jack that the rebellion was real and justified
+- Richard was preparing Jack for a future rebellion before the sickness ended that path
+- Marshe learns (offscreen, Act 1) that Richard was the man who killed his father and murders Richard in his sleep
+- Leo finds Marshe at the scene, which triggers the Marshe death events
+- Richard knew Leo was the center of Jack's emotional world
 - Richard was present during the King's rise
 - Richard is Esmeralda's biological father
 - Richard knows Esmeralda is his daughter
@@ -133,5 +135,5 @@
 - Whether Richard feels guilt, resentment, or indifference about being shunned
 - How the formal event is remembered by different townspeople
 - Nature of Richard's outside contacts
-- The later flashback where Richard convinces Leo's father to accept the mission
+- The later flashback where Richard convinces Jack to accept the mission
 - How Richard first discovered enough of the truth to connect doctrine, royalty, and the crystal

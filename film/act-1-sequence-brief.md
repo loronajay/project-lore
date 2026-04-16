@@ -154,7 +154,7 @@ Emotional goal:
 
 Required elements:
 - home aftermath
-- father versus Marshe's father memory
+- Jack versus Marcus memory
 - boys throwing rocks
 - pole training attempt
 - father training memory
@@ -163,7 +163,7 @@ Required elements:
 Visual emphasis:
 - memory should reveal emotional and physical competence in Leo's father
 - Leo's training should feel earnest and painful, not comedic
-- father's room should feel psychologically sealed
+- Jack's room should feel psychologically sealed
 
 ## Sequence 7: Jewelry-box recovery and forbidden discovery
 
@@ -213,7 +213,8 @@ These carry the strongest tonal identity and give the project:
 
 Highest priority:
 - Leo present-day design
-- Leo's father memory design
+- Jack's pre-illness memory design
+- Jack's post-illness memory design
 - Richard design
 - Marshe design
 - Leo's house

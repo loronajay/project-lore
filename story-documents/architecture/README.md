@@ -20,7 +20,7 @@ It works together with:
 
 - [world-lore.md](C:/Users/leoja/Desktop/Dad Games/lore-project/story-documents/world-lore.md): kingdom structure, doctrine, lineage, crystal lore, exile policy, and setting-level truth
 - [political-motives.md](C:/Users/leoja/Desktop/Dad Games/lore-project/story-documents/political-motives.md): agendas, hidden motives, and political meaning for rulers, rebels, and institutions
-- [ancient-hostile-force.md](C:/Users/leoja/Desktop/Dad Games/lore-project/story-documents/ancient-hostile-force.md): hidden background force shaping the rival kingdom, crystal pressure, and the surviving anti-ancient threat
+- [ancient-hostile-force.md](C:/Users/leoja/Desktop/Dad Games/lore-project/story-documents/ancient-hostile-force.md): hidden background force shaping Thorne, crystal pressure, and the surviving anti-ancient threat
 
 ## Character canon
 

@@ -325,14 +325,24 @@ export function renderTbdDashboard() {
           <h4 class="note-title">${escapeHtml(item.entryTitle)}</h4>
           <p class="note-meta">TBD surfaced from source docs</p>
         </div>
-        <button class="ghost-button" type="button">Open</button>
+        <div class="note-actions">
+          <button class="capture-button action-button" type="button">Capture</button>
+          <button class="open-button ghost-button" type="button">Open</button>
+        </div>
       </div>
       <p class="note-body">${escapeHtml(item.item)}</p>
     `;
-    card.querySelector("button").addEventListener("click", () => {
+    card.querySelector(".capture-button").addEventListener("click", () => {
+      const shortTitle = item.item.length > 60 ? item.item.slice(0, 57) + "..." : item.item;
+      elements.noteEntrySelect.value = item.entryId;
+      elements.noteTitle.value = shortTitle;
+      elements.noteBody.value = item.item;
+      elements.noteBody.focus();
+      elements.noteForm.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    card.querySelector(".open-button").addEventListener("click", () => {
       state.activeEntryId = item.entryId;
       state.mode = "read";
-      // Full re-render to switch back to the Read panel
       applyTheme();
       renderMode();
       renderMobileNav();

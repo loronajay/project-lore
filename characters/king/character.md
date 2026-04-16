@@ -1,13 +1,13 @@
-# The King
+# Gideon (The King)
 
 ## Status
 
 - Canonical character file
-- Major offscreen ruling force
+- Major ruling force
 
 ## Story role
 
-- Dictator King of the kingdom
+- Dictator King of Eden
 - Architect of historical, religious, and political manipulation
 - Central source of the deeper injustice behind the exile village and the failed rebellion
 
@@ -23,24 +23,40 @@
 - Uses reputation poisoning to make politically necessary exiles appear justified
 - Protects his benevolent and spiritually legitimate public image by avoiding the appearance of openly vindictive punishment
 
+## Succession structure
+
+- The crown passes to whichever child carries the ancients gene
+- Succession is first confirmed internally, then formalized through a public coronation that presents the heir as both legitimate and spiritually chosen
+- Plans to have Esmeralda assume the throne when he eventually dies, but only after fully establishing her as the super modern ancient in public belief
+
+## Religious institution
+
+- A formal church exists with an organized clerical hierarchy
+- A clerical leader at the head of the institution has been compromised by the King
+- The King holds himself above the institution by staging doctrinal findings and supporting convenient amendments to religious texts and stories
+- The broader clergy operates largely in good faith, receiving curated discoveries rather than direct access to real source material
+
 ## Buried history
 
-- Older brother of Leo's father
-- Not the bearer of the ancients gene
-- The rival kingdom was the splintered continuation of an older shared kingdom
-- The king of that rival realm was his uncle
+- Older brother of Jack
+- Not a bearer of the ancients gene
+- Thorne was the splintered continuation of an older shared kingdom
+- Dorian, king of Thorne, was his uncle
 - The modern interstate rivalry sat on top of a much older family fracture between brothers
 - Was psychologically manipulated over time by traitors already close to him who had stayed behind after the kingdom split and played both sides
-- Was convinced he had been lied to about the ancients gene and was destined to find the crystal
+- Was initially convinced he had been lied to about the ancients gene and was destined to find the crystal
+- Discovered quickly that he was not the actual gene holder and that the manipulation had deceived him
+- Once he understood he had been deceived, his pursuit of the crystal became entirely self-motivated — driven by selfish desire, legitimacy fear, and personal ambition rather than the original manipulation
 - Seized power by arranging the deaths of his parents and siblings
-- Moved before Leo's father's confirmed gene status could spread outward in a form the public could absorb
-- Spared Leo's father because the child's confirmed status and possible value in reading ancient material made him potentially useful
+- Moved before Jack's confirmed gene status could spread outward in a form the public could absorb
+- Spared Jack because the child's confirmed status and possible value in reading ancient material made him potentially useful
 - Later believed he had fathered a daughter, Esmeralda, while trying to secure an heir
 - Does not know Richard is Esmeralda's biological father
 - Slowly rewrote history and religion after taking the throne
 - Ordered key historians, priests, and informed witnesses silenced or killed
-- Erased Leo's father's birth record and royal identity
-- Recast Leo's father as an orphaned commoner he had supposedly taken in
+- Erased Jack's birth record and royal identity
+- Renamed him Jack as part of that erasure — replacing his birth name Rowan with something deliberately plain, an act of quiet domination most people would never recognize as one
+- Recast Jack as an orphaned commoner he had supposedly taken in
 - Secretly executed nearly the entire squadron after the refused village-destruction mission
 
 ## Religion and control
@@ -54,21 +70,37 @@
 - Supports that claim with priests, historians, and researchers who stage favorable doctrinal and textual "discoveries".
 - Raised Esmeralda to believe the existing prophecy already points to her.
 
+## Handling of Leo in Act 2
+
+- Upon Leo being brought before him unconscious, takes time to consider what to do with him before acting
+- Once Leo wakes, immediately begins manipulating him — frames Jack as a traitor who turned his back on the kingdom and fled his duty, erasing the moral refusal behind the exile
+- Offers to take Leo in and make him strong like his father once was
+- Trains Leo for approximately two years under a controlled arrangement
+- Does not allow Leo to live within the castle walls
+- Recognizes in Leo the same rapid learning pattern he once saw in Jack
+- That recognition is what drives the decision to keep Leo out of the army entirely
+- Plans to shape Leo into a personal mercenary — someone to carry out tasks meant to be done in the dark, controlled and kept close rather than allowed to rise through institutional ranks
+- Issues Leo distinctive black hooded clothing unlike anyone else's — positioned as a mark of his place, used in reality to let the King's soldiers track him at all times
+- Does a parallel version with Esmeralda — all-black clothing rather than hooded, but serving the same tracking purpose; she does not realize it
+- Treats Leo warmly enough that Leo feels genuinely welcomed and cared for
+
 ## Crystal and larger plan
 
 - Has spent decades researching the crystal
 - Believes the crystal is tied to awakening or reaching the ancients
-- His crystal obsession is entangled with both personal legitimacy panic and the pressure exerted by the rival branch of the family line
+- His crystal obsession is entangled with both personal legitimacy panic and the pressure exerted by Thorne
 - Launched a mission against another exiled village after suspecting both rebellion and crystal proximity
 - Acts strategically over time, but can become impulsively violent when fear and opportunity align
 
 ## Relationships
 
-- Leo's father: younger brother, true ancient-gene bearer, rival claimant he chose to control rather than kill
-- Leo: unknown future threat whose significance the King does not yet grasp
+- Jack: younger brother, true ancient-gene bearer, rival claimant he chose to control rather than kill
+- Leo: in Act 2, recognizes almost immediately that Leo is the son of his exiled brother and former soldier — the continuation of the bloodline he tried to bury
 - Esmeralda: publicly his daughter, beloved heir figure, and vessel for manufactured succession
 - Richard: former royal army general and later enemy in the hidden political struggle
-- Marshe's father: soldier willing to obey the King's brutal command structure
+- Marcus: soldier willing to obey the King's brutal command structure
+- Aldric: current General, trusted enough to be sent to retrieve Leo; recognizes the royal army insignia on Jack's sword on sight
+- Dorian: uncle, king of Thorne, rival claimant from the older dynastic fracture
 - Paid-off historians and priests: tools of long-term manipulation
 - Researchers: partial keepers of hidden knowledge about the crystal and prophecy
 
@@ -76,14 +108,14 @@
 
 - The King is a dictator with a carefully maintained positive public image
 - His authority is sustained by propaganda, altered records, and weaponized religion
-- He is the older brother of Leo's father
+- He is the older brother of Jack
 - Public knowledge about gene-bearing status was delayed and curated rather than cleanly shared
-- Leo's father was internally confirmed as the true bearer in his generation
-- The opposing kingdom was ruled by his uncle and descended from an older brother-conflict that split one kingdom into two
+- Jack was internally confirmed as the true bearer in his generation
+- Thorne was ruled by his uncle Dorian and descended from an older brother-conflict that split one kingdom into two
 - Traitors already close to the future King stayed behind after the kingdom split, played both sides, and helped radicalize his grievance and sense of destiny
-- Leo's father grew up loyal to him and grateful for a false rescue
+- Jack grew up loyal to him and grateful for a false rescue
 - The King took the throne through murder, suppression, and revision of history
-- A deeper doctrinal truth about reading the ancients' language at a glance helped make Leo's father too useful to kill
+- A deeper doctrinal truth about reading the ancients' language at a glance helped make Jack too useful to kill
 - He forced a woman to bear him a child because he wanted an heir
 - He believes Esmeralda is his daughter
 - He does not know Richard is Esmeralda's biological father
@@ -93,14 +125,12 @@
 - His closest priests, historians, and researchers know Esmeralda does not carry the ancients gene
 - That inner circle helps fabricate supporting doctrine and ancient-text discoveries around her legitimacy
 - He raised Esmeralda to believe the existing prophecy points to her as the stronger figure meant to lead the people back to the ancients
-- He later exiled Leo's father and Marshe's father after the refused mission
+- He later exiled Jack and Marcus after the refused mission
 - He secretly executed everyone else in that squadron
 - He exiled Richard separately later, after deciding Richard knew too much to keep close
-- He hopes Leo's father's bloodline will die in exile and bury the truth forever
-
-## TBD
-
-- Exact public structure of kingship and succession
-- Exact role and hierarchy of the religious institution
-- What the King personally believes versus what he merely uses
-- How much he suspects about Leo later
+- Jack's birth name is Rowan; the King renamed him Jack as part of erasing his identity — a deliberate stripping of dignity disguised as ordinary life
+- He hopes Jack's bloodline will die in exile and bury the truth forever
+- The crown passes to whichever child carries the ancients gene; succession is confirmed internally before a public coronation
+- A formal church exists with a clerical hierarchy; the clerical leader has been compromised by the King
+- He was initially manipulated into believing he was the gene holder, discovered quickly that he was not, and since then pursues the crystal entirely from selfish desire
+- In Act 2, he recognizes almost immediately that Leo is the son of his exiled brother and former soldier

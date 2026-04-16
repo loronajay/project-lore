@@ -25,18 +25,18 @@
 - It wants the crystal acquired through human agents rather than by its own open return
 - It uses political desperation and personal weakness to move other powers toward that goal
 
-## Relationship to the opposing kingdom
+## Relationship to Thorne
 
-- The opposing kingdom was originally part of the same older kingdom as Leo's side
+- Thorne was originally part of the same older kingdom as Eden
 - A long-ago conflict between brothers split that older kingdom into two realms
-- The opposing kingdom is under pressure from this force
+- Thorne is under pressure from this force
 - The force is the same larger power previously noted as wanting the ancients' history wiped out
-- Its pressure helps explain the kingdom's desperation and long sabotage campaign
+- Its pressure helps explain Thorne's desperation and long sabotage campaign
 
-## The opposing king's bargain
+## Dorian's bargain
 
-- The king of the opposing kingdom is the uncle of the king on Leo's side
-- The king of the opposing kingdom made a deal with this force
+- Dorian, king of Thorne, is the uncle of Gideon, king of Eden
+- Dorian made a deal with this force
 - In exchange for the crystal, he was promised restored youth
 - The force granted that youth early as an incentive and as preparation for the coming seizure of the crystal
 - He is in truth quite old, but now appears as a strong young nobleman

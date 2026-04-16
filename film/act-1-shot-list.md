@@ -150,7 +150,7 @@ It is intentionally lean and should be refined after styleframes are approved.
 ### Must-have shots
 
 1. Leo sitting in silence after returning home
-2. Father versus Marshe's father memory setup
+2. Jack versus Marcus memory setup
 3. Young Marshe witnessing the fight
 4. Rocks hitting the house
 5. Leo listening and staying still
@@ -163,15 +163,15 @@ It is intentionally lean and should be refined after styleframes are approved.
 ### Can stay mostly still
 
 - Leo seated on the bed
-- father's closed door
+- Jack's closed door
 - listening during the rock attack
 
 ### Benefits from motion
 
-- father fight memory
+- Jack fight memory
 - rock impacts
 - failed training swings
-- father training memory
+- Jack training memory
 
 ## Sequence 7: Jewelry-box recovery and forbidden discovery
 

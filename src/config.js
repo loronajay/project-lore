@@ -48,17 +48,17 @@ export const GALLERY_CONFIG = {
     { src: "world-art/leo-hometown.jfif", label: "Leo's Hometown" }
   ],
   leo: [
-    { src: "characters/leo/concept-art/child/1.jpeg", label: "Child Leo 1" },
-    { src: "characters/leo/concept-art/child/2.jpeg", label: "Child Leo 2" },
-    { src: "characters/leo/concept-art/teenager/3.jpeg", label: "Leo 18 - 1" },
-    { src: "characters/leo/concept-art/teenager/4.jpeg", label: "Leo 18 - 2" }
+    { src: "characters/leo/concept-art/child/1.jpeg", label: "Child Leo - Realistic 1" },
+    { src: "characters/leo/concept-art/child/2.jpeg", label: "Child Leo - Realistic 2" },
+    { src: "characters/leo/concept-art/teenager/3.jpeg", label: "Leo 18 - Anime 1" },
+    { src: "characters/leo/concept-art/teenager/4.jpeg", label: "Leo 18 - Anime 2" }
   ],
   "leos-father": [
     { src: "characters/leos-father/concept-art/young/download - 2026-04-13T203447.747.jpeg", label: "Young Leo's Father" },
     { src: "characters/leos-father/concept-art/young/download - 2026-04-13T203527.550.jpeg", label: "Young Leo's Father Variation" }
   ],
   richard: [
-    { src: "characters/richard/concept-art/middle-aged/download - 2026-04-13T203338.427.jpeg", label: "Richard" }
+    { src: "characters/richard/concept-art/middle-aged/download - 2026-04-13T203338.427.jpeg", label: "Richard - Pre Exile" }
   ],
   marshe: [
     { src: "characters/marshe/concept-art/teenager/download - 2026-04-13T204051.663.jpeg", label: "Teen Marshe" },

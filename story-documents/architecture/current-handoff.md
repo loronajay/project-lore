@@ -31,7 +31,10 @@ Leo is:
 
 ## Locked future reveal
 
-- Leo kills Marshe later.
+- Marshe discovers (offscreen) that Richard was the man who killed his father during the elder attack.
+- Marshe murders Richard in his sleep.
+- Leo finds Marshe at the scene.
+- Leo kills Marshe.
 - Leo remembers it as an accident, and it should initially play that way on the page.
 - Only later is it revealed that he acted with instinctive, buried skill.
 - The trigger is a cornered-animal response.

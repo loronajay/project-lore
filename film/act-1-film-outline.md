@@ -71,10 +71,10 @@ Purpose:
 
 Core beats:
 - return home
-- memory of father versus Marshe's father
+- memory of Jack versus Marcus
 - boys throw rocks
 - Leo attempts to train
-- memory of father's fluid combat style
+- memory of Jack's fluid combat style
 - Leo refuses to enter father's room
 
 ### Sequence F: loss, recovery, and forbidden discovery

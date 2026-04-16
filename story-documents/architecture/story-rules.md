@@ -29,11 +29,11 @@
 - Keep Esmeralda's manufactured legitimacy tied to that same controlled doctrine system.
 - Keep the prophecy itself as a real, existing religious text. The King does not invent or rewrite it — he positions Esmeralda as its fulfillment. That distinction matters: the lie is in the claim, not in the prophecy.
 - Keep later revelations marked as later revelations when they are not yet part of the active story surface.
-- Leo later kills Marshe, and the event must initially read as an accident to Leo and in the screenplay.
+- Leo later kills Marshe after discovering Marshe sneaking around Richard's house, evidentally having just murdered Richard, and the event must initially read as an accident to Leo and in the screenplay.
 - Only later should it be revealed that Leo acted with buried instinctive skill under a cornered-animal trigger.
 - Leo's potential as the true fulfillment of the future-facing prophecy is a locked later reveal. Do not surface it in active early-story material.
 - Keep the ancient hostile force offscreen and indirect in early material. It operates through bargains and individual corruption, not open presence.
-- Keep the opposing kingdom offscreen in Act 1. It exists as background pressure on the broader world, not as an active visible force in the village story.
+- Keep Thorne offscreen in Act 1. It exists as background pressure on the broader world, not as an active visible force in the village story.
 
 ## Character usage rules
 
@@ -48,9 +48,9 @@
 - When writing Leo around his father, emphasize love, loss, and reverence before political meaning.
 - When writing Leo around the jewelry box, treat it as the last surviving piece of his mother and a genuine rupture when lost, not just a useful keepsake.
 
-### Leo's father
+### Jack (Leo's Father)
 
-- Present Leo's father first through absence, memory, illness, and mystery before the buried royal truth is surfaced.
+- Present Jack first through absence, memory, illness, and mystery before the buried royal truth is surfaced.
 - Keep the contrast between his warm earlier self and his later reclusive sickness state central to Leo's grief.
 - Preserve the fact that some of his late-life mystery is a false impression created by sickness hollowing out an otherwise warm and social man.
 - Preserve him as deeply father-oriented, kind, and respected beneath the harder surface created by illness.
@@ -77,21 +77,21 @@
 - Keep his distance from Leo intentional: he is watching over him without trying to become a substitute father.
 - Treat his years around the King as proximity to corruption, secrecy, and doctrinal drift without full early comprehension of the regime's deepest truth.
 - Preserve him as one of the King's most useful and risky former assets, but not as someone who understood the whole machine from the start.
-- Keep his loyalty aimed more at the people and at Leo's father than at the throne itself.
-- Preserve his hidden political role as steward of the lost future centered on Leo's father.
+- Keep his loyalty aimed more at the people and at Jack than at the throne itself.
+- Preserve his hidden political role as steward of the lost future centered on Jack.
 - Keep his silence morally compromised rather than noble, clean, or indifferent.
-- Preserve the fact that he later uncovers enough truth to prepare rebellion around Leo's father's legitimacy.
-- Preserve his later shunning as a result of public horror at the killing of Marshe's father.
+- Preserve the fact that he later uncovers enough truth to prepare rebellion around Jack's legitimacy.
+- Preserve his later shunning as a result of public horror at the killing of Marcus.
 - Keep the village's reading of Richard centered on blood, danger, and rumor rather than on the lives he saved.
-- Keep his grief over Leo's father and the failed rebellion central to his hardness.
+- Keep his grief over Jack and the failed rebellion central to his hardness.
 - Preserve his hidden fatherhood of Esmeralda as part of the same knot of love, silence, and compromise rather than as an isolated twist.
 - Keep his connection to Esmeralda hidden in active story material until the story is ready to carry that reveal.
 
-### Marshe's father
+### Marcus (Marshe's father)
 
-- Use Marshe's father mainly as backstory pressure and later public-horror payoff.
+- Use Marcus mainly as backstory pressure and later public-horror payoff.
 - Preserve his role as the figure who turns the sickness from private dread into communal spectacle.
-- Keep his resentment toward Leo's father tied to family-risk grievance as well as envy.
+- Keep his resentment toward Jack tied to family-risk grievance as well as envy.
 - Preserve him as a genuinely loved father whose loss and humiliation help shape Marshe's later fixation on Leo.
 
 ### The King

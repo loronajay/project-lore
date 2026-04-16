@@ -75,7 +75,7 @@
 - The King: father, source of love, protection, and total deception
 - Mother: almost unknown figure whose real fate has been hidden from her
 - Richard: biological father, known to him but unknown to her and unknown to the King; he loves her from afar and accepts distance as the price of her safety and of a silence he once believed served the people
-- Leo: future first meaningful connection, as she later finds him collapsed after Marshe's death
+- Leo: finds him collapsed after the Marshe death events; returns to the castle to report him, gets scolded by the King for leaving the walls; becomes a genuine close friend during the two years Leo trains under the King's arrangement
 
 ## Locked canon
 
@@ -117,7 +117,10 @@
 - Esmeralda knows nothing about her father's evil acts or hidden plans
 - Richard has loved and quietly watched over Esmeralda from afar for years
 - Richard's silence about her is tied to the broader moral compromise he made while looking away from pieces of the King's corruption
-- Esmeralda is the person who later finds Leo collapsed after the events of Marshe's death
+- Esmeralda finds Leo collapsed after the Marshe death events
+- She returns to the castle to report a boy outside the walls and is scolded by the King for leaving
+- She wears distinctive all-black clothing issued by the King — a parallel tracking arrangement to Leo's, though she does not realize the purpose behind it
+- She becomes genuinely close to Leo during the two years he trains under the King's arrangement
 
 ## TBD
 

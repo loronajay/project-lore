@@ -1,4 +1,4 @@
-# Marshe's Father
+# Marcus (Marshe's Father)
 
 ## Status
 
@@ -8,7 +8,7 @@
 ## Story role
 
 - Former royal army member
-- Former comrade of Leo's father
+- Former comrade of Jack
 - Source of inherited conflict between families
 - Military foil to Leo's father during the refused massacre mission
 
@@ -19,11 +19,12 @@
 
 ## Backstory motives
 
-- Long carried envy toward Leo's father
-- Believed Leo's father rose to General in the place he deserved
-- Was willing to obey the King's brutal command when Leo's father refused
-- Carried lasting resentment toward Leo's father after the exile event
-- Saw Leo's father's refusal as a choice made by a man with less immediate family risk because Marshe's father already had a wife and young son
+- Long carried envy toward Jack but did not outwardly show it
+- Believed Jack rose to General in the place he deserved
+- Kept the envy internal while regularly finding friction and small conflict with Jack in day-to-day dealings
+- Was willing to obey the King's brutal command when Jack refused
+- Carried lasting resentment toward Jack after the exile event
+- Saw Jack's refusal as a choice made by a man with less immediate family risk because Marcus already had a wife and young son
 
 ## Later public event
 
@@ -33,23 +34,21 @@
 ## Relationships
 
 - Marshe: deeply loved father whose loss and humiliation shape Marshe's later fixation on Leo
-- Leo's father: former comrade, envied rival, and later adversary
+- Jack: former comrade, envied rival, and later adversary
 - Richard: the man who kills him while stopping the elder attack
 - Town elders: targets of his later formal-event attack
 
 ## Locked canon
 
-- Swings first in the earlier fight with Leo's father
+- His envy was never openly declared but expressed itself as persistent low-level friction with Jack
+- Swings first in the earlier fight with Jack
 - Was part of the mission ordered to wipe out another exiled village, erase its history, and retrieve the crystal
-- Wanted to obey the order when Leo's father refused
+- Wanted to obey the order when Jack refused
 - Already had a wife and young Marshe by the time of the refused mission
-- Resented Leo's father for making the refusal when Marshe's father believed he had more immediately at stake
+- Resented Jack for making the refusal when Marcus believed he had more immediately at stake
 - Survived the King's purge after exile while the rest of the squadron was secretly executed
 - Carried that resentment throughout exile until his death
 - Later attacks the elders during a formal event
 - The attack is driven by sickness-induced rage
 - Richard kills him
 
-## TBD
-
-- How openly he expressed the rank envy before exile

@@ -48,7 +48,7 @@ This document tracks motive, agenda, hidden intention, and political stakes for 
 - He is now positioning Esmeralda as his chosen successor and the prophesied "super" modern ancient
 - He raises her on a story that a princess will save the world from itself so the claim feels natural to her
 
-## Leo's Father
+## Jack/Rowan
 
 ### Public posture
 
@@ -92,10 +92,10 @@ Post Exile:
 ### Public posture
 
 Pre Exile:
-- Rose through the army to become General before Leo's father later replaced him
+- Rose through the army to become General long before Jack later replaced him
 - Served as one of the King's most trusted and risky assets
-- Trusted with many secrets, but not the deepest truths behind the King's rise or Leo's father's hidden identity
-- Comrade of Leo's father and Marshe's father
+- Trusted with many secrets, but not the deepest truths behind the King's rise or Jack's hidden identity
+- Comrade of Jack and Marcus
 - Lost his wife during this period
 - Witnessed doctrinal drift, suppression, and hidden wrongdoing but did not yet understand the full system behind it
 - Exiled separately after Esmeralda's birth, when the King determined his proximity to too much hidden truth made him dangerous
@@ -108,9 +108,9 @@ Post Exile:
 
 - Protect Leo
 - Preserve hidden martial capacity in the village
-- Support the lost political future centered on Leo's father
+- Support the lost political future centered on Jack
 - Continue acting in line with friendship, duty, and unfinished justice
-- Carry forward the burden of a truth Leo's father eventually accepted too late
+- Carry forward the burden of a truth Jack eventually accepted too late
 - Protect the people of the kingdom even when that means carrying private moral compromise
 
 ### Past political role
@@ -120,14 +120,14 @@ Post Exile:
 - One of the King's most useful and risky assets
 - Maintained outside contacts
 - Secretly prepared rebellion
-- Made weapons for Leo's father to test
+- Made weapons for Jack to test
 
 ### Knowledge limits
 
 - Knew some of the King's hidden wrongdoing, but not the full structure behind it
 - Noticed doctrinal drift before he knew how it connected to stolen legitimacy
 - Did not know how the King achieved his status
-- Did not know the King's true relationship to Leo's father during his service years
+- Did not know the King's true relationship to Jack during his service years
 - Did not fully understand the King's deeper motive for seeking the crystal beyond its prophetic promise
 
 ### Moral compromise
@@ -138,25 +138,25 @@ Post Exile:
 
 ### Emotional core
 
-- Deep loyalty to Leo's father
-- Heartbroken when Leo's father fell ill
+- Deep loyalty to Jack
+- Heartbroken when Jack fell ill
 - Carries grief for both the man and the lost future
 - His hidden fatherhood of Esmeralda is one of the clearest places where private love, silence, and political compromise become inseparable
 
-## Marshe's Father
+## Marcus
 
 ### Political function
 
 - Represents obedience to corrupt command
-- Serves as the military foil to Leo's father during the mission refusal
-- Resents Leo's father for making the refusal from what he sees as a less costly personal position
+- Serves as the military foil to Jack during the mission refusal
+- Resents Jack for making the refusal from what he sees as a less costly personal position
 
 ### Personal motive
 
-- Long carried envy toward Leo's father
+- Long carried envy toward Jack
 - Believed the rise to General should have been his
 - Already had a wife and young son when the massacre order came
-- Viewed exile through the lens of what Leo's father's refusal cost his family specifically
+- Viewed exile through the lens of what Jack's refusal cost his family specifically
 - Carried that grievance throughout exile
 
 ### Later symbolic role
@@ -208,20 +208,20 @@ Post Exile:
 - They help sustain the King's long-term strategy
 - Their imperfect understanding of the ancients' language slows his success
 
-## The opposing kingdom
+## Thorne
 
 ### Known motive
 
-- Is ruled by the uncle of the king on Leo's side
+- Ruled by Dorian, the uncle of Gideon
 - Comes from an older kingdom that split in two after a long conflict between brothers
 - Also seeks the crystal
-- Secretly sabotaged the rival kingdom from within for decades rather than relying on open war
-- Had traitors already close to the future King who stayed behind after the split and played both sides, radicalizing his sense of grievance, destiny, and entitlement
-- Wanted to use the kingdom's own prophecy, lineage rules, and internal fractures to gain access to the crystal first
-- Hoped Leo's father's survival might eventually make ancient material readable enough to lead them to the crystal
-- Is ruled by a king who made a bargain with the ancient hostile force in exchange for the crystal
-- Uses that ruler's restored youth as part of its current strategy and political viability
-- Is acting under pressure from the same ancient hostile force that wants the ancients' history wiped from the world
+- Secretly sabotaged Eden from within for decades rather than relying on open war
+- Had traitors already close to Gideon who stayed behind after the split and played both sides, radicalizing his sense of grievance, destiny, and entitlement
+- Wanted to use Eden's own prophecy, lineage rules, and internal fractures to gain access to the crystal first
+- Hoped Jack's survival might eventually make ancient material readable enough to lead them to the crystal
+- Dorian made a bargain with the ancient hostile force in exchange for the crystal
+- Uses Dorian's restored youth as part of its current strategy and political viability
+- Acting under pressure from the same ancient hostile force that wants the ancients' history wiped from the world
 
 ## Ancient hostile force
 
@@ -239,18 +239,18 @@ Post Exile:
 
 ### Known bargain
 
-- Restored the opposing kingdom's king to apparent youth before the crystal was secured
+- Restored Dorian to apparent youth before the crystal was secured
 - Did so to incentivize obedience and strengthen his capacity to carry out the plan
 
 ## Core political conflict
 
 - The King rules through stolen legitimacy.
-- Leo's father was the true rightful heir under the kingdom's own deeper logic.
+- Jack was the true rightful heir under the kingdom's own deeper logic.
 - Richard tried to build a rebellion around that truth.
 - The sickness destroyed that path before it could happen.
 - Leo now stands as the hidden continuation of the same buried line.
 - Esmeralda stands as the King's fabricated answer to the same succession problem.
-- The rival kingdom is pursuing the crystal under pressure from the ancient hostile force.
-- Its king is already bound to that bargain through restored youth paid out in advance.
+- Thorne is pursuing the crystal under pressure from the ancient hostile force.
+- Dorian is already bound to that bargain through restored youth paid out in advance.
 - If the crystal reaches the force through either kingdom, the ancients' history risks erasure before the buried legitimate line can act on it.
 - That makes the crystal struggle larger than succession — it is the condition under which either future becomes possible or impossible.

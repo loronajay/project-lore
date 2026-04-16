@@ -7,9 +7,9 @@
 ## Beat flow
 
 1. Dream: battlefield
-2. Home: jewelry box, then dish
+2. Home: jewelry box, Mother memory, then dish
 3. Market failure
-4. Father sick memory
+4. Jack sick memory
 5. Richard buys dish
 6. Bread market
 7. Family memory
@@ -23,11 +23,11 @@
 15. Marshe chase
 16. Beating
 17. Return home
-18. Father fight flashback
+18. Jack fight flashback
 19. Boys harass house
 20. Training attempt fails
-21. Father training flashback
-22. Reflection at father's door, but he refuses to enter
+21. Jack training flashback
+22. Reflection at Jack's door, but he refuses to enter
 23. Leo realizes he dropped his mother's jewelry box during the Marshe chase
 24. Leo runs out to retrace his steps and avoids the alley at first
 25. He gives up, then forces himself to search the alley

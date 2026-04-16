@@ -2,11 +2,11 @@
 
 ## World overview
 
-- `LORE` takes place in a grounded fantasy kingdom with an isolated exile village on its outskirts.
+- `LORE` takes place in the kingdom of Eden, a grounded fantasy kingdom with an isolated exile village on its outskirts.
 - The exile village functions as a place where cast-out people and their descendants are made to live apart from the kingdom.
 - The village is geographically and socially isolated.
 - The village is self-sustaining, but deteriorating.
-- The kingdom is ruled by a dictator King with a carefully managed positive public image.
+- Eden is ruled by Gideon, a dictator King with a carefully managed positive public image.
 - His authority is maintained through propaganda, altered records, and weaponized religion.
 - Much of the public trusts him because the evidence supporting his legitimacy appears documented and credible.
 
@@ -16,6 +16,19 @@
 - Kept structurally vulnerable by the kingdom
 - Subject to a weapons ban under the exile contract
 - Occasionally searched by royal soldiers during audits for forbidden weapons
+
+## Kingship and succession
+
+- The kingdom is a hereditary monarchy where the crown passes to whichever child carries the ancients gene.
+- Succession is confirmed internally first, then formalized through a public coronation that presents the heir as both legitimate and spiritually chosen.
+- The public coronation is the visible event, but the internal confirmation is the real mechanism of selection.
+
+## The church
+
+- A formal church exists with an organized clerical hierarchy.
+- A clerical leader sits at the head of that institution and has been compromised by the King.
+- The King holds himself above the institution by staging doctrinal discoveries and supporting convenient amendments to religious texts and stories.
+- The broader clergy operates largely in good faith, receiving curated findings rather than direct access to real source material.
 
 ## Public belief and religion
 
@@ -69,7 +82,7 @@
 - Internal royal and scholarly circles tracked the question more closely than ordinary people ever did.
 - Public understanding lagged behind private discovery and was only updated when the crown could make new information politically digestible.
 - The older children of the royal family had not emerged as confirmed bearers.
-- Leo's father, born late, was internally confirmed to carry the gene.
+- Jack, born late, was internally confirmed to carry the gene.
 - This made him the strongest legitimate claimant to the throne under the kingdom's own belief system.
 
 ## Ancient hostile force
@@ -81,24 +94,28 @@
 
 ## Split kingdom history
 
-- The present rival kingdoms were once part of a single older kingdom.
-- A long conflict between brothers eventually split that older kingdom into two realms.
-- The king of the opposing kingdom is the uncle of the king on Leo's side.
+- Eden and Thorne were once part of a single older kingdom.
+- A long conflict between brothers eventually split that older kingdom into two realms: Eden and Thorne.
+- Dorian, king of Thorne, is the uncle of Gideon, king of Eden.
 - The current interstate rivalry sits on top of that older dynastic fracture.
 
 ## The King's rise
 
-- The King is the older brother of Leo's father.
+- The King is the older brother of Jack.
 - Traitors already close to the future King had stayed behind after the kingdom split and played both sides, working to poison his thinking over time.
 - They convinced him he had been lied to about the ancients gene, that he was the true bearer, and that he was destined to find the crystal.
-- After Leo's father was internally confirmed as a real gene-bearer, the future King moved quickly before that discovery could spread outward.
+- He discovered quickly that he was not the actual gene holder and that the manipulation had deceived him.
+- Since that discovery, his pursuit of the crystal has been entirely self-motivated — driven by personal ambition, legitimacy fear, and selfish desire rather than the original manipulation.
+- After Jack was internally confirmed as a real gene-bearer, the future King moved quickly before that discovery could spread outward.
 - He arranged the deaths of his parents and siblings.
-- Leo's father survived as an infant.
+- Jack survived as an infant.
 - Around the same time, a deeper doctrinal truth surfaced inside the castle: the stronger prophesied figure should be able to read the ancients' language at a glance.
-- The King spared Leo's father because the baby's confirmed gene status and possible future value around ancient translation made him too useful to kill, especially in connection to the crystal.
-- Leo's father's birth records and royal identity were erased.
+- The King spared Jack because the baby's confirmed gene status and possible future value around ancient translation made him too useful to kill, especially in connection to the crystal.
+- Jack's birth records and royal identity were erased.
+- His birth name, Rowan, was replaced by the King with Jack — a deliberately plain name, an act of quiet domination disguised as ordinary renaming.
 - He was raised as an orphaned commoner the King had supposedly taken in out of kindness.
-- Leo's father grew up believing this lie.
+- Leo knows him only as Jack. Rowan is a truth buried with everything else about his father's real life.
+- Jack grew up believing this lie.
 - He grew up grateful to the King and loyal to him.
 - That royal identity remained hidden from the village as well.
 
@@ -124,19 +141,19 @@
 
 ## Military and exile history
 
-- Leo's father, Richard, and Marshe's father were high-ranking royal army members.
-- Richard rose to General before Leo's father later replaced him.
+- Jack, Richard, and Marcus were high-ranking royal army members.
+- Richard rose to General long before Jack later replaced him.
 - Richard was one of the King's most useful and risky assets.
-- He was trusted with many secrets, but not the deepest truths behind the King's rise or Leo's father's hidden identity.
-- Leo's father was widely respected and battle-tested before exile.
-- Marshe's father carried envy toward Leo's father and believed the later rise to General should have been his.
-- The King ordered Leo's father, Marshe's father, and Leo's father's squadron to wipe out the other exiled village, erase its history, and retrieve the crystal.
-- Leo's father refused once he understood the truth of the mission.
-- Marshe's father wanted to obey.
-- Marshe's father already had a wife and young son at that point, while Leo's father did not yet have Leo.
-- Marshe's father later resented Leo's father in part because he believed Leo's father's refusal came from a position with less immediate family risk.
-- Leo's father aborted the mission and returned.
-- The King exiled the entire squadron, then secretly executed everyone except Leo's father and Marshe's father.
+- He was trusted with many secrets, but not the deepest truths behind the King's rise or Jack's hidden identity.
+- Jack was widely respected and battle-tested before exile.
+- Marcus carried envy toward Jack and believed the later rise to General should have been his, though he never openly declared it — the envy expressed itself as persistent friction rather than outright confrontation.
+- The King ordered Jack, Marcus, and Jack's squadron to wipe out the other exiled village, erase its history, and retrieve the crystal.
+- Jack refused once he understood the truth of the mission.
+- Marcus wanted to obey.
+- Marcus already had a wife and young son at that point, while Jack did not yet have Leo.
+- Marcus later resented Jack in part because he believed Jack's refusal came from a position with less immediate family risk.
+- Jack aborted the mission and returned.
+- The King exiled the entire squadron, then secretly executed everyone except Jack and Marcus.
 - Malicious rumors were spread to discredit the survivors publicly and make the exile of such revered soldiers seem justified.
 - That reputation-poisoning also protected the King's own image by keeping the event from reading as a cruel public punishment carried out by a supposedly gracious and holy ruler.
 
@@ -157,9 +174,9 @@
 - Richard's silence around Esmeralda is also part of his broader pattern of looking away from dangerous partial truth when he believes exposure would terrify the people without protecting them.
 - By that later period, Esmeralda had already been born and Leo was also born in the exile village.
 
-## Personal texture around Leo's father
+## Personal texture around Jack
 
-- In healthier years, Leo's father was outgoing, helpful, and deeply neighborly.
+- In healthier years, Jack was outgoing, helpful, and deeply neighborly.
 - In exile, he remained well-liked and generous before the sickness made him reclusive.
 - Leo was the greatest joy in his life.
 
@@ -168,35 +185,35 @@
 - Richard knew some of the King's wrongdoing before exile, but not the full architecture of the regime.
 - He served for decades in close proximity to the King and saw enough violence, suppression, and concealment to know the regime was morally rotten in ways the public did not see.
 - He did not know how the King achieved his status.
-- He did not know the King's true relationship to Leo's father during his years of service.
+- He did not know the King's true relationship to Jack during his years of service.
 - He did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic promise attached to it.
 - He noticed suppression around knowledge, doctrine, and records even before he understood the full theft behind it.
 - He stayed silent about some of what he noticed because he believed premature exposure would bring panic and fear to the people without protecting them.
 - Later he connected doctrinal drift, hidden legitimacy, and the crystal into a fuller understanding.
-- That is when he began planning rebellion with the goal of putting Leo's father in his rightful place on the throne.
-- Leo's father eventually accepted that cause, but the sickness cut the path short before it could become open action.
+- That is when he began planning rebellion with the goal of putting Jack in his rightful place on the throne.
+- Jack eventually accepted that cause, but the sickness cut the path short before it could become open action.
 
 ## Weapons and hidden resistance
 
 - Weapons are banned in the exile village.
 - Richard secretly works as a blacksmith while publicly living as a carpenter.
-- Leo's father kept a hidden cache of weapons in his room.
+- Jack kept a hidden cache of weapons in his room.
 - Leo did not know that cache existed.
-- Richard sometimes made new weapons for Leo's father to test.
+- Richard sometimes made new weapons for Jack to test.
 - Richard quietly watches over Esmeralda from afar when he can, despite having no public claim on her life.
 
 ## Crystal
 
 - The crystal is a real object of power.
 - It is connected to awakening or reaching the ancients.
-- The King has spent decades researching it.
-- An opposing kingdom is also seeking it.
-- That kingdom is not wholly foreign in origin, but the splintered continuation of an older shared royal history.
-- That opposing kingdom had already spent decades studying this kingdom's religion, succession logic, and weak points in order to reach the crystal without needing open war.
-- Its long sabotage campaign helped shape the King's rise from inside the castle.
-- The opposing kingdom is acting under pressure from the same weakened hostile force that wants the ancients erased.
-- The ruler of that kingdom has made a bargain with the force in exchange for the crystal.
-- That ruler is truly old, but was granted restored youth early so he could better prepare to seize it.
+- Gideon has spent decades researching it.
+- Thorne, the rival kingdom, is also seeking it.
+- Thorne is not wholly foreign in origin, but the splintered continuation of an older shared royal history.
+- Thorne had already spent decades studying Eden's religion, succession logic, and weak points in order to reach the crystal without needing open war.
+- Its long sabotage campaign helped shape Gideon's rise from inside the castle.
+- Thorne is acting under pressure from the same weakened hostile force that wants the ancients erased.
+- Dorian, ruler of Thorne, has made a bargain with the force in exchange for the crystal.
+- Dorian is truly old, but was granted restored youth early so he could better prepare to seize it.
 - The crystal is effectively closer than the King's side realizes, but interpretation failures prevent them from locating it cleanly.
 
 ## Future-prophecy thread

@@ -14,20 +14,24 @@
 
 #### World overview
 
-A medieval kingdom contains an isolated village on its outskirts. The village functions as a place of exile for people cast out from the kingdom.
+The story takes place in Eden, a medieval kingdom with an isolated village on its outskirts. The village functions as a place of exile for people cast out from the kingdom. Eden is ruled by Gideon.
 
 #### Kingdom rule
 
 - The kingdom is ruled by a dictator King with a carefully maintained positive public image.
 - His authority is sustained by propaganda, manipulated historical records, and weaponized religion.
 - Much of the public accepts his legitimacy because the supporting evidence has been fabricated, altered, or selectively preserved.
+- The kingdom is a hereditary monarchy where the crown passes to whichever child carries the ancients gene.
+- Succession is confirmed internally first, then formalized through a public coronation presenting the heir as legitimate and spiritually chosen.
+- A formal church with an organized clerical hierarchy exists; its clerical leader has been compromised by the King.
+- The King holds himself above the institution by staging doctrinal findings and supporting convenient amendments to religious texts.
 
-#### Opposing kingdom pressure
+#### Thorne
 
-- The opposing kingdom is ruled by the uncle of the king on Leo's side.
+- Thorne is ruled by Dorian, the uncle of Gideon, king of Eden.
 - The two present kingdoms were once one older kingdom before a long brother-conflict split them apart.
-- The opposing kingdom is acting under pressure from the ancient hostile force.
-- Its king made a bargain to deliver the crystal in exchange for restored youth.
+- Thorne is acting under pressure from the ancient hostile force.
+- Dorian made a bargain to deliver the crystal in exchange for restored youth.
 - He is actually quite old, but now appears as a strong young nobleman because the bargain paid out early.
 - That restored youth gives him the bodily strength and political advantage to pursue the crystal more aggressively.
 
@@ -60,17 +64,17 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 #### Backstory: army exile event
 
-- Leo's father and Marshe's father were members of the royal army.
+- Jack and Marcus were members of the royal army.
 - Richard was also one of their comrades.
 - Richard served as one of the King's most useful and risky assets, trusted with many secrets but not the deepest truths of the regime.
-- Marshe's father had long envied Leo's father and believed the later rise to General should have been his.
-- The King ordered Leo's father, Marshe's father, and Leo's father's squadron to wipe out another exiled village, erase its history, and retrieve the crystal.
-- Leo's father refused once he understood the truth of the order.
-- Marshe's father wanted to obey.
-- Marshe's father already had a wife and young son by then, which shaped how he judged the refusal.
-- He later carried resentment toward Leo's father because he believed Leo's father chose principle from a position with less immediately at stake.
-- Leo's father aborted the mission and returned.
-- The King exiled the squadron and secretly executed everyone except Leo's father and Marshe's father.
+- Marcus had long envied Jack and believed the later rise to General should have been his.
+- The King ordered Jack's squadron (including Marcus) to wipe out another exiled village, erase its history, and retrieve the crystal.
+- Jack refused once he understood the truth of the order.
+- Marcus wanted to obey.
+- Marcus already had a wife and young son by then, which shaped how he judged the refusal.
+- He later carried resentment toward Jack because he believed Jack chose principle from a position with less immediately at stake.
+- Jack aborted the mission and returned.
+- The King exiled the squadron and secretly executed everyone except Jack and Marcus.
 - He supported that exile with reputation-poisoning so the fall of such revered soldiers would appear justified rather than suspicious.
 - This also protected his carefully maintained image by keeping the event from reading as openly vindictive rule.
 - Richard was exiled later after the King decided he knew too much and had to be buried politically as well.
@@ -80,12 +84,12 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 #### Hidden royal lineage
 
-- The King is the older brother of Leo's father.
+- The King is the older brother of Jack.
 - Public knowledge about which royal children carried the ancients gene was never cleanly settled outside the castle.
 - Inside the castle, gene-bearing status was tracked much more closely than the public understood.
 - The older children had not emerged as confirmed bearers.
-- Late in life, their parents had one more child: Leo's father.
-- Leo's father was internally confirmed to be the bearer of the ancients gene.
+- Late in life, their parents had one more child: Jack.
+- Jack was internally confirmed to be the bearer of the ancients gene.
 - This made him the strongest legitimate claimant to the throne under the kingdom's belief system.
 - A future-generation prophecy points toward an even stronger figure who will lead the people back to the ancients.
 - Leo may eventually embody that future fulfillment, though this is not publicly known and the King does not yet understand the threat.
@@ -96,17 +100,18 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 
 - Traitors already close to the future King had stayed behind after the kingdom split and played both sides, manipulating him over many years.
 - They convinced him he had been lied to about the ancients gene and that he was destined to find the crystal.
-- Once Leo's father was internally confirmed as the true bearer, the future King moved to seize power before that knowledge could spread outward.
+- Once Jack was internally confirmed as the true bearer, the future King moved to seize power before that knowledge could spread outward.
 - He arranged for his parents and siblings to be killed.
-- Leo's father survived as an infant.
+- Jack survived as an infant.
 - A deeper doctrinal discovery inside the castle suggested the stronger prophesied figure should be able to read the ancients' language at a glance.
-- The King chose not to kill Leo's father because the child might later prove useful in relation to the crystal and ancient translation.
+- The King chose not to kill Jack because the child might later prove useful in relation to the crystal and ancient translation.
 - After taking power, the King began a slow initiative to rewrite history and religion.
 - He used paid-off historians and priests to reshape public truth over time, later narrowing real access to a trusted propaganda team.
 - Richard noticed doctrinal distortion, suppression, and concealed violence during his years of service, but did not yet understand the full system behind it.
-- He killed or silenced people who knew too much about the real history, religion, or Leo's father's birth.
-- He erased records of Leo's father's royal identity.
-- He reintroduced Leo's father as an orphaned commoner whom he had supposedly taken in out of kindness.
+- He killed or silenced people who knew too much about the real history, religion, or Jack's birth.
+- He erased records of Jack's royal identity.
+- He renamed him Jack — replacing his birth name Rowan with something deliberately plain, a quiet act of domination most people would never recognize as one.
+- He reintroduced Jack as an orphaned commoner whom he had supposedly taken in out of kindness.
 - He later forced a woman to bear him a child in order to secure an heir.
 - That woman had secretly become a love interest of Richard's after Richard lost his wife.
 - Richard, not the King, is Esmeralda's biological father.
@@ -158,13 +163,13 @@ A medieval kingdom contains an isolated village on its outskirts. The village fu
 - Age: about 16
 - Logical, observant, rejects superstition
 - Socially isolated and bullied
-- Recently lost his father
+- Recently lost his father (Jack)
 - Loved his father deeply and had been close with him before the illness
 - Remembers his mother only in warm, blurry fragments because she died when he was still young
-- Born in the exile village as the hidden continuation of Leo's father's bloodline
+- Born in the exile village as the hidden continuation of Jack's bloodline
 - May eventually embody the stronger future-facing prophecy
 
-#### Leo's father
+#### Jack (Leo's Father)
 
 Pre Exile:
 - Younger brother of the King
@@ -190,11 +195,11 @@ Post Exile:
 
 Pre Exile:
 - Former royal army member
-- Former comrade of Leo's father and Marshe's father
-- Rose through the army to General before Leo's father later replaced him
+- Former comrade of Jack and Marcus
+- Rose through the army to General before Jack later replaced him
 - Served as one of the King's most trusted but also most dangerous assets
 - Knew some hidden wrongdoing and doctrinal irregularity without understanding the full truth of the King's rise
-- Did not know the King was Leo's father's brother during his years of service
+- Did not know the King was Jack's brother during his years of service
 - Did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic right attached to it
 
 Post Exile:
@@ -202,23 +207,23 @@ Post Exile:
 - Neighbor feared by the village
 - Publicly lives as a carpenter
 - Secretly works as a blacksmith
-- Secretly tasked by Leo's father to watch over Leo
+- Secretly tasked by Jack to watch over Leo
 - Maintains distance intentionally to let Leo grow independently
-- Secretly forged weapons for Leo's father after exile
+- Secretly forged weapons for Jack after exile
 - Maintained outside contacts and became the practical bridge between buried truth and possible rebellion
 - Stayed silent about some of what he had noticed because he believed exposure would panic the people without protecting them
-- Later revealed to have killed Marshe's father to stop an attack on the town elders
+- Later revealed to have killed Marcus to stop an attack on the town elders
 - Shunned by the town because the killing was graphically violent in front of witnesses
 
 - Secretly Esmeralda's biological father, though neither the King nor Esmeralda knows it
 - Knows Esmeralda is his daughter and protects her from afar
 
-#### Marshe's father
+#### Marcus (Marshe's father)
 
 Pre Exile:
 - Former royal army member
-- Former comrade of Leo's father
-- Long carried envy toward Leo's father, believing the rise to General should have been his
+- Former comrade of Jack's
+- Long carried envy toward Jack, believing the rise to General should have been his
 
 Post Exile:
 - Later driven into a sickness-fueled rage
@@ -229,17 +234,17 @@ Post Exile:
 
 - Specific bully who targets Leo
 - Older and physically dominant over Leo
-- Son of Leo's father's former comrade
+- Son of Jack's former comrade
 - Has a hostile relationship with Leo that clearly predates the current story moment
 
 #### The King
 
 - Dictator ruler of the kingdom
-- Older brother of Leo's father
+- Older brother of Jack
 - Maintains legitimacy through propaganda, altered records, and weaponized religion
 - Positioned himself as the prophesied figure tied to the ancients
 - Spent decades researching the crystal
-- Hopes Leo's father's bloodline will die in exile and bury the truth forever
+- Hopes Jack's bloodline will die in exile and bury the truth forever
 - Public father of Esmeralda
 - Publicly positioning Esmeralda as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients
 
@@ -262,25 +267,25 @@ Post Exile:
 
 #### Sword
 
-- Originally belonged to Leo's father
+- Originally belonged to Jack
 - Passed to Richard
 - Intended for Leo
 - Recognizable to the kingdom
 
 #### Hidden weapons cache
 
-- Leo's father kept a large hidden collection of weapons in his room
+- Jack kept a large hidden collection of weapons in his room
 - Leo did not know the collection existed
-- Richard sometimes made new weapons for Leo's father to test
+- Richard sometimes made new weapons for Jack to test
 
 #### Crystal
 
 - Real object of power
 - Connected to awakening or reaching the ancients
-- Sought by the King for decades
-- Also sought by an opposing kingdom
-- That opposing kingdom is the splintered continuation of an older shared kingdom rather than a wholly separate outside state
-- The opposing kingdom has spent decades studying this kingdom's religion and history in order to intercept the crystal without a major war
+- Sought by Gideon for decades
+- Also sought by Thorne
+- Thorne is the splintered continuation of an older shared kingdom rather than a wholly separate outside state
+- Thorne has spent decades studying Eden's religion and history in order to intercept the crystal without a major war
 - The hostile force is using the crystal struggle as one of its remaining paths back into meaningful influence
 
 ---
@@ -418,11 +423,11 @@ Post Exile:
 - Leo limps home
 - He sits and reflects
 
-##### Sequence 17: father versus Marshe's father flashback
+##### Sequence 17: Jack versus Marcus flashback
 
 - The men argue, though the dialogue is inaudible
-- Marshe's father swings first
-- Leo's father dodges and counters skillfully
+- Marcus swings first
+- Jack dodges and counters skillfully
 - A fight follows
 - Young Marshe witnesses it and is horrified
 
@@ -464,7 +469,7 @@ Post Exile:
 3. Father sick
 4. Family marketplace
 5. Crystal and general
-6. Father versus Marshe's father fight
+6. Jack versus Marcus fight
 7. Father training observation
 
 ### Character threads
@@ -484,17 +489,17 @@ Post Exile:
 
 - Silent protector
 - Indirect intervention
-- Shunned after killing Marshe's father to stop an elder attack
+- Shunned after killing Marcus to stop an elder attack
 - Remembered by the town for the gore of the act more than the lives he saved
 - Public carpenter, secret blacksmith
-- Carries the remains of a rebellion that died when Leo's father fell ill
+- Carries the remains of a rebellion that died when Jack fell ill
 - Holds fragments of deeper truth that cannot yet be spoken cleanly
 - A man who once accepted silence as the lesser harm and later has to live with the cost of that choice
 - Secret fatherhood and private loss deepen his connection to the kingdom's stolen lineage
 - Loves Esmeralda from afar and accepts distance as the price of keeping her alive
 - Structurally, he operates as a protector, a delayed truth-carrier, and the living cost of compromised resistance
 
-#### Leo's father
+#### Jack
 
 - Secretly prepared by Richard for a greater political future he did not initially want
 - Keeps a hidden arsenal even from Leo
@@ -509,8 +514,10 @@ Post Exile:
 
 - Stole legitimacy by killing, erasing, and rewriting
 - Suppresses hidden doctrine he cannot fulfill
+- Was initially manipulated into believing he was the gene holder; discovered quickly he was not and has pursued the crystal from selfish desire ever since
 - Uses exile as a way to bury dangerous bloodlines and truths
 - Treats Esmeralda as a public solution to the succession problem even though that solution is false at multiple levels
+- In Act 2, recognizes almost immediately that Leo is the son of his exiled brother and former soldier
 - Structurally, he is the offscreen force that ties together exile, false legitimacy, prophetic fraud, and the lost rebellion
 
 #### Esmeralda
@@ -530,20 +537,53 @@ Post Exile:
 - Early dominance over Leo established
 - Feels like a bully with unexplained history tied to Leo
 - Should also carry pity as a child shaped by a cruel world, without softening the threat too early
+- For most of his life knew only that a man killed his father during the elder attack — not who specifically
+- Discovers (offscreen, Act 1) that Richard was that man
+- That discovery directly triggers his murder of Richard in his sleep
+- Leo finds him at the scene, which leads into the Marshe death events
 - Structurally, he is the bridge between everyday humiliation and later lethal tragedy
+
+#### Act 2
+
+##### Leo brought to the King
+
+- Esmeralda finds Leo collapsed after the Marshe death events and returns to the castle to report a boy outside the walls
+- The King scolds her for leaving the castle
+- He sends the Aldric to retrieve the boy
+- The Aldric finds Leo unconscious and immediately recognizes the insignia on the sword
+- Leo is brought before the King while still unconscious
+- The King takes time to consider what to do with him before acting
+- When Leo wakes, the King immediately begins manipulating him: tells him he once cared for Jack and raised him to be a strong man, but that his father turned his back on the kingdom — painting him as a traitor who fled his duty rather than a soldier who refused on moral grounds
+- The King offers to take Leo in and make him strong like his father once was
+- Leo is trained under the King's arrangement for approximately two years
+- He is not allowed to live within the castle walls but reports to training and meetings with the King regularly
+- Leo proves adept at training and learns very quickly, mirroring a pattern the King recognized in Jack
+- That recognition is what drives the King's decision to keep Leo out of the army entirely
+- The King's true plan is to shape Leo into a personal mercenary — someone to carry out tasks meant to be done in the dark, kept close and controlled rather than elevated through the ranks
+- The King treats Leo warmly and makes him feel welcomed and genuinely cared for
+- Leo becomes genuinely close to Esmeralda during this period
+- The King issues Leo distinctive black hooded clothing different from everyone else — framed as a mark of his status, functioning as a tracking mechanism for the King's soldiers
+- Esmeralda is given a parallel arrangement — all-black clothing rather than hooded — serving the same tracking purpose; she does not know this
 
 ### Locked later reveal
 
-- Marshe's father, driven by rage induced by the sickness, later attempts to attack the town elders during a formal event.
+- Marcus, driven by rage induced by the sickness, later attempts to attack the town elders during a formal event.
 - Richard acts fast and kills him.
 - The elders are saved.
 - The gore of the killing horrifies the townspeople.
 - Richard is shunned for the spectacle instead of being rewarded for saving the elders.
-- Richard secretly continued blacksmithing after exile despite the village weapon ban and forged weapons for Leo's father to test.
-- He maintained outside contacts and began building toward a rebellion around Leo's father's legitimacy.
-- Richard eventually uncovered enough truth to persuade Leo's father, who resisted at first out of disbelief and fear for Leo, then eventually accepted the cause.
-- That rebellion died when Leo's father contracted the sickness.
-- The deeper royal reveal is that the King is Leo's father's older brother, stole the throne through murder and revision, and raised the true heir under a false commoner identity.
+- Marshe grows up knowing only that a man killed his father — not who.
+- During Act 1, Marshe discovers (offscreen) that Richard was that man.
+- By Act 1, Marshe is in the early stages of the sickness, which is beginning to push him toward violence.
+- His murder of Richard is driven by both real grief and rage over his father and the early sickness loosening his restraint — not wholly one, not wholly the other.
+- Marshe murders Richard in his sleep.
+- Leo finds Marshe at the scene.
+- The Marshe death events play out from there.
+- Richard secretly continued blacksmithing after exile despite the village weapon ban and forged weapons for Jack to test.
+- He maintained outside contacts and began building toward a rebellion around Jack's legitimacy.
+- Richard eventually uncovered enough truth to persuade Jack, who resisted at first out of disbelief and fear for Leo, then eventually accepted the cause.
+- That rebellion died when Jack contracted the sickness.
+- The deeper royal reveal is that the King is Jack's older brother, stole the throne through murder and revision, and raised the true heir under a false commoner identity.
 - The deeper doctrinal reveal is that the King cannot fulfill the suppressed marker of legitimacy, and only his tight propaganda inner circle knows the truth while the broader institution is fed curated findings.
 - The deeper succession reveal is that Esmeralda is not the King's biological child, does not carry the ancients gene, and is being used as a manufactured answer to the same legitimacy crisis.
 - The longer-range prophecy reveal is that Leo may represent the stronger future fulfillment the King does not yet recognize.

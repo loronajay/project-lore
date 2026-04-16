@@ -1,4 +1,4 @@
-# Leo's Father
+# Rowan / Jack (Leo's Father)
 
 ## Status
 
@@ -36,6 +36,9 @@
 ## Buried history
 
 - Did not initially want to accept the buried truth of who he was or what that truth would demand of his life
+- Birth name is Rowan
+- The King renamed him Jack when erasing his royal identity — a deliberate act of stripping dignity, replacing a name with weight with something plain and unremarkable
+- Leo knows him only as Jack; Rowan is a truth buried with everything else
 - Grew up believing the King had rescued him and given him a life of duty and privilege
 - Loved the King as a father figure and benefactor
 - Served the King with complete loyalty because he knew nothing of the betrayal beneath his life
@@ -55,14 +58,14 @@
 
 - Leo: beloved son, close bond before illness, source of inheritance and grief after his decline
 - Richard: longtime comrade, close friend, and later secret collaborator in a larger cause
-- Marshe's father: former comrade, later violent opponent
+- Marcus: former comrade, later violent opponent
 - Mother: family anchor in earlier memories
 - The King: hidden older brother, false benefactor, father-figure bond, and hidden usurper
 
 ## Locked canon
 
 - Secretly observed by Leo while training
-- Defeats Marshe's father in the remembered fight
+- Defeats Marcus in the remembered fight
 - His room remains emotionally off-limits to Leo for now
 - Leo loved him deeply
 - He and Leo were very close before the sickness took hold
@@ -71,10 +74,10 @@
 - Kept a hidden cache of weapons in his room
 - In ordinary life he was respected, outgoing, and helpful
 - In exile he was known as neighborly and generous before the sickness isolated him
-- The King ordered him, Marshe's father, and his squadron to wipe out another exiled village, erase its history, and retrieve the crystal
+- The King ordered him, Marcus, and his squadron to wipe out another exiled village, erase its history, and retrieve the crystal
 - He refused once he understood the truth of the mission
 - He aborted the mission and returned
-- The King exiled the squadron and secretly executed everyone except Leo's father and Marshe's father
+- The King exiled the squadron and secretly executed everyone except Jack and Marcus
 - Was being prepared by Richard for a rebellion intended to claim justice and the throne
 - Initially resisted that path out of disbelief and fear for what it would cost Leo
 - Was internally confirmed as the true gene-bearer in his generation

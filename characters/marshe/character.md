@@ -3,7 +3,7 @@
 ## Status
 
 - Canonical character file
-- Active antagonist pressure in Act 1
+- Active antagonist pressure in Act 1; killed by Leo late in Act 1 after murdering Richard
 
 ## Story role
 
@@ -37,6 +37,9 @@
 - Has a hole in his life created by grief, migration, and inherited shame
 - Redirects frustration about his father and his family's fall onto Leo
 - Lives inside the social aftershock of the failed mission, exile, sickness, and public shame surrounding the older generation
+- By Act 1 is in the early stages of the sickness himself
+- The sickness is beginning to push him toward the madness and violence that define its later stages
+- His actions late in Act 1 are a mix of genuine grief and rage acting on real motive, and early sickness loosening his restraint — neither fully one nor the other
 
 ## Past and inherited history
 
@@ -48,20 +51,21 @@
 ## Relationships
 
 - Leo: chosen target, humiliation outlet, and future victim
-- Marshe's father: loved father, source of legacy, temper, and inherited identity
-- Leo's father: part of the family conflict Marshe witnessed as a child
-- Richard: feared village outcast tied to his father's death and the older generation's hidden history
+- Marcus (his father): loved father, source of legacy, temper, and inherited identity
+- Jack: part of the family conflict Marshe witnessed as a child
+- Richard: for most of his life, Marshe knows only that a man killed his father during the elder attack — not who specifically; learns Richard was that man during Act 1 events (offscreen), which directly triggers his murder of Richard
 
 ## Locked canon
 
-- Young Marshe witnessed Leo's father fight his own father
+- Young Marshe witnessed Jack fight his own father
 - He was horrified by what he saw
 - He loved his father very much
 - He remembers the migration into exile because he was older than Leo
-- He began targeting Leo openly after Leo's father died
-- Leo later kills Marshe
+- He began targeting Leo openly after Jack died
+- For many years he knew only that a man killed his father during the elder attack — not who
+- During Act 1, he discovers (offscreen) that Richard was the man who killed his father
+- That discovery directly triggers his decision to murder Richard in his sleep
+- The murder is driven by both genuine grief and rage over his father, and the early sickness amplifying his capacity for violence — not wholly one, not wholly the other
+- Leo finds Marshe at the scene after the murder
+- The Marshe death events play out from there and Leo kills Marshe
 - His family history is tied to the same royal-army exile event that shaped Leo's family and Richard
-
-## TBD
-
-- How he understands Richard
