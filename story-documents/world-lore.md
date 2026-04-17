@@ -56,6 +56,7 @@
 - Many die in isolation
 - The population is shrinking without full awareness
 - Rare public eruptions of violence deepen communal fear
+- The sickness was deliberately introduced by the ancient hostile force once it learned Jack's bloodline was present in the village — the warlock's curse belief is unwittingly close to the truth, just misattributed
 
 ## Hidden religious doctrine
 
@@ -143,8 +144,6 @@
 
 - Jack, Richard, and Marcus were high-ranking royal army members.
 - Richard rose to General long before Jack later replaced him.
-- Richard was one of the King's most useful and risky assets.
-- He was trusted with many secrets, but not the deepest truths behind the King's rise or Jack's hidden identity.
 - Jack was widely respected and battle-tested before exile.
 - Marcus carried envy toward Jack and believed the later rise to General should have been his, though he never openly declared it — the envy expressed itself as persistent friction rather than outright confrontation.
 - The King ordered Jack, Marcus, and Jack's squadron to wipe out the other exiled village, erase its history, and retrieve the crystal.
@@ -156,23 +155,22 @@
 - The King exiled the entire squadron, then secretly executed everyone except Jack and Marcus.
 - Malicious rumors were spread to discredit the survivors publicly and make the exile of such revered soldiers seem justified.
 - That reputation-poisoning also protected the King's own image by keeping the event from reading as a cruel public punishment carried out by a supposedly gracious and holy ruler.
+- Leo was born in the exile village during this period.
 
 ## Esmeralda and Richard's exile
 
 - The King later forced a woman to bear him a child because he wanted an heir.
 - The child was Esmeralda.
+- Esmeralda's mother had secretly been a love interest of Richard's after Richard lost his wife.
 - Esmeralda is publicly the King's daughter, but Richard is her biological father.
 - Richard knows Esmeralda is his daughter.
 - The King does not know this.
-- Esmeralda's mother had secretly been a love interest of Richard's after Richard lost his wife.
 - He was disappointed she was a daughter.
-- When Esmeralda's mother tried to flee with her, the King had the mother executed.
+- Richard and Esmeralda's mother planned to flee together with Esmeralda. Richard pulled back, deciding exposure would get them all killed and the castle was safer for the child than exile. Esmeralda's mother proceeded without him and was caught and executed. Richard carries the knowledge that his withdrawal is part of why she acted alone.
 - He raised Esmeralda himself and became genuinely attached to her over time.
-- Richard considered fleeing with Esmeralda but chose not to because exposure would have gotten them both killed and the castle could keep her safer than exile.
 - Shortly after Esmeralda's birth, the King realized Richard knew too much and had to be buried politically as well.
 - Richard was exiled after that, once the King decided his proximity to too much hidden truth made him dangerous.
 - Richard's silence around Esmeralda is also part of his broader pattern of looking away from dangerous partial truth when he believes exposure would terrify the people without protecting them.
-- By that later period, Esmeralda had already been born and Leo was also born in the exile village.
 
 ## Personal texture around Jack
 
@@ -195,7 +193,6 @@
 
 ## Weapons and hidden resistance
 
-- Weapons are banned in the exile village.
 - Richard secretly works as a blacksmith while publicly living as a carpenter.
 - Jack kept a hidden cache of weapons in his room.
 - Leo did not know that cache existed.

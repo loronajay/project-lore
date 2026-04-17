@@ -17,7 +17,7 @@
 - Rose through the ranks on merit — word of his prowess spread before Gideon ever tested him directly
 - Passed every test Gideon put to him and was immediately promoted to General
 - His promotion came after Richard's exile
-- Around early 40s by the time Esmeralda discovers Leo
+- Around early 40s in Act 2
 
 ## Core character
 
@@ -36,17 +36,15 @@
 
 ## Relationships
 
-- Gideon: king, the man who recognized and elevated him; his complete frame of reference for legitimate authority
-- Leo: first retrieves him unconscious; later a recurring target and antagonist encounter
-- Richard: preceded him as General; Aldric likely knows the publicly poisoned version of his fall
+- **Gideon**: king, the man who recognized and elevated him; his complete frame of reference for legitimate authority
+- **Leo**: sent by Gideon to retrieve Leo after Esmeralda's report; finds him unconscious and immediately recognizes the royal army insignia on Jack's sword — that recognition is institutional, not personal; he knows the sword's military significance, not the bloodline attached to it; becomes a recurring antagonist encounter through later story events
+- **Richard**: preceded him as General
 
 ## Locked canon
 
-- Rose through the ranks by combat prowess; Gideon tested him personally and promoted him immediately to General
-- His promotion followed Richard's exile
-- Early 40s by Act 2
-- Purely loyal, no hidden agenda, no suppressed doubt
-- Sharp enough to notice things others miss — this is what makes him effective and dangerous
-- Does not start as an antagonist — later story developments place him in direct opposition to the protagonist party
 - Has several encounters with the protagonist party across the story
-- First appearance: sent by Gideon to retrieve Leo after Esmeralda's report; finds Leo unconscious and recognizes the royal army insignia on Jack's sword
+- Do not introduce as an antagonist from the start — his opposition develops through later events, not from his first appearance
+
+## TBD
+
+- What Aldric knows about Richard's fall — whether he accepts the publicly poisoned version or has independent knowledge from their overlapping institutional history

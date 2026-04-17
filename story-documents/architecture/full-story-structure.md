@@ -61,6 +61,7 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - It can no longer dominate large parts of the world directly.
 - It now works through individuals, bargains, and targeted corruption.
 - It wants the ancients' history erased from the world.
+- It can introduce targeted biological corruption as a weapon — the sickness in the exile village was deployed deliberately once it learned Jack's bloodline was present there.
 
 #### Backstory: army exile event
 
@@ -120,7 +121,7 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - When that child, Esmeralda, was born female, he was disappointed.
 - After Esmeralda's mother tried to escape with her, he had the mother executed.
 - He then raised Esmeralda himself and grew genuinely attached to her over time.
-- Richard considered fleeing with Esmeralda but understood they would both be killed if the truth surfaced, so he left her alive inside the castle.
+- Richard and Esmeralda's mother planned to flee together with Esmeralda. Richard pulled back — he judged that exposure would get them all killed and the castle was safer for the child than exile. Esmeralda's mother proceeded without him and was caught and executed. Richard carries the knowledge that his withdrawal is part of why she acted alone.
 - Shortly after Esmeralda's birth, the King concluded Richard knew too much and exiled him.
 - That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
 - Rather than raise another child, he began claiming Esmeralda as the fulfillment of the existing prophecy, positioning her as the super modern ancient meant to lead the people back to the ancients, despite her lack of the ancients gene.
@@ -152,7 +153,8 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - Infected individuals sometimes kill loved ones inside homes.
 - Many die in isolation.
 - The population is gradually shrinking without full public awareness.
-- Rare public eruptions of violence deepen the town's fear.
+- Rare public eruptions of violence deepen communal fear.
+- The sickness was deliberately introduced by the ancient hostile force once it learned Jack's bloodline was present in the village — the warlock's curse belief is unwittingly close to the truth, just misattributed.
 
 ---
 
@@ -268,9 +270,11 @@ Post Exile:
 #### Sword
 
 - Originally belonged to Jack
-- Passed to Richard
-- Intended for Leo
+- Now held by Richard
 - Recognizable to the kingdom
+- Richard planned to give it to Leo, breaking the spirit of the promise he made to Jack — he held back at first out of respect for that promise, but decided the boy was destined to rule the kingdom and that withholding it would be the greater wrong
+- Richard is murdered before he can act on that decision
+- The sword does not reach Leo through Richard's hand
 
 #### Hidden weapons cache
 

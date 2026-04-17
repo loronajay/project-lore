@@ -17,6 +17,11 @@
 - Seen as weak
 - Associated with his father's household and local reputation
 
+## Act 1 opening
+
+- Has two dreams across Act 1: a battlefield dream at the opening, and a crystal dream later during his nighttime collapse
+- In the crystal dream, a figure in armor holds a crystal upward offering it; a mounted general reaches down and takes it, then turns his face toward Leo — the identity of the mounted general is unknown to Leo and unrevealed to the viewer; a later reveal establishes he is Dorian
+
 ## Current screenplay state
 
 - Recently lost his father
@@ -34,14 +39,26 @@
 - Was very close with his father before the illness
 - Remembers his mother only in soft, fuzzy fragments
 - Carries warmth and nostalgia around those memories rather than clear detail
+- His mother died when he was still young from an illness unrelated to the sickness that later took his father
 - Hungry, ashamed, and under pressure
 - Feels inadequate compared to his father
+
+## Screenplay presence
+
+- About 16; slight build from deprivation, not stylized thinness — tired eyes, physical awkwardness in present-day body language
+- Moves carefully in public; takes up little space when socially pressured; speeds up only when fear or urgency takes over
+- Memory ages: roughly 3–4 in the mother memory (humming, jewelry box in her hands); roughly 12 at his sick father's door; roughly 10 watching Jack train through the curtain gap
+- His first words about the jewelry box: "Not this" — quiet, to no one
+- The decision to carry the jewelry box to repay Richard costs him more than expected: he is not just carrying something valuable out of the house, he is carrying the last object that still feels like his mother stayed behind in tangible form
+- His collapse at night is not dramatic — his knees hit the floor first, then his side; he lies there and doesn't get up
+- Finding the box in the alley: joy breaks through his face, sudden and unguarded — then he opens the lid and it drains out of him slowly; he closes the lid and tucks the box under his arm anyway; "It's still the box"
+- Ends Act 1 in Richard's workshop: standing with the empty jewelry box under his arm and nowhere left to go
 
 ## Act 2 arc
 
 - Esmeralda finds Leo collapsed after the Marshe death events and returns to the castle to report a boy outside the walls
-- The King scolds Esmeralda for leaving the castle, then sends the Aldric to retrieve Leo
-- The General finds Leo unconscious and immediately recognizes the insignia on the sword
+- The King scolds Esmeralda for leaving the castle, then sends Aldric to retrieve Leo
+- Aldric finds Leo unconscious and immediately recognizes the insignia on the sword
 - Leo is brought before the King while still unconscious; the King takes time to consider what to do with him
 - When Leo wakes, the King immediately begins manipulating him — telling him he once cared for Jack and raised him to be a strong man, but that his father turned his back on the kingdom, painting him as a traitor who fled duty rather than a soldier who acted on moral grounds
 - The King offers to take Leo in and make him strong like his father once was
@@ -64,37 +81,24 @@
 
 ## Relationships
 
-- Jack (Leo's Father): deeply loved, source of grief, warmth, inheritance, and hidden mystery; Leo knows him only as Jack — the name Rowan is buried with everything else about who his father truly was
-- Richard: distant protector, not yet openly trusted
-- Marshe: specific bully, recurring threat, unexplained personal history, future tragedy
-- Marcus (Marshe's Father): part of inherited family conflict
-- Mother: source of tenderness, memory, and emotional grounding whose early death left him with only warm fragments of her
-- Esmeralda: becomes a genuine close friend during the two years under the King's arrangement
+- **Jack (Leo's father)**: deeply loved, source of grief, warmth, inheritance, and hidden mystery; Leo knows him only as Jack — the name Rowan is buried with everything else about who his father truly was
+- **Richard**: distant protector, not yet openly trusted
+- **Marshe**: specific bully, recurring threat, unexplained personal history, future tragedy
+- **Marcus (Marshe's father)**: part of inherited family conflict
+- **Mother**: source of tenderness, memory, and emotional grounding whose early death left him with only warm fragments of her
+- **Esmeralda**: becomes a genuine close friend during the two years under the King's arrangement
 
 ## Important objects
 
-- Mother's jewelry box, the last surviving piece of her possessions
-- Jack's sword
+- Mother's jewelry box — the last surviving piece of her possessions; lost during the Marshe chase in Act 1, then recovered — but the jewelry inside is gone
+- Jack's sword — recognizable to the kingdom; Aldric identifies it immediately when he finds Leo
 
 ## Locked canon
 
-- Leo later kills Marshe
-- Leo remembers it as an accident, and it should initially present that way
-- Only later is it revealed that he acted with instinctive, buried skill
-- The trigger is a cornered-animal response
-- Leo was still young when his mother died from an illness unrelated to the sickness that later took his father
-- His memories of her are fuzzy but warmly nostalgic
-- Jack began getting sick not long after the mother's death, but from a different illness
-- The jewelry box is the last piece of his mother's possessions
-- Leo loved his father very much
-- He and his father were very close before the illness
+- Leo later kills Marshe after finding him at Richard's house having evidently just murdered Richard; the event must initially read as an accident to Leo and in the screenplay
+- Only later is it revealed that he acted with buried instinctive skill under a cornered-animal trigger
 - He is the hidden continuation of Jack's bloodline in exile
-- He may ultimately embody the stronger future-facing prophecy the current religion only partially preserves
-- Is retrieved by the Aldric after Esmeralda reports him; brought before the King unconscious
-- The King manipulates him with a false account of his father as a traitor who fled duty
-- Trained under the King for approximately two years, kept outside the castle walls, barred from the army
-- Wears distinctive black hooded clothing issued by the King — a tracking mechanism disguised as status
-- Becomes genuinely close to Esmeralda during his time under the King's arrangement
+- He may ultimately embody the stronger future-facing prophecy the current religion only partially preserves — do not surface in active early-story material
 
 ## TBD
 

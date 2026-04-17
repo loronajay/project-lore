@@ -236,6 +236,7 @@ Post Exile:
 - Corrupts ambitious or desperate rulers
 - Grants selective supernatural benefit to bind those rulers more tightly
 - Works through hidden pressure rather than open conquest
+- Introduces targeted biological corruption to strategically impede or eliminate threats
 
 ### Known bargain
 

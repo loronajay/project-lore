@@ -27,11 +27,17 @@
 - Targets Leo specifically rather than acting like a general village menace
 - Uses humiliation, fear, and violence together
 - Participates in harassment at Leo's house later
-- Should first read as a bully with unexplained personal history tied to Leo
+
+## Screenplay presence
+
+- Older than Leo by a couple of years and bigger by more than that
+- Looks at Leo the way someone looks at a problem they have been thinking about for a while; not out of breath after the chase
+- His beating of Leo is measured and deliberate, not berserk — "There is history in it — not a stranger's violence but something specific, aimed, personal. It has Leo's name on it."
+- Key line: "Where do you think you're going?"
+- Backs off when a woman's voice comes sharp from an upper window; spits near Leo, holds a look, then leaves
 
 ## Inner reality
 
-- Misunderstood kid shaped by a cruel world he did not choose
 - Carries inherited damage from his father's history
 - Loved his father deeply
 - Has a hole in his life created by grief, migration, and inherited shame
@@ -44,28 +50,22 @@
 ## Past and inherited history
 
 - Was traumatized by losing his mother and being forced into exile
-- Present in both past and present story threads
-- Connected to family violence even before the later reveal around his father
-- Inherits the consequences of a deeper military and political fracture he does not fully understand
+- Old enough to remember the migration into exile — older than Leo at the time
+- Witnessed Jack fight his own father when he was young and was horrified by what he saw
+- Grew up around his father's resentment toward Jack, absorbing it without fully understanding its political roots
+- Began targeting Leo openly after Jack died
 
 ## Relationships
 
-- Leo: chosen target, humiliation outlet, and future victim
-- Marcus (his father): loved father, source of legacy, temper, and inherited identity
-- Jack: part of the family conflict Marshe witnessed as a child
-- Richard: for most of his life, Marshe knows only that a man killed his father during the elder attack — not who specifically; learns Richard was that man during Act 1 events (offscreen), which directly triggers his murder of Richard
+- **Leo**: chosen target, humiliation outlet, and future victim; becomes the easiest place for inherited anger to land
+- **Marcus (his father)**: loved father, source of legacy, temper, and inherited identity
+- **Jack**: part of the family conflict Marshe witnessed as a child
+- **Richard**: for most of his life, Marshe knows only that a man killed his father during the elder attack — not who specifically; discovers during Act 1 (offscreen) that Richard was that man, which directly triggers his murder of Richard
 
 ## Locked canon
 
-- Young Marshe witnessed Jack fight his own father
-- He was horrified by what he saw
-- He loved his father very much
-- He remembers the migration into exile because he was older than Leo
-- He began targeting Leo openly after Jack died
-- For many years he knew only that a man killed his father during the elder attack — not who
-- During Act 1, he discovers (offscreen) that Richard was the man who killed his father
-- That discovery directly triggers his decision to murder Richard in his sleep
-- The murder is driven by both genuine grief and rage over his father, and the early sickness amplifying his capacity for violence — not wholly one, not wholly the other
+- Discovers Richard's identity offscreen during Act 1; murders Richard in his sleep
 - Leo finds Marshe at the scene after the murder
-- The Marshe death events play out from there and Leo kills Marshe
-- His family history is tied to the same royal-army exile event that shaped Leo's family and Richard
+- Leo kills Marshe — the event must initially read as an accident; the buried instinctive skill is a later reveal
+
+## TBD

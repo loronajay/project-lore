@@ -27,6 +27,15 @@
 - Avoids stepping into an early father-surrogate role
 - Lets action carry care more often than speech does
 
+## Screenplay presence
+
+- Hard to age at a glance — fifties, maybe older; burly, muscular beneath the old age; not a typical carpenter build
+- Fingers rough and darkened in places, like the work on them never fully comes off
+- Looks at Leo the way you look at a calculation, not a person — his eyes go to the object first, then the face
+- Speaks in plain declaratives with nothing wasted: "That dish. What do you want for it." / "Step away from the door." / "You came from the alley." / "You're hurt."
+- Before addressing Leo in the workshop, crosses to the shutter and checks the lane first — security before conversation
+- When his eyes drop to the jewelry box in Leo's arm, he doesn't ask about it
+
 ## Inner reality
 
 - Indirectly protective
@@ -41,26 +50,23 @@
 ## Hidden history
 
 - Lost his wife before later falling in love with the woman who became Esmeralda's mother
-- That relationship was broken by the King's coercive claim over her
-- Was one of the King's most useful and risky assets during his years of service
-- Esmeralda is Richard's biological daughter
-- He knew all along that she was his daughter
+- That relationship was broken when the King chose her to bear his heir
+- Richard and Esmeralda's mother had planned to flee together; Richard pulled back, judging exposure would get them all killed; she went alone and was caught and executed
+- He then let Esmeralda remain in the castle, believing the safety and comfort it offered was more than he could give her in exile
+- Esmeralda is Richard's biological daughter; he has known all along
 - Loves her from afar and quietly watches over her when he can
-- He considered fleeing with her but understood they would both be killed if the truth surfaced
-- He let her remain in the castle because it offered safety and comfort he could not give her in exile
-- Neither Esmeralda nor the King knows that truth
+- Neither Esmeralda nor the King knows the truth
 - Her public life inside the palace stands in painful contrast to Richard's exile and silence
 - Esmeralda strongly resembles her mother
 
 ## Hidden work
 
-- Secretly a full blacksmith
-- Keeps his blacksmithing hidden because weapons are banned in the village
-- Continues practicing in secret despite the risk of audits
-- Secretly forges weapons in the village
+- Publicly lives as a carpenter; secretly practices as a full blacksmith
+- Keeps his blacksmithing hidden — weapons are banned in the village and subject to royal soldier audits
 - Regularly made new weapons for Jack to test
 - Helped preserve a hidden martial capacity inside a village forbidden from bearing arms
 - Maintained secret outside contacts
+- Was one of the King's most useful and risky assets during his years of service
 - Knew some of the King's hidden wrongdoing while still serving him, but not the full structure behind it
 - Noticed doctrinal drift before he understood how it connected to the stolen royal line
 - Was trusted with many of the King's secrets, but not all of them
@@ -75,26 +81,16 @@
 - Knew Jack as a warm, highly respected man before the sickness turned him inward
 - Was present during the King's rise
 - Rose through the royal military to the rank of General before Jack later replaced him
-- Was exiled later, after the King decided Richard knew too much and needed to be buried politically as well
-- That later exile came shortly after Esmeralda's birth
+- Was exiled separately after Esmeralda's birth — the King decided his proximity to too much hidden truth made him dangerous
 
 ## Relationships
 
-- Richard was also a comrade of Jack and Marcus
-- He was exiled later, after the King decided his proximity to too much hidden truth made him dangerous
-- Leo: watches over him because of a promise or duty tied to Jack
-- Jack: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
-- Marshe: murders Richard in his sleep during Act 1 after discovering Richard was the man who killed his father
-- Esmeralda: biological daughter, known to him but hidden from her, the King, and the public
-- Village: shuns and fears him
-
-## Later public event
-
-- Later revealed to have killed Marcus during a formal event
-- Marcus was driven into rage by the sickness and attempted to attack the town elders
-- Richard acted quickly and stopped him
-- The gore horrified the town
-- He was shunned instead of honored
+- **Jack**: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
+- **Leo**: watches over him because of a promise or duty tied to Jack; keeps distance intentionally and avoids stepping into a father-surrogate role
+- **Esmeralda**: biological daughter, known to him but hidden from her and the King; loved from afar
+- **Marcus**: former comrade; killed during a formal event to stop Marcus's sickness-driven attack on the town elders; the gore horrified the village, who shunned Richard rather than honoring what he stopped
+- **Marshe**: murdered by Marshe in his sleep late in Act 1 after Marshe discovers Richard was the man who killed his father
+- **Village**: shuns and fears him in the aftermath of the Marcus killing
 
 ## Important objects
 
@@ -103,32 +99,11 @@
 
 ## Locked canon
 
-- Richard was part of the same army history as Jack and Marcus
-
-- Richard is not an early warm mentor
-- His help to Leo is indirect
-- He buys Leo's dish
-- He later leaves bread on the returned dish
-- Richard publicly lives as a carpenter while secretly functioning as a blacksmith
-- Richard and Jack shared many years of battle, friendship, and toil
-- Richard served as one of the King's most trusted and dangerous assets without ever seeing the full truth of the regime
-- Richard noticed pieces of doctrinal and political corruption before he understood the larger royal theft behind them
-- Richard was loyal to the people more than to the King
-- Richard became the one who uncovered enough truth to persuade Jack that the rebellion was real and justified
-- Richard was preparing Jack for a future rebellion before the sickness ended that path
-- Marshe learns (offscreen, Act 1) that Richard was the man who killed his father and murders Richard in his sleep
-- Leo finds Marshe at the scene, which triggers the Marshe death events
-- Richard knew Leo was the center of Jack's emotional world
-- Richard was present during the King's rise
-- Richard is Esmeralda's biological father
-- Richard knows Esmeralda is his daughter
-- The woman chosen to bear the King's child had been a love interest of Richard's after the loss of his wife
-- Richard remained in royal life long enough after the squadron exile to father Esmeralda
-- The King later exiled Richard separately once he became too politically dangerous to keep close
-- Richard considered running away with Esmeralda but decided she would be safer alive inside the castle than with him in exile
-- He has loved and watched over Esmeralda from afar ever since
-- Esmeralda closely resembles her mother
-- The King does not know Esmeralda is Richard's daughter
+- Richard is Esmeralda's biological father — keep out of active-story material until deliberately unlocked
+- The King does not know Richard is her biological father
+- Marshe discovers (offscreen, Act 1) that Richard was the man who killed his father and murders Richard in his sleep
+- Leo finds Marshe at the scene, triggering the Marshe death events
+- Richard is not an early warm mentor — his help to Leo is indirect; his care is carried through action, not explanation
 
 ## TBD
 

@@ -18,6 +18,7 @@
 - Can make targeted bargains with rulers and ambitious intermediaries
 - Can grant limited supernatural benefit when doing so serves its longer aim
 - Cannot currently exercise broad world-controlling force on its own
+- Can release targeted biological corruption — it introduced the sickness into the exile village as a subtle instrument once it learned Jack and Rowan's bloodline was there
 
 ## Relationship to the crystal
 

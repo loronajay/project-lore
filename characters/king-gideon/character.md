@@ -62,7 +62,7 @@
 ## Religion and control
 
 - Uses propaganda, manipulated records, and weaponized religion to hold power
-- Positions himself as the prophesied figure tied to the ancients
+- Positions himself as the legitimate current ruler descended from the ancients; separately positions Esmeralda as the future prophesied figure meant to lead the people back to them
 - Knows more of the hidden doctrine than the public does
 - Suppresses the fact that the true prophesied leader should be able to read the ancients' language at a glance
 - Keeps that fact limited to himself and paid-off researchers because he cannot do it
@@ -106,31 +106,10 @@
 
 ## Locked canon
 
-- The King is a dictator with a carefully maintained positive public image
-- His authority is sustained by propaganda, altered records, and weaponized religion
-- He is the older brother of Jack
-- Public knowledge about gene-bearing status was delayed and curated rather than cleanly shared
-- Jack was internally confirmed as the true bearer in his generation
-- Thorne was ruled by his uncle Dorian and descended from an older brother-conflict that split one kingdom into two
-- Traitors already close to the future King stayed behind after the kingdom split, played both sides, and helped radicalize his grievance and sense of destiny
-- Jack grew up loyal to him and grateful for a false rescue
-- The King took the throne through murder, suppression, and revision of history
-- A deeper doctrinal truth about reading the ancients' language at a glance helped make Jack too useful to kill
-- He forced a woman to bear him a child because he wanted an heir
-- He believes Esmeralda is his daughter
+- He is the older brother of Jack — keep out of active-story material until deliberately unlocked
+- Jack's birth name is Rowan; the King renamed him Jack as part of erasing his identity — keep out of active-story material until deliberately unlocked
 - He does not know Richard is Esmeralda's biological father
-- He had Esmeralda's mother executed after she tried to flee with the child
-- He raised Esmeralda himself and became genuinely attached to her
-- He is positioning Esmeralda as the fulfillment of the existing prophecy — the super modern ancient — even though she does not carry the ancients gene
-- His closest priests, historians, and researchers know Esmeralda does not carry the ancients gene
-- That inner circle helps fabricate supporting doctrine and ancient-text discoveries around her legitimacy
-- He raised Esmeralda to believe the existing prophecy points to her as the stronger figure meant to lead the people back to the ancients
-- He later exiled Jack and Marcus after the refused mission
-- He secretly executed everyone else in that squadron
-- He exiled Richard separately later, after deciding Richard knew too much to keep close
-- Jack's birth name is Rowan; the King renamed him Jack as part of erasing his identity — a deliberate stripping of dignity disguised as ordinary life
-- He hopes Jack's bloodline will die in exile and bury the truth forever
-- The crown passes to whichever child carries the ancients gene; succession is confirmed internally before a public coronation
-- A formal church exists with a clerical hierarchy; the clerical leader has been compromised by the King
-- He was initially manipulated into believing he was the gene holder, discovered quickly that he was not, and since then pursues the crystal entirely from selfish desire
-- In Act 2, he recognizes almost immediately that Leo is the son of his exiled brother and former soldier
+- In Act 2, he recognizes almost immediately that Leo is the continuation of Jack's bloodline — he understands the significance before Leo does
+
+## TBD
+

@@ -46,6 +46,7 @@
 - Keep his memories of his mother warm, soft, and incomplete rather than sharply detailed.
 - Keep his buried lineage and prophetic significance out of his conscious understanding in active story material.
 - When writing Leo around his father, emphasize love, loss, and reverence before political meaning.
+- Leo knows his father only as Jack. The birth name Rowan is buried truth — do not surface it in active early-story material.
 - When writing Leo around the jewelry box, treat it as the last surviving piece of his mother and a genuine rupture when lost, not just a useful keepsake.
 
 ### Jack (Leo's Father)
@@ -67,6 +68,7 @@
 - Keep his cruelty targeted, humiliating, and controlled rather than random.
 - Preserve Leo as the emotional landing place for Marshe's inherited resentment, shame, and family damage.
 - Keep him threatening early, but leave room for later pity once the inherited damage becomes clear.
+- By Act 1 Marshe is in the early stages of the sickness, which is loosening his restraint. His murder of Richard is driven by both grief over his father and the sickness pushing him toward violence — not wholly one, not wholly the other.
 
 ### Richard
 
@@ -86,6 +88,7 @@
 - Keep his grief over Jack and the failed rebellion central to his hardness.
 - Preserve his hidden fatherhood of Esmeralda as part of the same knot of love, silence, and compromise rather than as an isolated twist.
 - Keep his connection to Esmeralda hidden in active story material until the story is ready to carry that reveal.
+- Preserve the sword's broken arc: Richard intends to give Leo Jack's sword but is murdered before he can act on that decision. The sword does not reach Leo through Richard's hand.
 
 ### Marcus (Marshe's father)
 
@@ -102,6 +105,7 @@
 - Keep his rule tied to suppression, revision, and controlled interpretation rather than blunt terror alone.
 - Preserve his preference for burying threats through revision, exile, and manufactured legitimacy rather than appearing openly vindictive when it can be avoided.
 - Preserve his inability to fulfill the hidden doctrinal marker.
+- Preserve the distinction between his early manipulation (traitors convinced him he was the true gene holder) and his current self-motivation. He discovered quickly he was not the gene holder. Since then, his pursuit of the crystal and his hold on power have been entirely self-driven — personal ambition and legitimacy fear, not the original deception.
 - Preserve his succession strategy around Esmeralda as a manufactured answer to a legitimacy problem he cannot solve honestly.
 - Keep Leo's future significance outside the King's understanding for now.
 

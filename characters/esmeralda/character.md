@@ -26,24 +26,23 @@
 - Feels loved by her father
 - Knows very little about her mother
 - Believes a fabricated story about how her mother died
-- Grew up being told by the King that she is the stronger figure the existing prophecy already describes — the one meant to lead the people back to the ancients.
-- Has been quietly shaped to believe the existing prophecy points to her.
-- Knows nothing about her father's evil acts
-- Knows nothing about his hidden plans or political manipulations
+- Has been shaped since childhood to believe the existing prophecy points to her — that she is the stronger figure meant to lead the people back to the ancients
+- Knows nothing about her father's evil acts or hidden plans
 - Smart, adventurous, and a bit of a tomboy
 - Used to luxury but more alive outside the castle than within it
 - Often wanders beyond the castle walls because she has more fun among commoners
 - Has many friends her age outside the walls
 - Carries many of Richard's characteristics without knowing why
+- Closely resembles her mother
 - Lives inside a false destiny being built around her
 
 ## Origin
 
-- The King wanted an heir
-- He forced the most beautiful woman in the kingdom to bear his child
-- That woman was secretly a love interest of Richard's from after the loss of his wife
+- The King wanted an heir and forced the most beautiful woman in the kingdom to bear his child
+- That woman was a love interest of Richard's from after the loss of his wife
 - He was disappointed that the child born was a daughter
-- When Esmeralda's mother tried to escape with her, the King had her executed
+- Richard and Esmeralda's mother had planned to flee together; Richard pulled back, judging exposure would get them all killed; she went alone and was caught
+- The King had her executed
 - He then raised Esmeralda himself
 - Over time, he grew genuinely attached to her
 - He now spoils her heavily
@@ -52,75 +51,32 @@
 
 - Being positioned as the heir
 - Being positioned as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients
-- Used by the King as the next vessel of legitimacy
-- Supported by staged doctrinal discoveries and revised ancient texts manufactured around her claim
+- That claim is entirely manufactured: the King knows she does not carry the ancients gene, and his closest priests, historians, and researchers help produce supporting doctrine and ancient-text "discoveries" to legitimize her
+- People suspected of seeing through the lie are silenced
 
 ## Hidden truth
 
 - Richard is Esmeralda's biological father
-- Richard knows she is his daughter
-- The King is not
-- The King does not know this
-- Does not carry the ancients gene
-- The King knows she does not carry it
-- The King's closest priests, historians, and researchers also know the truth about her lack of the ancients gene
+- Richard knows she is his daughter; the King does not
+- She does not carry the ancients gene
 - Her public legitimacy is being manufactured rather than inherited under the kingdom's deeper logic
-- The King chose to claim Esmeralda as the fulfillment of the existing prophecy rather than raise another child
-- That inner circle helps "discover" doctrine and ancient texts to support her claim to that prophesied role
-- People suspected of seeing through the lie are silenced
 - Richard keeps the truth hidden not only because exposure would get them killed, but because he believes the wrong revelation at the wrong time would bring panic and fear without protecting the people
+- She can later weaponize the prophecy because she sincerely believes it already points to her
 
 ## Relationships
 
-- The King: father, source of love, protection, and total deception
-- Mother: almost unknown figure whose real fate has been hidden from her
-- Richard: biological father, known to him but unknown to her and unknown to the King; he loves her from afar and accepts distance as the price of her safety and of a silence he once believed served the people
-- Leo: finds him collapsed after the Marshe death events; returns to the castle to report him, gets scolded by the King for leaving the walls; becomes a genuine close friend during the two years Leo trains under the King's arrangement
+- **The King**: father, source of love, protection, and total deception
+- **Her mother**: almost unknown figure whose real fate has been hidden from her
+- **Richard**: biological father, known to him but unknown to her and unknown to the King; he loves her from afar and accepts distance as the price of her safety; his silence is part of the same broader moral compromise that shaped his whole life
+- **Leo**: finds him collapsed after the Marshe death events; returns to the castle to report him, gets scolded by the King for leaving the walls; the King issues them both distinctive dark clothing — Leo in black hooded garments unlike anyone else's, Esmeralda in all-black — framed as marks of their respective status, functioning as tracking mechanisms for his soldiers; Esmeralda does not know the purpose behind hers; becomes a genuine close friend during the two years Leo trains under the King's arrangement
 
 ## Locked canon
 
-- Esmeralda is publicly the King's daughter
-- She is Leo's age
-- She is beautiful and kind
-- She is smart, adventurous, and a bit of a tomboy
-- She was born because the King forcibly sought an heir
-- Her mother was secretly a love interest of Richard's from after the loss of his wife
-- Richard is Esmeralda's biological father
-- Richard knows Esmeralda is his daughter
-- The King does not know Richard is Esmeralda's biological father
-- Her mother was chosen for beauty, not love
-- The King was disappointed she was born female
-- Her mother tried to flee with her
-- The King had her mother executed
-- The King fabricated a false story about the mother's death
-- Esmeralda knows very little about her mother
-- The King raised Esmeralda himself
-- He became genuinely attached to her over time
-- He spoils her heavily
-- Esmeralda feels loved by him
-- The King told her from childhood that she is the stronger figure the existing prophecy already describes — the one meant to lead the people back to the ancients
-- That upbringing primed her to believe the existing prophecy already points to her
-- She is used to a life of luxury
-- She often wanders outside the castle walls because she prefers the life she finds among commoners
-- She has many friends her age outside the walls
-- She already reflects many of Richard's traits
-- She closely resembles her mother
-- She is adored publicly
-- She is being positioned as heir
-- The King knows she does not carry the ancients gene
-- The King's closest priests, historians, and researchers know she does not carry the ancients gene
-- That inner circle manufactures supporting doctrine and ancient-text "discoveries" to legitimize her
-- They silence people they suspect are getting too close to the truth
-- He is claiming Esmeralda is the fulfillment of the existing prophecy — the super modern ancient the doctrine already describes
-- She can later weaponize the prophecy because she sincerely believes it already points to her
-- He would rather position Esmeralda than raise another child
-- Esmeralda knows nothing about her father's evil acts or hidden plans
-- Richard has loved and quietly watched over Esmeralda from afar for years
-- Richard's silence about her is tied to the broader moral compromise he made while looking away from pieces of the King's corruption
-- Esmeralda finds Leo collapsed after the Marshe death events
-- She returns to the castle to report a boy outside the walls and is scolded by the King for leaving
-- She wears distinctive all-black clothing issued by the King — a parallel tracking arrangement to Leo's, though she does not realize the purpose behind it
-- She becomes genuinely close to Leo during the two years he trains under the King's arrangement
+- Richard is Esmeralda's biological father — keep out of active-story material until deliberately unlocked
+- The King does not know Richard is her biological father
+- She does not carry the ancients gene — the King and his inner circle know this; her claim is entirely manufactured
+- The King had her mother executed after she tried to flee with Esmeralda
+- The fabricated story about her mother's death is what Esmeralda believes
 
 ## TBD
 
