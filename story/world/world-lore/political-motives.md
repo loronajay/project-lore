@@ -246,12 +246,6 @@ Post Exile:
 
 ## Core political conflict
 
-## TBD
-
-- What immediate political fear makes Gideon shift from "use Leo" to "contain Leo"
-- What Dorian believes victory with the crystal would restore besides his body and political leverage
-- Which bought or compromised institution member is most likely to defect once the succession lie starts to crack
-
 - The King rules through stolen legitimacy.
 - Jack was the true rightful heir under the kingdom's own deeper logic.
 - Richard tried to build a rebellion around that truth.
@@ -261,4 +255,10 @@ Post Exile:
 - Thorne is pursuing the crystal under pressure from the ancient hostile force.
 - Dorian is already bound to that bargain through restored youth paid out in advance.
 - If the crystal reaches the force through either kingdom, the ancients' history risks erasure before the buried legitimate line can act on it.
-- That makes the crystal struggle larger than succession — it is the condition under which either future becomes possible or impossible.
+- That makes the crystal struggle larger than succession; it is the condition under which either future becomes possible or impossible.
+
+## TBD
+
+- What immediate political fear makes Gideon shift from "use Leo" to "contain Leo"
+- What Dorian believes victory with the crystal would restore besides his body and political leverage
+- Which bought or compromised institution member is most likely to defect once the succession lie starts to crack
