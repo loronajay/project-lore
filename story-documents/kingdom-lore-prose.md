@@ -84,9 +84,21 @@ He noticed things. Doctrinal drift — the way certain texts seemed to disappear
 
 He would later count that silence as the first of his compromises.
 
-The loss of his wife had already happened. He was not a man who was simple about grief — he did not throw himself into work or numbness. He stayed functional. He stayed where he was. Sometime after, he fell in love again, with a woman whose position in the court made the attachment complicated and dangerous. They were careful. They were not careful enough.
+Jack came into his life as a comrade and became something more — a friend, eventually, in the rare way that men with real responsibilities become friends, which is to say slowly and through shared weight. Jack was exceptional. Not exceptional in the way that men who know they are exceptional present it, but in the quieter way of someone whose gifts had always been obvious enough that he had never needed to announce them. He was wide-shouldered, easy in a room, the kind of person who greeted people by name and remembered what mattered to them. Soldiers followed him because he was worth following, not because the chain of command said they had to. He replaced Richard as General when the timing came, and Richard respected the replacement rather than resenting it.
 
-When the King chose her to bear an heir, Richard did not fight it in any direct way. There was nothing direct to do. He watched. He looked for angles that would not end in death. He found one: they could leave together. It was not a clean plan. It was the kind of plan that depends on everything going right in sequence. He pulled back from it at the last moment, judging that exposure would get all of them killed and that the castle was safer for a child than exile in the current moment.
+Marcus was a different kind of soldier. Competent, loyal in the direction of command rather than principle, and carrying a long envy toward Jack that expressed itself through friction rather than open confrontation. He believed the promotion should have been his. He carried that belief the way some men carry an injury that has healed wrong — not constantly visible, but present in every movement.
+
+The mission that ended all of it came down from the King directly. Another exiled village, suspected of planning rebellion and believed by the King's researchers to be near a significant discovery related to the crystal. The order was clean in its phrasing and brutal in its substance: destroy the village, erase its history, retrieve the crystal.
+
+Once Jack understood the truth of what was being asked, he refused. He aborted the mission and brought his squadron back.
+
+Marcus wanted to obey. He had a wife and young son at that point, while Jack did not yet have Leo. He looked at the refusal through the lens of what it would cost him personally rather than what it would prevent. He resented Jack for making the call from a position he saw as less immediately risky — no wife waiting, no child, the weight of the decision distributed differently. The resentment was not entirely wrong as a reading of the situation. It was just insufficient as a reason.
+
+The King exiled the squadron. Then, privately, he executed everyone in it. Everyone except Jack and Marcus. He spread malicious rumors through the right channels — carefully calibrated stories that made the exile of two respected, battle-tested soldiers seem justified, even inevitable. The public did not mourn what the public had been convinced was shameful. The King's benevolent image remained intact. He was a ruler too gracious to make public examples of his mistakes, too holy to punish harshly men who had simply chosen wrongly. The quiet executions happened in the dark where benevolence did not have to watch.
+
+The loss of Richard's wife had already happened before any of this. He was not a man who was simple about grief. He stayed functional. He stayed where he was. Sometime after, he fell in love again, with a woman whose position in the court made the attachment complicated and dangerous. They were careful. They were not careful enough.
+
+After the squadron's exile, after Leo was born in the village and the dust of the mission had settled into the silence of managed history, the King decided he wanted an heir. He chose her to bear one. Richard did not fight it in any direct way. There was nothing direct to do. He watched. He looked for angles that would not end in death. He found one: they could leave together. It was not a clean plan. It was the kind of plan that depends on everything going right in sequence. He pulled back from it at the last moment, judging that exposure would get all of them killed and that the castle was safer for a child than exile in the current moment.
 
 She did not pull back. She went alone and was caught and executed.
 
@@ -94,19 +106,7 @@ He carried that. He let Esmeralda stay in the castle when the King claimed the c
 
 He loved Esmeralda from a distance he had chosen and then been forced to maintain. She grew up not knowing him. He watched over her when he could. He watched her learn the palace as if the palace were the whole world, and he said nothing.
 
-Jack came into his life as a comrade and became something more — a friend, eventually, in the rare way that men with real responsibilities become friends, which is to say slowly and through shared weight. Jack was exceptional. Not exceptional in the way that men who know they are exceptional present it, but in the quieter way of someone whose gifts had always been obvious enough that he had never needed to announce them. He was wide-shouldered, easy in a room, the kind of person who greeted people by name and remembered what mattered to them. Soldiers followed him because he was worth following, not because the chain of command said they had to. He replaced Richard as General when the timing came, and Richard respected the replacement rather than resenting it.
-
-Marcus was a different kind of soldier. Competent, loyal in the direction of command rather than principle, and carrying a long envy toward Jack that expressed itself through friction rather than open confrontation. He believed the promotion should have been his. He carried that belief the way some men carry an injury that has healed wrong — not constantly visible, but present in every movement.
-
-The mission that ended all of it came down from the King directly. Another exiled village, suspected of planning rebellion and believed by the King's researchers to be near a significant discovery related to the crystal. The order was clean in its phrasing and brutal in its substance: destroy the village, erase its history, retrieve the crystal.
-
-Jack was already in the village before he understood the full shape of what was being asked. Once he understood, he refused. He aborted the mission and brought his squadron back.
-
-Marcus wanted to obey. He had a wife and young son. He looked at the refusal through the lens of what it would cost him personally rather than what it would prevent. He resented Jack for making the call from a position he saw as less immediately risky — no wife waiting, no child, the weight of the decision distributed differently. The resentment was not entirely wrong as a reading of the situation. It was just insufficient as a reason.
-
-The King exiled the squadron. Then, privately, he executed everyone in it. Everyone except Jack and Marcus. He spread malicious rumors through the right channels — carefully calibrated stories that made the exile of two respected, battle-tested soldiers seem justified, even inevitable. The public did not mourn what the public had been convinced was shameful. The King's benevolent image remained intact. He was a ruler too gracious to make public examples of his mistakes, too holy to punish harshly men who had simply chosen wrongly. The quiet executions happened in the dark where benevolence did not have to watch.
-
-Richard was exiled later, separately. After Esmeralda's birth, after the King decided that his proximity to too much hidden truth made him a liability. There was no ceremony to it. No open accusation. Just the managed removal of a man whose usefulness had run out and whose knowledge had not.
+Shortly after Esmeralda's birth, the King decided Richard's proximity to too much hidden truth made him a liability. Richard was exiled. There was no ceremony to it. No open accusation. Just the managed removal of a man whose usefulness had run out and whose knowledge had not.
 
 ---
 
@@ -142,7 +142,7 @@ Then the sickness reached Jack in a way that made preparation irrelevant.
 
 And then there was Leo.
 
-Not yet old enough to know anything except that his father had become a stranger in his own house, and that the stranger was dying, and that the world he was growing up in was smaller and harder and quieter than whatever world his father seemed to have come from. He could see it in the way Jack moved on the days when Jack still moved. He could see it in the way Richard looked at Jack — the way you look at a calculation that has already finished running.
+Not yet old enough to know anything except that his father had become a stranger in his own house, and that the stranger was dying, and that the world he was growing up in was smaller and harder and quieter than whatever world his father seemed to have come from. He could see it in the way Jack moved on the days when Jack still moved — the effort of small things, the body rationing itself.
 
 He did not know what it meant. He was not supposed to.
 
