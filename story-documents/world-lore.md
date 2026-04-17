@@ -108,7 +108,7 @@
 - He discovered quickly that he was not the actual gene holder and that the manipulation had deceived him.
 - Since that discovery, his pursuit of the crystal has been entirely self-motivated — driven by personal ambition, legitimacy fear, and selfish desire rather than the original manipulation.
 - After Jack was internally confirmed as a real gene-bearer, the future King moved quickly before that discovery could spread outward.
-- He arranged the deaths of his parents and siblings.
+- His father had already been killed in battle during the wars between Eden and Thorne. He arranged the deaths of his mother and remaining siblings.
 - Jack survived as an infant.
 - Around the same time, a deeper doctrinal truth surfaced inside the castle: the stronger prophesied figure should be able to read the ancients' language at a glance.
 - The King spared Jack because the baby's confirmed gene status and possible future value around ancient translation made him too useful to kill, especially in connection to the crystal.
@@ -168,8 +168,9 @@
 - He was disappointed she was a daughter.
 - Richard and Esmeralda's mother planned to flee together with Esmeralda. Richard pulled back, deciding exposure would get them all killed and the castle was safer for the child than exile. Esmeralda's mother proceeded without him and was caught and executed. Richard carries the knowledge that his withdrawal is part of why she acted alone.
 - He raised Esmeralda himself and became genuinely attached to her over time.
-- Shortly after Esmeralda's birth, the King realized Richard knew too much and had to be buried politically as well.
-- Richard was exiled after that, once the King decided his proximity to too much hidden truth made him dangerous.
+- Over time, the King noticed the way Richard looked at Esmeralda and remembered having seen Richard with her mother. That recognition — combined with how much Richard already knew — made him too dangerous to keep close.
+- Richard was exiled quietly, without ceremony or public accusation.
+- From his years in court watching the lie take shape around her, and later from the exile village, Richard watches over Esmeralda from afar when he can — without public claim, without acknowledgment, and without her knowledge.
 - Richard's silence around Esmeralda is also part of his broader pattern of looking away from dangerous partial truth when he believes exposure would terrify the people without protecting them.
 
 ## Personal texture around Jack
@@ -187,7 +188,7 @@
 - He did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic promise attached to it.
 - He noticed suppression around knowledge, doctrine, and records even before he understood the full theft behind it.
 - He stayed silent about some of what he noticed because he believed premature exposure would bring panic and fear to the people without protecting them.
-- Later he connected doctrinal drift, hidden legitimacy, and the crystal into a fuller understanding.
+- After his exile, his researcher friend — a contact still inside the kingdom who had been quietly investigating at Richard's request since before the exile — sent him messages that filled in the rest. Those messages assembled the fragments he had been carrying for years into a complete picture: the doctrinal suppression, the stolen lineage, Jack's true identity.
 - That is when he began planning rebellion with the goal of putting Jack in his rightful place on the throne.
 - Jack eventually accepted that cause, but the sickness cut the path short before it could become open action.
 
@@ -197,7 +198,6 @@
 - Jack kept a hidden cache of weapons in his room.
 - Leo did not know that cache existed.
 - Richard sometimes made new weapons for Jack to test.
-- Richard quietly watches over Esmeralda from afar when he can, despite having no public claim on her life.
 
 ## Crystal
 
@@ -206,8 +206,8 @@
 - Gideon has spent decades researching it.
 - Thorne, the rival kingdom, is also seeking it.
 - Thorne is not wholly foreign in origin, but the splintered continuation of an older shared royal history.
-- Thorne had already spent decades studying Eden's religion, succession logic, and weak points in order to reach the crystal without needing open war.
-- Its long sabotage campaign helped shape Gideon's rise from inside the castle.
+- After an early hard-fought war between Eden and Thorne ended without resolution, Thorne shifted strategy: rather than press toward the crystal through open conflict it could not guarantee winning, it spent decades studying Eden's religion, succession logic, and internal fractures — using placed traitors to work toward the crystal from the inside.
+- That long sabotage campaign helped shape Gideon's rise from inside the castle.
 - Thorne is acting under pressure from the same weakened hostile force that wants the ancients erased.
 - Dorian, ruler of Thorne, has made a bargain with the force in exchange for the crystal.
 - Dorian is truly old, but was granted restored youth early so he could better prepare to seize it.

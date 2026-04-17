@@ -30,8 +30,8 @@
 
 - Thorne was the splintered continuation of an older shared kingdom — the split came from a long conflict between brothers
 - The modern rivalry between Thorne and Eden sits on top of that older family fracture
-- Thorne secretly sabotaged Eden from within for decades rather than relying on open war
-- Had traitors already close to Gideon who stayed behind after the split and played both sides — radicalizing Gideon's sense of grievance, destiny, and entitlement before he took the throne
+- Fought a real early war against Eden — hard-fought on both sides, ending without resolution; the same war in which Gideon's father was killed in battle
+- After that war failed to deliver the crystal, shifted to a longer strategy: used placed traitors who had stayed behind after the original split to sabotage Eden from within for decades — radicalizing Gideon's sense of grievance, destiny, and entitlement before he took the throne
 - Hoped Jack's survival and potential ability to read ancient material might eventually lead Thorne to the crystal first
 
 ## Relationships

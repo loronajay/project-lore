@@ -98,7 +98,7 @@ Pre Exile:
 - Comrade of Jack and Marcus
 - Lost his wife during this period
 - Witnessed doctrinal drift, suppression, and hidden wrongdoing but did not yet understand the full system behind it
-- Exiled separately after Esmeralda's birth, when the King determined his proximity to too much hidden truth made him dangerous
+- Exiled separately after Esmeralda's birth — the King had noticed the way Richard looked at Esmeralda and remembered seeing Richard with her mother; rather than confront that knowledge directly, he removed Richard quietly before it could become dangerous
 
 Post Exile:
 - Feared village carpenter
@@ -201,7 +201,7 @@ Post Exile:
 
 - Help the King investigate the crystal and ancient material
 - Only a selected inner circle of them knows the hidden doctrinal truths the public does not
-- One such researcher can plausibly serve as a hidden contact in Richard's resistance network while publicly feigning ignorance
+- One researcher served as Richard's hidden contact — Richard reached out to him before his own exile, asked him to investigate the patterns he had noticed, and warned him to be careful. After Richard's exile, that researcher continued looking and eventually sent messages to the village that filled in the rest of what Richard had suspected. This is how Richard came to understand the full architecture of the King's stolen power and Jack's true identity.
 
 ### Importance
 
@@ -215,8 +215,9 @@ Post Exile:
 - Ruled by Dorian, the uncle of Gideon
 - Comes from an older kingdom that split in two after a long conflict between brothers
 - Also seeks the crystal
-- Secretly sabotaged Eden from within for decades rather than relying on open war
-- Had traitors already close to Gideon who stayed behind after the split and played both sides, radicalizing his sense of grievance, destiny, and entitlement
+- At the original split, left men behind inside Eden who owed loyalty to both courts and played both sides
+- Fought a real early war against Eden — hard-fought on both sides, ending without clean resolution; the same war in which Gideon's father was killed in battle
+- After that war failed to deliver the crystal, shifted to a longer strategy: rather than press through open conflict it could not guarantee winning, it leveraged those already-placed traitors to study Eden's succession logic, religious structure, and internal fractures from the inside — using them to radicalize Gideon's sense of grievance, destiny, and entitlement over decades
 - Wanted to use Eden's own prophecy, lineage rules, and internal fractures to gain access to the crystal first
 - Hoped Jack's survival might eventually make ancient material readable enough to lead them to the crystal
 - Dorian made a bargain with the ancient hostile force in exchange for the crystal

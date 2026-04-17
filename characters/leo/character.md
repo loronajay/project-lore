@@ -39,7 +39,7 @@
 - Was very close with his father before the illness
 - Remembers his mother only in soft, fuzzy fragments
 - Carries warmth and nostalgia around those memories rather than clear detail
-- His mother died when he was still young from an illness unrelated to the sickness that later took his father
+- His mother died when he was still a toddler from an illness
 - Hungry, ashamed, and under pressure
 - Feels inadequate compared to his father
 
@@ -102,3 +102,4 @@
 
 ## TBD
 
+- Whether Leo's mother's illness was the village sickness or something unrelated to it

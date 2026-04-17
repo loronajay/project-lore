@@ -30,6 +30,8 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 
 - Thorne is ruled by Dorian, the uncle of Gideon, king of Eden.
 - The two present kingdoms were once one older kingdom before a long brother-conflict split them apart.
+- After the split, a real war broke out between the two kingdoms — hard-fought on both sides, and the war in which Gideon's father was killed in battle.
+- After that war settled without resolution, Thorne shifted from open conflict to a long sabotage campaign: placing agents inside Eden, studying its religion and succession logic, and working to reach the crystal from the inside rather than through another war.
 - Thorne is acting under pressure from the ancient hostile force.
 - Dorian made a bargain to deliver the crystal in exchange for restored youth.
 - He is actually quite old, but now appears as a strong young nobleman because the bargain paid out early.
@@ -78,7 +80,7 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - The King exiled the squadron and secretly executed everyone except Jack and Marcus.
 - He supported that exile with reputation-poisoning so the fall of such revered soldiers would appear justified rather than suspicious.
 - This also protected his carefully maintained image by keeping the event from reading as openly vindictive rule.
-- Richard was exiled later after the King decided he knew too much and had to be buried politically as well.
+- Richard was exiled later after the King noticed the way Richard looked at Esmeralda and remembered having seen Richard with her mother — that recognition, combined with how much Richard knew, made him too dangerous to keep close.
 - The exile event is tied to the origin of the curse legend.
 - The exile contract includes a ban on weapons within the village.
 - Royal soldiers occasionally audit the village and search for forbidden weapons.
@@ -102,7 +104,8 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - Traitors already close to the future King had stayed behind after the kingdom split and played both sides, manipulating him over many years.
 - They convinced him he had been lied to about the ancients gene and that he was destined to find the crystal.
 - Once Jack was internally confirmed as the true bearer, the future King moved to seize power before that knowledge could spread outward.
-- He arranged for his parents and siblings to be killed.
+- His father had already been killed in battle during the wars between Eden and Thorne.
+- He arranged for his mother and remaining siblings to be killed.
 - Jack survived as an infant.
 - A deeper doctrinal discovery inside the castle suggested the stronger prophesied figure should be able to read the ancients' language at a glance.
 - The King chose not to kill Jack because the child might later prove useful in relation to the crystal and ancient translation.
@@ -113,15 +116,14 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - He erased records of Jack's royal identity.
 - He renamed him Jack — replacing his birth name Rowan with something deliberately plain, a quiet act of domination most people would never recognize as one.
 - He reintroduced Jack as an orphaned commoner whom he had supposedly taken in out of kindness.
-- He later forced a woman to bear him a child in order to secure an heir.
+- He later forced a woman to bear him a child in order to secure an heir. She was not a court figure — he sent a man to find the most beautiful woman in the kingdom and had her brought in.
 - That woman had secretly become a love interest of Richard's after Richard lost his wife.
 - Richard, not the King, is Esmeralda's biological father.
 - Richard knows Esmeralda is his daughter.
 - The King does not know this.
 - When that child, Esmeralda, was born female, he was disappointed.
-- After Esmeralda's mother tried to escape with her, he had the mother executed.
+- While Esmeralda was still an infant, Richard and her mother planned to flee together with her. Richard pulled back — he judged that exposure would get them all killed and the castle was safer for the child than exile. Esmeralda's mother proceeded without him, was caught, and was executed. Richard carries the knowledge that his withdrawal is part of why she acted alone.
 - He then raised Esmeralda himself and grew genuinely attached to her over time.
-- Richard and Esmeralda's mother planned to flee together with Esmeralda. Richard pulled back — he judged that exposure would get them all killed and the castle was safer for the child than exile. Esmeralda's mother proceeded without him and was caught and executed. Richard carries the knowledge that his withdrawal is part of why she acted alone.
 - Shortly after Esmeralda's birth, the King concluded Richard knew too much and exiled him.
 - That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
 - Rather than raise another child, he began claiming Esmeralda as the fulfillment of the existing prophecy, positioning her as the super modern ancient meant to lead the people back to the ancients, despite her lack of the ancients gene.
@@ -209,10 +211,10 @@ Post Exile:
 - Neighbor feared by the village
 - Publicly lives as a carpenter
 - Secretly works as a blacksmith
-- Secretly tasked by Jack to watch over Leo
+- Bound by a dying promise to Jack to watch over Leo and keep him out of the conflict
 - Maintains distance intentionally to let Leo grow independently
 - Secretly forged weapons for Jack after exile
-- Maintained outside contacts and became the practical bridge between buried truth and possible rebellion
+- Maintained outside contacts, including a researcher friend still working inside the castle system who quietly investigated what Richard suspected and later sent messages confirming the truth about Jack's identity
 - Stayed silent about some of what he had noticed because he believed exposure would panic the people without protecting them
 - Later revealed to have killed Marcus to stop an attack on the town elders
 - Shunned by the town because the killing was graphically violent in front of witnesses

@@ -8,7 +8,7 @@ Fast-load reference for session start. Authoritative sources are the individual 
 
 - **Eden** — medieval kingdom ruled by Gideon (dictator, carefully managed benevolent image). Authority via propaganda, altered records, weaponized religion.
 - **Exile village** — outskirts of Eden; populated by exiles and their descendants; deteriorating; under a weapons ban enforced by occasional royal soldier audits.
-- **Thorne** — rival kingdom ruled by Dorian (Gideon's uncle). Formerly one kingdom with Eden, split by a brothers' conflict. Thorne sabotaged Eden from within for decades via placed traitors.
+- **Thorne** — rival kingdom ruled by Dorian (Gideon's uncle). Formerly one kingdom with Eden, split by a brothers' conflict. An early open war between the two kingdoms — hard-fought on both sides, and the war in which Gideon's father was killed in battle — ended without clean resolution. After that, Thorne shifted strategy: rather than press toward the crystal through conflict it couldn't guarantee winning, it spent decades studying Eden's succession logic and internal fractures, placing traitors in the court and running a long sabotage campaign from the inside.
 - **Ancient hostile force** — weakened former foe of the ancients. Works through individual bargains and corruption. Wants the ancients' history erased. Introduced the sickness into the village deliberately once it learned Jack's bloodline was there. Remains offscreen and indirect in early material.
 
 ---
@@ -47,8 +47,8 @@ Fast-load reference for session start. Authoritative sources are the individual 
 - Former General (Jack later replaced him), one of the King's most trusted and dangerous assets.
 - **Did not know** the King was Jack's brother during his service years.
 - Noticed doctrinal drift and hidden wrongdoing but didn't understand the full system behind it.
-- Exiled separately after Esmeralda's birth — the King decided his proximity to too much truth made him dangerous.
-- In exile: publicly a carpenter, secretly a blacksmith. Secretly watches over Leo per Jack's request.
+- Exiled separately after Esmeralda's birth — the King noticed how Richard looked at Esmeralda and remembered Richard's connection to her mother; he removed him quietly rather than risk what he knew.
+- In exile: publicly a carpenter, secretly a blacksmith. Watches over Leo per a dying promise to Jack.
 - Secretly forged weapons for Jack; built outside contacts; prepared rebellion around Jack's legitimacy.
 - **Killed Marcus** to stop his sickness-driven attack on the town elders. The gore horrified the village; he was shunned for the spectacle rather than thanked for saving lives.
 - **Esmeralda's biological father** — neither the King nor Esmeralda knows. Richard knows and watches her from afar.
@@ -57,7 +57,7 @@ Fast-load reference for session start. Authoritative sources are the individual 
 - His silence is morally compromised, not noble.
 
 ### Gideon (The King)
-- Jack's **older brother**. Stole the throne by arranging the deaths of his parents and siblings. Jack survived as an infant.
+- Jack's **older brother**. Stole the throne by arranging the deaths of his mother and siblings. His father had already been killed in battle during the wars with Thorne. Jack survived as an infant.
 - Initially manipulated by Thorne-placed traitors into believing he was the true gene holder. **Discovered quickly he was not.** Since then his pursuit of the crystal and hold on power are entirely self-motivated — personal ambition and legitimacy fear, not the original deception.
 - Suppresses the hidden doctrinal marker he cannot fulfill.
 - Raised Jack as a loyal commoner soldier, deliberately.

@@ -51,7 +51,7 @@
 
 - Lost his wife before later falling in love with the woman who became Esmeralda's mother
 - That relationship was broken when the King chose her to bear his heir
-- Richard and Esmeralda's mother had planned to flee together; Richard pulled back, judging exposure would get them all killed; she went alone and was caught and executed
+- Richard and Esmeralda's mother had planned to flee together with Esmeralda; Richard pulled back, judging exposure would get them all killed; she attempted the escape without him and was caught and executed
 - He then let Esmeralda remain in the castle, believing the safety and comfort it offered was more than he could give her in exile
 - Esmeralda is Richard's biological daughter; he has known all along
 - Loves her from afar and quietly watches over her when he can
@@ -81,12 +81,12 @@
 - Knew Jack as a warm, highly respected man before the sickness turned him inward
 - Was present during the King's rise
 - Rose through the royal military to the rank of General before Jack later replaced him
-- Was exiled separately after Esmeralda's birth — the King decided his proximity to too much hidden truth made him dangerous
+- Was exiled separately after Esmeralda's birth — the King had noticed the way Richard looked at Esmeralda and remembered seeing Richard with her mother; that recognition, combined with how much Richard already knew, made him too dangerous to keep close
 
 ## Relationships
 
 - **Jack**: longtime comrade, close friend, devoted father, and fellow architect of a hidden future
-- **Leo**: watches over him because of a promise or duty tied to Jack; keeps distance intentionally and avoids stepping into a father-surrogate role
+- **Leo**: watches over him per a dying promise to Jack; keeps distance intentionally and avoids stepping into a father-surrogate role
 - **Esmeralda**: biological daughter, known to him but hidden from her and the King; loved from afar
 - **Marcus**: former comrade; killed during a formal event to stop Marcus's sickness-driven attack on the town elders; the gore horrified the village, who shunned Richard rather than honoring what he stopped
 - **Marshe**: murdered by Marshe in his sleep late in Act 1 after Marshe discovers Richard was the man who killed his father

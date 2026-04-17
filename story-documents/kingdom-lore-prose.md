@@ -36,7 +36,7 @@ The problem was that he checked. He found the real confirmation records — not 
 
 He was not a man who received that kind of news as a correction. He received it as a threat.
 
-What followed was fast and deliberate. He arranged the deaths of his parents. His siblings. Everyone in the succession line close enough to represent a challenge or a witness. He moved before the internal confirmation of his brother's status could spread into a form the public could absorb. He moved before anyone could use the truth as a weapon against him.
+What followed was fast and deliberate. His father had already been lost — killed in battle during the wars between Eden and Thorne. He arranged the deaths of his mother and siblings. Everyone in the succession line close enough to represent a challenge or a witness. He moved before the internal confirmation of his brother's status could spread into a form the public could absorb. He moved before anyone could use the truth as a weapon against him.
 
 His brother was an infant. Too young to threaten him. And there was the question of the crystal — a possibility that a confirmed gene bearer might one day make ancient material readable in ways current interpreters could not. A baby carried potential he was not ready to destroy. So he spared the child. He erased the birth records. He replaced the infant's given name — Rowan, a name with weight — with something deliberately flat. Jack. The name of nobody in particular. A commoner's name chosen precisely because it carried no history, no resonance, no claim.
 
@@ -60,7 +60,7 @@ The religion survived this. That was the honest assessment. The kingdom kept its
 
 ## Part Four: The Other Kingdom
 
-Thorne had spent decades studying Eden from the outside — its succession logic, its religious structure, its documented weaknesses, the places where a well-timed claim or a well-placed rumor might accomplish more than open war. The sabotage campaign was patient and thorough. It helped bring Gideon to power. It kept the relationship between the two kingdoms simmering at the level of rivalry rather than resolving into either alliance or outright conflict. It left Thorne's influence inside Eden's walls in the form of men who owed their positions to both courts and served whichever one was currently more useful.
+Thorne and Eden had already fought a real war. Hard-fought on both sides, costly for both, and the war in which Gideon's father was killed in battle. It did not resolve cleanly. After it settled, Thorne did not abandon its ambitions — it changed its method. Rather than press toward the crystal through open conflict it could not guarantee winning, it turned to a longer and quieter campaign: studying Eden's succession logic, its religious structure, its documented weaknesses, the places where a well-timed claim or a well-placed rumor might accomplish more than armies. It left men inside Eden's walls who owed their positions to both courts and served whichever one was currently more useful. That sabotage campaign was patient and thorough, and it helped bring Gideon to power.
 
 Dorian ruled Thorne, and Dorian was not operating on his own terms anymore.
 
@@ -96,17 +96,19 @@ Marcus wanted to obey. He had a wife and young son at that point, while Jack did
 
 The King exiled the squadron. Then, privately, he executed everyone in it. Everyone except Jack and Marcus. He spread malicious rumors through the right channels — carefully calibrated stories that made the exile of two respected, battle-tested soldiers seem justified, even inevitable. The public did not mourn what the public had been convinced was shameful. The King's benevolent image remained intact. He was a ruler too gracious to make public examples of his mistakes, too holy to punish harshly men who had simply chosen wrongly. The quiet executions happened in the dark where benevolence did not have to watch.
 
-The loss of Richard's wife had already happened before any of this. He was not a man who was simple about grief. He stayed functional. He stayed where he was. Sometime after, he fell in love again, with a woman whose position in the court made the attachment complicated and dangerous. They were careful. They were not careful enough.
+The exile of men Richard had served alongside for years was not something he absorbed quietly. He had already been noticing inconsistencies — in doctrine, in records, in the exits of men who had seemed secure until they weren't. The mission sharpened the question. Still inside the court, he reached out to a researcher friend still working inside the system and asked him to look more closely at what he had begun to suspect. He warned the man to be careful.
+
+The loss of Richard's wife had already happened before any of this. He was not a man who was simple about grief. He stayed functional. He stayed where he was. Sometime after, he fell in love again — a woman outside the court, someone he met and kept meeting in secrecy, the kind of attachment that only becomes dangerous once the wrong person notices it. They were careful. They were not careful enough.
 
 After the squadron's exile, after Leo was born in the village and the dust of the mission had settled into the silence of managed history, the King decided he wanted an heir. He chose her to bear one. Richard did not fight it in any direct way. There was nothing direct to do. He watched. He looked for angles that would not end in death. He found one: they could leave together. It was not a clean plan. It was the kind of plan that depends on everything going right in sequence. He pulled back from it at the last moment, judging that exposure would get all of them killed and that the castle was safer for a child than exile in the current moment.
 
 She did not pull back. She went alone and was caught and executed.
 
-He carried that. He let Esmeralda stay in the castle when the King claimed the child as his own daughter. He told himself he was protecting her by leaving her there — that she had safety and comfort inside the castle walls that he could not offer from exile. He was probably right about the practical calculus. He was also the man who had pulled back when she and her mother needed him to move.
+He carried that. He let Esmeralda stay in the castle when the King claimed the child as his own daughter. He told himself the castle was safer for her than the alternative — that she had comfort and stability there that he had no way to match. He was probably right about the practical calculus. He was also the man who had pulled back when she and her mother needed him to move.
 
-He loved Esmeralda from a distance he had chosen and then been forced to maintain. She grew up not knowing him. He watched over her when he could. He watched her learn the palace as if the palace were the whole world, and he said nothing.
+Still inside the court, he watched the lie take shape around Esmeralda from a careful distance. He watched her learn the palace as if the palace were the whole world, and he said nothing. He believed saying something would get them both killed.
 
-Shortly after Esmeralda's birth, the King decided Richard's proximity to too much hidden truth made him a liability. Richard was exiled. There was no ceremony to it. No open accusation. Just the managed removal of a man whose usefulness had run out and whose knowledge had not.
+The King noticed the way Richard looked at Esmeralda. He remembered seeing Richard with her mother. He exiled Richard — no ceremony, no open accusation, just the quiet removal of a man who had begun to know too much and feel too much at once.
 
 ---
 
@@ -136,7 +138,7 @@ The sickness was spreading. The exile village was contracting. The crystal remai
 
 Dorian was young-looking and deep in debt. The hostile force was patient. It had been patient for a very long time.
 
-Richard kept his forge hidden and his knowledge close. He had eventually assembled enough of the picture to understand what the King had done, what Jack actually was, and what a rebellion built around that truth would require. He had convinced Jack to accept the cause. He had begun preparing.
+Richard kept his forge hidden and his knowledge close. From the exile village, messages eventually reached him from his researcher friend — the man still inside the system, still quietly looking at what Richard had asked him to look at before the exile. Those messages filled in the rest. The fragments he had been carrying for years assembled into something coherent, and he understood at last what the King had done, what Jack actually was, and what a rebellion built around that truth would require. He had convinced Jack to accept the cause. He had begun preparing.
 
 Then the sickness reached Jack in a way that made preparation irrelevant.
 

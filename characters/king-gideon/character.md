@@ -47,7 +47,7 @@
 - Was initially convinced he had been lied to about the ancients gene and was destined to find the crystal
 - Discovered quickly that he was not the actual gene holder and that the manipulation had deceived him
 - Once he understood he had been deceived, his pursuit of the crystal became entirely self-motivated — driven by selfish desire, legitimacy fear, and personal ambition rather than the original manipulation
-- Seized power by arranging the deaths of his parents and siblings
+- His father had already been killed in battle during the wars with Thorne. He seized power by arranging the deaths of his mother and remaining siblings.
 - Moved before Jack's confirmed gene status could spread outward in a form the public could absorb
 - Spared Jack because the child's confirmed status and possible value in reading ancient material made him potentially useful
 - Later believed he had fathered a daughter, Esmeralda, while trying to secure an heir

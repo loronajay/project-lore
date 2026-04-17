@@ -90,5 +90,5 @@
 
 - What he asked of Richard, and when
 - What he understood about the sickness
-- The later flashback where Richard convinces him to accept the mission
+- The later flashback where Richard convinces him to accept the cause
 - How long it took him to believe Richard
