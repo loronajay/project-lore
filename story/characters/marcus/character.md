@@ -24,7 +24,9 @@
 - Kept the envy internal while regularly finding friction and small conflict with Jack in day-to-day dealings
 - Was willing to obey the King's brutal command when Jack refused
 - Already had a wife and young Marshe by the time of the refused mission
-- Saw Jack's refusal as a choice made by a man with less immediately at stake — Marcus believed he had more to lose
+- Saw Jack's refusal as a choice made by a man with less immediately at stake; Marcus believed he had more to lose
+- Richard briefly thought Marcus might support the hidden cause in good faith, because Marcus was battle-proven and had obvious motive to want his family out of exile
+- Marcus ultimately did not join that cause; resentment and self-interest held more strongly than shared grievance
 - Survived the King's purge after exile while the rest of the squadron was secretly executed
 - Carried lasting resentment toward Jack throughout exile until his death
 
@@ -47,3 +49,5 @@
 - Swings first in the earlier fight with Jack
 
 ## TBD
+
+- What was the point of no return where Marcus's resentment hardened into permanent hatred of Jack

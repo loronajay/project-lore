@@ -246,6 +246,12 @@ Post Exile:
 
 ## Core political conflict
 
+## TBD
+
+- What immediate political fear makes Gideon shift from "use Leo" to "contain Leo"
+- What Dorian believes victory with the crystal would restore besides his body and political leverage
+- Which bought or compromised institution member is most likely to defect once the succession lie starts to crack
+
 - The King rules through stolen legitimacy.
 - Jack was the true rightful heir under the kingdom's own deeper logic.
 - Richard tried to build a rebellion around that truth.

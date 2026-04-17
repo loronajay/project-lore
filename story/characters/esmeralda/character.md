@@ -26,7 +26,7 @@
 - Feels loved by her father
 - Knows very little about her mother
 - Believes a fabricated story about how her mother died
-- Has been shaped since childhood to believe the existing prophecy points to her — that she is the stronger figure meant to lead the people back to the ancients
+- Has been shaped since childhood to believe the existing prophecy points to her, that she is the stronger figure meant to lead the people back to the ancients
 - Knows nothing about her father's evil acts or hidden plans
 - Smart, adventurous, and a bit of a tomboy
 - Used to luxury but more alive outside the castle than within it
@@ -49,8 +49,7 @@
 
 ## Political position
 
-- Being positioned as the heir
-- Being positioned as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients
+- Being positioned as both the heir and the fulfillment of the existing prophecy, the super modern ancient meant to lead the people back to the ancients
 - That claim is entirely manufactured: the King knows she does not carry the ancients gene, and his closest priests, historians, and researchers help produce supporting doctrine and ancient-text "discoveries" to legitimize her
 - People suspected of seeing through the lie are silenced
 
@@ -68,16 +67,18 @@
 - **The King**: father, source of love, protection, and total deception
 - **Her mother**: almost unknown figure whose real fate has been hidden from her
 - **Richard**: biological father, known to him but unknown to her and unknown to the King; he loves her from afar and accepts distance as the price of her safety; his silence is part of the same broader moral compromise that shaped his whole life
-- **Leo**: finds him collapsed after the Marshe death events; returns to the castle to report him, gets scolded by the King for leaving the walls; the King issues them both distinctive dark clothing — Leo in black hooded garments unlike anyone else's, Esmeralda in all-black — framed as marks of their respective status, functioning as tracking mechanisms for his soldiers; Esmeralda does not know the purpose behind hers; becomes a genuine close friend during the two years Leo trains under the King's arrangement
+- **Leo**: finds him collapsed after the Marshe death events and returns to the castle to report him, which gets her scolded by the King for leaving the walls. The King then issues them both distinctive dark clothing - Leo in black hooded garments unlike anyone else's, Esmeralda in all-black - framed as marks of their respective status but functioning as tracking mechanisms for his soldiers. She does not know the purpose behind hers, and she becomes a genuine close friend to Leo during the two years he trains under the King's arrangement
 
 ## Locked canon
 
-- Richard is Esmeralda's biological father — keep out of active-story material until deliberately unlocked
+- Richard is Esmeralda's biological father; keep out of active-story material until deliberately unlocked
 - The King does not know Richard is her biological father
-- She does not carry the ancients gene — the King and his inner circle know this; her claim is entirely manufactured
+- She does not carry the ancients gene; the King and his inner circle know this, and her claim is entirely manufactured
 - The King had her mother executed after she tried to flee with Esmeralda
 - The fabricated story about her mother's death is what Esmeralda believes
 
 ## TBD
 
+- What is the first visible crack in Esmeralda's faith that the prophecy points to her
+- What she thinks Leo represents before she knows any deeper truth
 - How aware Esmeralda becomes of the violence used to protect her legitimacy before the truth fully breaks open

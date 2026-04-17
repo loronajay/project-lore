@@ -602,3 +602,10 @@ Post Exile:
 - The deeper doctrinal reveal is that the King cannot fulfill the suppressed marker of legitimacy, and only his tight propaganda inner circle knows the truth while the broader institution is fed curated findings.
 - The deeper succession reveal is that Esmeralda is not the King's biological child, does not carry the ancients gene, and is being used as a manufactured answer to the same legitimacy crisis.
 - The longer-range prophecy reveal is that Leo may represent the stronger future fulfillment the King does not yet recognize.
+
+### TBD
+
+- What exact on-page mechanism delivers Marshe the knowledge that Richard killed his father
+- What the first full Act 2 sequence under Gideon's control is, scene by scene, once Leo wakes
+- Where Esmeralda's first meaningful crack of doubt belongs in the overall structure
+- What reveal order best separates Leo's bloodline significance from his possible future-prophecy significance

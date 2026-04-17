@@ -29,11 +29,11 @@
 
 ## Screenplay presence
 
-- Hard to age at a glance — fifties, maybe older; burly, muscular beneath the old age; not a typical carpenter build
+- Hard to age at a glance; fifties, maybe older; burly, muscular beneath the old age; not a typical carpenter build
 - Fingers rough and darkened in places, like the work on them never fully comes off
-- Looks at Leo the way you look at a calculation, not a person — his eyes go to the object first, then the face
+- Looks at Leo the way you look at a calculation, not a person; his eyes go to the object first, then the face
 - Speaks in plain declaratives with nothing wasted: "That dish. What do you want for it." / "Step away from the door." / "You came from the alley." / "You're hurt."
-- Before addressing Leo in the workshop, crosses to the shutter and checks the lane first — security before conversation
+- Before addressing Leo in the workshop, crosses to the shutter and checks the lane first; security before conversation
 - When his eyes drop to the jewelry box in Leo's arm, he doesn't ask about it
 
 ## Inner reality
@@ -62,7 +62,7 @@
 ## Hidden work
 
 - Publicly lives as a carpenter; secretly practices as a full blacksmith
-- Keeps his blacksmithing hidden — weapons are banned in the village and subject to royal soldier audits
+- Keeps his blacksmithing hidden; weapons are banned in the village and subject to royal soldier audits
 - Regularly made new weapons for Jack to test
 - Helped preserve a hidden martial capacity inside a village forbidden from bearing arms
 - Maintained secret outside contacts
@@ -73,15 +73,15 @@
 - Did not know how the King achieved his status
 - Did not know the King's true relationship to Jack during his years of service
 - Did not fully understand the King's deeper motive for seeking the crystal beyond the prophetic right attached to it
-- Eventually discovered the truth about Jack's royal identity and legitimacy
-- Began preparing for a rebellion intended to deliver justice and place Jack on the throne
+- After exile, a researcher contact inside the kingdom filled in the rest of what he had only partially suspected, letting him connect doctrine, stolen lineage, and the crystal into one coherent truth
+- That fuller understanding is what led him to prepare a rebellion intended to deliver justice and place Jack on the throne
 - Helped convince Jack and others to join that cause
 - Abandoned that mission when Jack fell ill
 - Was heartbroken when he learned Jack had contracted the sickness
 - Knew Jack as a warm, highly respected man before the sickness turned him inward
 - Was present during the King's rise
 - Rose through the royal military to the rank of General before Jack later replaced him
-- Was exiled separately after Esmeralda's birth — the King had noticed the way Richard looked at Esmeralda and remembered seeing Richard with her mother; that recognition, combined with how much Richard already knew, made him too dangerous to keep close
+- Was exiled separately after Esmeralda's birth; the King had noticed the way Richard looked at Esmeralda and remembered seeing Richard with her mother. That recognition, combined with how much Richard already knew, made him too dangerous to keep close
 
 ## Relationships
 
@@ -99,16 +99,16 @@
 
 ## Locked canon
 
-- Richard is Esmeralda's biological father — keep out of active-story material until deliberately unlocked
+- Richard is Esmeralda's biological father; keep out of active-story material until deliberately unlocked
 - The King does not know Richard is her biological father
 - Marshe discovers (offscreen, Act 1) that Richard was the man who killed his father and murders Richard in his sleep
 - Leo finds Marshe at the scene, triggering the Marshe death events
-- Richard is not an early warm mentor — his help to Leo is indirect; his care is carried through action, not explanation
+- Richard is not an early warm mentor; his help to Leo is indirect, and his care is carried through action, not explanation
 
 ## TBD
 
-- Whether Richard feels guilt, resentment, or indifference about being shunned
-- How the formal event is remembered by different townspeople
+- What public version of the Marcus killing most harms Leo's ability to trust Richard
+- Who in the village knows Richard saved lives that day but stays silent anyway
 - Nature of Richard's outside contacts
+- At what moment Richard decides withholding Jack's sword from Leo is the greater wrong
 - The later flashback where Richard convinces Jack to accept the cause
-- How Richard first discovered enough of the truth to connect doctrine, royalty, and the crystal

@@ -217,3 +217,9 @@
 
 - Leo may be the true fulfillment of the future-facing prophecy line, though this is not publicly known.
 - The King does not yet know Leo may represent that threat.
+
+## TBD
+
+- What public explanation the kingdom gives, if any, for the destruction of the other exiled village
+- What specific ritual, text, or institutional step makes internal succession confirmation feel unquestionable inside the castle
+- Which part of the church or scholarly apparatus is most likely to fracture first if the hidden doctrinal truth starts leaking outward

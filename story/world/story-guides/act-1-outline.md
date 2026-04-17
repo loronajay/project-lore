@@ -37,3 +37,9 @@
 29. He peeks inside and discovers a hidden working space with an unfinished sword
 30. Marshe approaches, so Leo slips inside to hide
 31. Richard catches him there
+
+## TBD
+
+- What exact emotional note Richard lands on in the first scene after catching Leo inside
+- Whether Leo tells the truth immediately about why he came or tries to hide the jewelry-box motive at first
+- What image or line should close this sequence so the move into the next Act 1 stretch feels inevitable
