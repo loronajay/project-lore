@@ -122,8 +122,9 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - Richard knows Esmeralda is his daughter.
 - The King does not know this.
 - When that child, Esmeralda, was born female, he was disappointed.
+- The sequence is: Richard and Esmeralda's mother plan to flee with the infant, Richard pulls back, she attempts the escape without him, she is caught and executed, and the King keeps the baby.
 - While Esmeralda was still an infant, Richard and her mother planned to flee together with her. Richard pulled back — he judged that exposure would get them all killed and the castle was safer for the child than exile. Esmeralda's mother proceeded without him, was caught, and was executed. Richard carries the knowledge that his withdrawal is part of why she acted alone.
-- He then raised Esmeralda himself and grew genuinely attached to her over time.
+- The King then kept Esmeralda, raised her as his own daughter, and grew genuinely attached to her over time.
 - Shortly after Esmeralda's birth, the King concluded Richard knew too much and exiled him.
 - That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
 - Publicly, Esmeralda stands as Princess and the King's daughter. Beneath that public role, he began claiming her as the fulfillment of the existing prophecy, positioning her as the super modern ancient meant to lead the people back to the ancients, despite her lack of the ancients gene.

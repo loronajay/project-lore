@@ -42,9 +42,9 @@
 - The King wanted an heir and forced the most beautiful woman in the kingdom to bear his child
 - That woman was a love interest of Richard's from after the loss of his wife
 - He was disappointed that the child born was a daughter
-- Richard and Esmeralda's mother had planned to flee together with Esmeralda; Richard pulled back, judging exposure would get them all killed; she attempted the escape without him and was caught
+- Richard and Esmeralda's mother had planned to flee together with Esmeralda; Richard pulled back, judging exposure would get them all killed; she attempted the escape with the baby without him and was caught
 - The King had her executed
-- He then raised Esmeralda himself
+- The King then raised Esmeralda himself
 - Over time, he grew genuinely attached to her
 - He now spoils her heavily
 

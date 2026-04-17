@@ -51,7 +51,7 @@
 
 - Lost his wife before later falling in love with the woman who became Esmeralda's mother
 - That relationship was broken when the King chose her to bear his heir
-- Richard and Esmeralda's mother had planned to flee together with Esmeralda; Richard pulled back, judging exposure would get them all killed; she attempted the escape without him and was caught and executed
+- Richard and Esmeralda's mother had planned to flee together with Esmeralda; Richard pulled back, judging exposure would get them all killed; she attempted the escape with the baby without him and was caught and executed
 - He then let Esmeralda remain in the castle, believing the safety and comfort it offered was more than he could give her in exile
 - Esmeralda is Richard's biological daughter; he has known all along
 - Loves her from afar and quietly watches over her when he can

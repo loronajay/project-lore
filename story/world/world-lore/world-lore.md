@@ -166,8 +166,9 @@
 - Richard knows Esmeralda is his daughter.
 - The King does not know this.
 - He was disappointed she was a daughter.
-- Richard and Esmeralda's mother planned to flee together with Esmeralda. Richard pulled back, deciding exposure would get them all killed and the castle was safer for the child than exile. Esmeralda's mother proceeded without him and was caught and executed. Richard carries the knowledge that his withdrawal is part of why she acted alone.
-- He raised Esmeralda himself and became genuinely attached to her over time.
+- The sequence is: Richard and Esmeralda's mother planned to flee with the baby, Richard pulled back, Esmeralda's mother attempted the escape without him, she was caught and executed, and the King kept Esmeralda.
+- Richard and Esmeralda's mother planned to flee together with Esmeralda. Richard pulled back, deciding exposure would get them all killed and the castle was safer for the child than exile. Esmeralda's mother proceeded without him, tried to flee with the baby anyway, and was caught and executed. Richard carries the knowledge that his withdrawal is part of why she acted alone.
+- The King kept Esmeralda, raised her as his own daughter, and became genuinely attached to her over time.
 - Over time, the King noticed the way Richard looked at Esmeralda and remembered having seen Richard with her mother. That recognition — combined with how much Richard already knew — made him too dangerous to keep close.
 - Richard was exiled quietly, without ceremony or public accusation.
 - From his years in court watching the lie take shape around her, and later from the exile village, Richard watches over Esmeralda from afar when he can — without public claim, without acknowledgment, and without her knowledge.
