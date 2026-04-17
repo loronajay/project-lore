@@ -129,7 +129,7 @@
 - Most of the broader religious and scholarly institution is still being deceived rather than fully let in on the lie, though that margin is narrowing as control hardens.
 - People who knew too much about true lineage, doctrine, or history were silenced or killed.
 - Priests and historians who openly resisted the King's narrative were silenced, executed, or exiled.
-- He later claimed Esmeralda as the fulfillment of the existing prophecy's stronger figure, positioning her as the super modern ancient meant to lead the people back to the ancients.
+- Publicly, Esmeralda stands as Princess and the King's daughter. Beneath that public role, he later claimed her as the fulfillment of the existing prophecy's stronger figure, positioning her as the super modern ancient meant to lead the people back to the ancients.
 - That same tight inner circle knows Esmeralda does not carry the ancients gene, but keeps that fact tightly controlled.
 - Richard noticed some of this doctrinal drift during his years of service, but did not yet understand the full system behind it.
 
@@ -162,7 +162,7 @@
 - The King later forced a woman to bear him a child because he wanted an heir.
 - The child was Esmeralda.
 - Esmeralda's mother had secretly been a love interest of Richard's after Richard lost his wife.
-- Esmeralda is publicly the King's daughter, but Richard is her biological father.
+- Esmeralda is publicly the King's daughter and Princess, but Richard is her biological father.
 - Richard knows Esmeralda is his daughter.
 - The King does not know this.
 - He was disappointed she was a daughter.
@@ -190,6 +190,7 @@
 - He stayed silent about some of what he noticed because he believed premature exposure would bring panic and fear to the people without protecting them.
 - After his exile, his researcher friend — a contact still inside the kingdom who had been quietly investigating at Richard's request since before the exile — sent him messages that filled in the rest. Those messages assembled the fragments he had been carrying for years into a complete picture: the doctrinal suppression, the stolen lineage, Jack's true identity.
 - That is when he began planning rebellion with the goal of putting Jack in his rightful place on the throne.
+- Marcus was brought into that plan but refused it, which helped drive the later fracture and fight between him and Jack.
 - Jack eventually accepted that cause, but the sickness cut the path short before it could become open action.
 
 ## Weapons and hidden resistance

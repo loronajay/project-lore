@@ -7,11 +7,12 @@
 
 ## Story role
 
-- Public daughter of the King
+- Princess of Eden and public daughter of the King
 - Future-facing royal figure shaped by inheritance, propaganda, and concealed legitimacy
 
 ## Public perception
 
+- Princess
 - Adored
 - Beautiful
 - Kind
@@ -49,7 +50,7 @@
 
 ## Political position
 
-- Being positioned as both the heir and the fulfillment of the existing prophecy, the super modern ancient meant to lead the people back to the ancients
+- Publicly Princess and the royal future; beneath that public role, being positioned as the fulfillment of the existing prophecy, the super modern ancient meant to lead the people back to the ancients
 - That claim is entirely manufactured: the King knows she does not carry the ancients gene, and his closest priests, historians, and researchers help produce supporting doctrine and ancient-text "discoveries" to legitimize her
 - People suspected of seeing through the lie are silenced
 

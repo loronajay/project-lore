@@ -59,7 +59,7 @@
 - Preserve him as the kind of man who would have made a great king in temperament as well as bloodline.
 - Treat his fighting style as exceptional, loose, fluid, and difficult to imitate.
 - Do not surface his true royal identity to the village or to Leo too early.
-- Preserve the rebellion arc as reluctance first, then eventual acceptance, then collapse through sickness.
+- Preserve the rebellion arc as reluctance first, then Marcus being brought into the rebellion and refusing it, then the Jack/Marcus fracture and fight, then Jack's eventual acceptance, then collapse through sickness.
 - Keep Jack's long resistance to the sickness reading first as extraordinary inner strength and endurance in the eyes of the audience and village, not as an early-explicit lore explanation.
 
 ### Marshe
@@ -85,6 +85,7 @@
 - Keep his silence morally compromised rather than noble, clean, or indifferent.
 - Preserve the fact that he later uncovers enough truth to prepare rebellion around Jack's legitimacy.
 - Preserve the tension between Jack's dying wish that Leo stay out of the conflict and Richard's later fear that Leo may be the last surviving path back to the future Jack lost.
+- Do not lock in the exact moment Richard decides Leo must eventually be shaped; that decision remains unresolved until the second half of Act 1.
 - Preserve his later shunning as a result of public horror at the killing of Marcus.
 - Keep the village's reading of Richard centered on blood, danger, and rumor rather than on the lives he saved.
 - Keep his grief over Jack and the failed rebellion central to his hardness.
@@ -100,6 +101,7 @@
 - Preserve him as a genuinely loved father whose loss and humiliation help shape Marshe's later fixation on Leo.
 - Preserve that Richard initially had reason to think Marcus might support rebellion in good faith, but Marcus ultimately refuses it.
 - Preserve the later Jack/Marcus fight as partly driven by that refusal, not only by older rivalry.
+- Preserve the order clearly: Marcus is brought into the rebellion, refuses it, later fights Jack, and only later is killed by Richard during the elder attack.
 
 ### Gideon (The King)
 
@@ -129,6 +131,7 @@
 - Safe to leave her in background canon during active early-story planning.
 - When she is used later, preserve her as sincere inside a false claim rather than cynically knowing — she genuinely believes the existing prophecy points to her.
 - Keep her as publicly adored, genuinely loved by the King in a morally corrupted way, and structurally tied to manufactured succession.
+- Preserve that her public role and official title are Princess.
 - Preserve her as more alive, curious, and free-feeling outside the castle than within it.
 - Preserve her as a stolen daughter as well as a false heir.
 - Keep her parentage reveal and her connection to Richard out of active-story handling until deliberately unlocked.

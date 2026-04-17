@@ -29,7 +29,9 @@ Guide documents for overall story shape and progression.
 
 - [full-story-structure.md](/C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/world/story-guides/full-story-structure.md): master story map for backstory, character placement, major reveals, and sequence order
 - [act-1-outline.md](/C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/world/story-guides/act-1-outline.md): fast outline for current Act 1 progression
-- [official-lore-timeline.txt](/C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/world/story-guides/official-lore-timeline.txt): chronological canon timeline
+- [official-lore-timeline.md](/C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/world/story-guides/official-lore-timeline.md): primary working chronology file
+- [official-lore-timeline.txt](/C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/world/story-guides/official-lore-timeline.txt): legacy mirror of the chronology kept for compatibility with older notes and workflows
+- [relationship-map.md](/C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/world/story-guides/relationship-map.md): fast-reference relationship, knowledge, and era timeline map for agent use
 
 ### `prose-documents/`
 
@@ -47,12 +49,16 @@ Prose-form canon and narrative reference documents.
 - Use `prose-documents/` for narrative-form canon that captures tone, scene feel, and story memory.
 - Use `story/characters/<name>/character.md` and `story/characters/<name>/summary.md` for per-character truth.
 - Use `story/for-agents/` for fast operational docs like handoff notes and rules, not as the main home of world canon.
+- Treat `story-guides/official-lore-timeline.md` as the primary working chronology file.
+- Treat `story-guides/official-lore-timeline.txt` as a legacy mirror unless a specific workflow still needs the old format.
 
 ## Workflow
 
 - Update `world-lore/` when setting truth, doctrine, politics, or background forces change.
 - Update `story-guides/` when sequence order, reveal handling, or overall placement changes.
 - Update `prose-documents/` when the prose-form canon evolves or when one prose track diverges meaningfully from another.
+- Update `story-guides/official-lore-timeline.md` first when chronology changes.
+- Mirror those changes into `story-guides/official-lore-timeline.txt` only when compatibility with the legacy format still matters.
 - When changing important canon here, do a coherence pass across:
 - `story/characters/`
 - `story/for-agents/`

@@ -55,6 +55,7 @@
 - The King exiled the squadron and secretly executed everyone except Jack and Marcus
 - Initially met Richard's account of his true identity with disbelief
 - Feared leaving Leo without a father after Leo's mother was already gone; that fear was his primary resistance to accepting the rebellion
+- Marcus was brought into the same rebellion plan but refused it, helping drive the later fracture and fight between him and Jack
 - Eventually accepted the truth and got on board with the cause
 - Was being prepared by Richard for a rebellion intended to claim justice and the throne
 - Abandoned that path when the sickness took hold

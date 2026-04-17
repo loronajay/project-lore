@@ -126,7 +126,7 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - He then raised Esmeralda himself and grew genuinely attached to her over time.
 - Shortly after Esmeralda's birth, the King concluded Richard knew too much and exiled him.
 - That silence around Esmeralda also belongs to Richard's broader pattern of withholding dangerous partial truth when he believes revelation would cause panic without protecting the people.
-- Rather than raise another child, he began claiming Esmeralda as the fulfillment of the existing prophecy, positioning her as the super modern ancient meant to lead the people back to the ancients, despite her lack of the ancients gene.
+- Publicly, Esmeralda stands as Princess and the King's daughter. Beneath that public role, he began claiming her as the fulfillment of the existing prophecy, positioning her as the super modern ancient meant to lead the people back to the ancients, despite her lack of the ancients gene.
 - His inner circle supports that claim with staged discoveries, controlled interpretation, and suppression of real material.
 - He raises her to believe the existing prophecy already points to her.
 
@@ -255,11 +255,11 @@ Post Exile:
 - Spent decades researching the crystal
 - Hopes Jack's bloodline will die in exile and bury the truth forever
 - Public father of Esmeralda
-- Publicly positioning Esmeralda as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients
+- Publicly positioning Esmeralda as Princess and, beneath that, as the fulfillment of the existing prophecy — the super modern ancient meant to lead the people back to the ancients
 
 #### Esmeralda
 
-- Public daughter of the King
+- Public daughter of the King and Princess of Eden
 - Leo's age
 - Publicly adored and heavily protected
 - Raised by the King after her mother's execution

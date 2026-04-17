@@ -27,7 +27,7 @@
 
 - The crown passes to whichever child carries the ancients gene
 - Succession is first confirmed internally, then formalized through a public coronation that presents the heir as both legitimate and spiritually chosen
-- Plans to have Esmeralda assume the throne when he eventually dies, but only after fully establishing her as the super modern ancient in public belief
+- Plans to have Esmeralda, publicly Princess, assume the throne when he eventually dies, but only after fully establishing her as the super modern ancient in public belief
 
 ## Religious institution
 
