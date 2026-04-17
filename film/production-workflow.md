@@ -11,8 +11,8 @@ Provide a repeatable solo process for turning `LORE` story material into finishe
 Choose a bounded sequence from the active story docs.
 
 Use:
-- `story-documents/architecture/act-1-outline.md`
-- `story-documents/architecture/current-handoff.md`
+- `story/world/story-guides/act-1-outline.md`
+- `story/for-agents/current-handoff.md`
 - `film/act-1-film-outline.md`
 
 ### 2. Build the sequence brief

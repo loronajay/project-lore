@@ -24,8 +24,8 @@ Do not use this folder as the primary place to invent canon unless a film-specif
 
 ## Relationship to the rest of the repo
 
-- `story-documents/` remains the main writing and story-reference area.
-- `characters/` remains the main character canon and art-reference area.
+- `story/` remains the main writing and story-reference area.
+- `story/characters/` remains the main character canon and art-reference area.
 - `world-art/` remains environment and world visual reference.
 - `film/` converts those materials into a producible movie plan.
 
@@ -35,9 +35,9 @@ Do not use this folder as the primary place to invent canon unless a film-specif
 - [reference-map.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/reference-map.md): where film work should pull truth from in the existing repo
 - [adaptation-strategy.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/adaptation-strategy.md): how to adapt `LORE` into a feasible solo film format
 - [act-1-film-outline.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/act-1-film-outline.md): production-facing outline for the active early film material
-- [visual-language.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/visual-language.md): rules for style, tone, camera language, and motion
-- [tool-stack.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/tool-stack.md): recommended software and AI-tool roles
-- [asset-plan.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/asset-plan.md): what needs to be designed, generated, and tracked
+- [visual-language.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/visuals/visual-language.md): rules for style, tone, camera language, and motion
+- [tool-stack.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/visuals/tool-stack.md): recommended software and AI-tool roles
+- [asset-plan.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/visuals/asset-plan.md): what needs to be designed, generated, and tracked
 - [production-workflow.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/production-workflow.md): step-by-step solo workflow from script material to finished sequence
 
 ## Suggested working order
@@ -48,4 +48,3 @@ Do not use this folder as the primary place to invent canon unless a film-specif
 4. Lock `visual-language.md`
 5. Build assets using `asset-plan.md`
 6. Produce sequences using `production-workflow.md`
-

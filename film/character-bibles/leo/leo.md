@@ -12,10 +12,10 @@ This bible is meant to support:
 - continuity across sequences
 
 For canon truth, use:
-- [characters/leo/character.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/character.md)
-- [characters/leo/summary.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/summary.md)
-- [story-rules.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story-documents/architecture/story-rules.md)
-- [Story Version of Lore - Fresh Draft.txt](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story-documents/architecture/Story%20Version%20of%20Lore%20-%20Fresh%20Draft.txt)
+- [character.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/character.md)
+- [summary.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/summary.md)
+- [story-rules.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/for-agents/story-rules.md)
+- [screenplay-prose-novelized-v1.txt](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/world/prose-documents/screenplay-prose-novelized-v1.txt)
 
 ## Why this bible exists
 

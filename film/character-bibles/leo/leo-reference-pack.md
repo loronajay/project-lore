@@ -1,6 +1,6 @@
 # Leo Reference Pack
 
-This document is the practical companion to [leo.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/character-bibles/leo.md).
+This document is the practical companion to [leo.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/character-bibles/leo/leo.md).
 
 Use it when generating:
 - portraits
@@ -27,19 +27,19 @@ If a generation run goes well, update this file with:
 
 ### Canon and story truth
 
-- [characters/leo/character.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/character.md)
-- [characters/leo/summary.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/summary.md)
-- [film/character-bibles/leo.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/character-bibles/leo.md)
+- [character.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/character.md)
+- [summary.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/summary.md)
+- [leo.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/character-bibles/leo/leo.md)
 
 ### Existing visual references
 
 Teen references:
-- [3.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/concept-art/teenager/3.jpeg)
-- [4.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/concept-art/teenager/4.jpeg)
-- [download - 2026-04-13T202923.983.jpeg](</C:/Users/leoja/Desktop/Dad Games/lore-project/characters/leo/concept-art/teenager/download - 2026-04-13T202923.983.jpeg>)
+- [3.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/concept-art/teenager/3.jpeg)
+- [4.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/concept-art/teenager/4.jpeg)
+- [download - 2026-04-13T202923.983.jpeg](</C:/Users/leoja/Desktop/Dad Games/lore-project/story/characters/leo/concept-art/teenager/download - 2026-04-13T202923.983.jpeg>)
 
 Child reference:
-- [1.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/concept-art/child/1.jpeg)
+- [1.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/concept-art/child/1.jpeg)
 
 ## What the current references are telling us
 

@@ -21,14 +21,14 @@ This version should reflect the clarified design rule:
 ## Reference docs
 
 Use these before generating:
-- [leo.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/character-bibles/leo.md)
-- [leo-reference-pack.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/character-bibles/leo-reference-pack.md)
+- [leo.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/character-bibles/leo/leo.md)
+- [leo-reference-pack.md](C:/Users/leoja/Desktop/Dad%20Games/lore-project/film/character-bibles/leo/leo-reference-pack.md)
 
 Visual references:
-- [teenager/3.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/concept-art/teenager/3.jpeg)
-- [teenager/4.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/concept-art/teenager/4.jpeg)
-- [teenager/download - 2026-04-13T202923.983.jpeg](</C:/Users/leoja/Desktop/Dad Games/lore-project/characters/leo/concept-art/teenager/download - 2026-04-13T202923.983.jpeg>)
-- [child/1.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/characters/leo/concept-art/child/1.jpeg)
+- [teenager/3.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/concept-art/teenager/3.jpeg)
+- [teenager/4.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/concept-art/teenager/4.jpeg)
+- [teenager/download - 2026-04-13T202923.983.jpeg](</C:/Users/leoja/Desktop/Dad Games/lore-project/story/characters/leo/concept-art/teenager/download - 2026-04-13T202923.983.jpeg>)
+- [child/1.jpeg](C:/Users/leoja/Desktop/Dad%20Games/lore-project/story/characters/leo/concept-art/child/1.jpeg)
 
 ## What we are locking in this session
 
