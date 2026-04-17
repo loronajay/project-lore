@@ -110,5 +110,5 @@
 - Whether Richard feels guilt, resentment, or indifference about being shunned
 - How the formal event is remembered by different townspeople
 - Nature of Richard's outside contacts
-- The later flashback where Richard convinces Jack to accept the mission
+- The later flashback where Richard convinces Jack to accept the cause
 - How Richard first discovered enough of the truth to connect doctrine, royalty, and the crystal

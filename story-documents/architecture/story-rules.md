@@ -60,6 +60,7 @@
 - Treat his fighting style as exceptional, loose, fluid, and difficult to imitate.
 - Do not surface his true royal identity to the village or to Leo too early.
 - Preserve the rebellion arc as reluctance first, then eventual acceptance, then collapse through sickness.
+- Keep Jack's long resistance to the sickness reading first as extraordinary inner strength and endurance in the eyes of the audience and village, not as an early-explicit lore explanation.
 
 ### Marshe
 
@@ -83,6 +84,7 @@
 - Preserve his hidden political role as steward of the lost future centered on Jack.
 - Keep his silence morally compromised rather than noble, clean, or indifferent.
 - Preserve the fact that he later uncovers enough truth to prepare rebellion around Jack's legitimacy.
+- Preserve the tension between Jack's dying wish that Leo stay out of the conflict and Richard's later fear that Leo may be the last surviving path back to the future Jack lost.
 - Preserve his later shunning as a result of public horror at the killing of Marcus.
 - Keep the village's reading of Richard centered on blood, danger, and rumor rather than on the lives he saved.
 - Keep his grief over Jack and the failed rebellion central to his hardness.
@@ -96,6 +98,8 @@
 - Preserve his role as the figure who turns the sickness from private dread into communal spectacle.
 - Keep his resentment toward Jack tied to family-risk grievance as well as envy.
 - Preserve him as a genuinely loved father whose loss and humiliation help shape Marshe's later fixation on Leo.
+- Preserve that Richard initially had reason to think Marcus might support rebellion in good faith, but Marcus ultimately refuses it.
+- Preserve the later Jack/Marcus fight as partly driven by that refusal, not only by older rivalry.
 
 ### Gideon (The King)
 
@@ -108,6 +112,7 @@
 - Preserve the distinction between his early manipulation (traitors convinced him he was the true gene holder) and his current self-motivation. He discovered quickly he was not the gene holder. Since then, his pursuit of the crystal and his hold on power have been entirely self-driven — personal ambition and legitimacy fear, not the original deception.
 - Preserve his succession strategy around Esmeralda as a manufactured answer to a legitimacy problem he cannot solve honestly.
 - Keep Leo's future significance outside the King's understanding for now.
+- When he later spares Leo, preserve that the choice comes from strategic use value: he sees Leo as a controllable second chance at Jack, not as an act of mercy.
 
 ### Aldric
 

@@ -24,7 +24,7 @@
 
 ## Current screenplay state
 
-- Recently lost his father
+- Lost his father a few years ago, but the grief still sits close to the surface
 - Back home after Marshe's attack
 - Failed to imitate his father's style
 - Refused to enter his father's room
@@ -91,7 +91,7 @@
 ## Important objects
 
 - Mother's jewelry box — the last surviving piece of her possessions; lost during the Marshe chase in Act 1, then recovered — but the jewelry inside is gone
-- Jack's sword — recognizable to the kingdom; Aldric identifies it immediately when he finds Leo
+- Jack's sword — recognizable to the kingdom; Aldric identifies it immediately when he finds Leo; Leo ends up with it only after Marshe uses it to kill Richard and then falls onto the blade during the struggle
 
 ## Locked canon
 

@@ -8,7 +8,7 @@ Fast-load reference for session start. Authoritative sources are the individual 
 
 - **Eden** — medieval kingdom ruled by Gideon (dictator, carefully managed benevolent image). Authority via propaganda, altered records, weaponized religion.
 - **Exile village** — outskirts of Eden; populated by exiles and their descendants; deteriorating; under a weapons ban enforced by occasional royal soldier audits.
-- **Thorne** — rival kingdom ruled by Dorian (Gideon's uncle). Formerly one kingdom with Eden, split by a brothers' conflict. An early open war between the two kingdoms — hard-fought on both sides, and the war in which Gideon's father was killed in battle — ended without clean resolution. After that, Thorne shifted strategy: rather than press toward the crystal through conflict it couldn't guarantee winning, it spent decades studying Eden's succession logic and internal fractures, placing traitors in the court and running a long sabotage campaign from the inside.
+- **Thorne** — rival kingdom ruled by Dorian (Gideon's uncle). Formerly one kingdom with Eden, split by a brothers' conflict. An early open war between the two kingdoms — hard-fought on both sides, and the war during which Gideon's father was killed in a wartime assassination — ended without clean resolution. After that, Thorne shifted strategy: rather than press toward the crystal through conflict it couldn't guarantee winning, it spent decades studying Eden's succession logic and internal fractures, placing traitors in the court and running a long sabotage campaign from the inside.
 - **Ancient hostile force** — weakened former foe of the ancients. Works through individual bargains and corruption. Wants the ancients' history erased. Introduced the sickness into the village deliberately once it learned Jack's bloodline was there. Remains offscreen and indirect in early material.
 
 ---
@@ -27,7 +27,7 @@ Fast-load reference for session start. Authoritative sources are the individual 
 
 ### Leo
 - ~16, logical, rejects superstition, socially isolated
-- Recently lost his father Jack to the sickness
+- Lost his father Jack to the sickness a few years earlier, but still lives in the immediate shape of that grief
 - Knows his mother only in warm blurry fragments (she died young)
 - Born in exile village as the hidden continuation of Jack's bloodline
 - May be the true fulfillment of the future-facing prophecy — **locked later reveal, not surfaced in active early-story material**
@@ -50,6 +50,7 @@ Fast-load reference for session start. Authoritative sources are the individual 
 - Exiled separately after Esmeralda's birth — the King noticed how Richard looked at Esmeralda and remembered Richard's connection to her mother; he removed him quietly rather than risk what he knew.
 - In exile: publicly a carpenter, secretly a blacksmith. Watches over Leo per a dying promise to Jack.
 - Secretly forged weapons for Jack; built outside contacts; prepared rebellion around Jack's legitimacy.
+- After Jack fell ill and the rebellion failed, Richard began to fear Leo might become the last surviving path back to that stolen future, even as he remained bound by his promise to keep the boy out of open conflict.
 - **Killed Marcus** to stop his sickness-driven attack on the town elders. The gore horrified the village; he was shunned for the spectacle rather than thanked for saving lives.
 - **Esmeralda's biological father** — neither the King nor Esmeralda knows. Richard knows and watches her from afar.
 - Richard and Esmeralda's mother planned to flee together. Richard pulled back, judging exposure would get them all killed. She proceeded alone and was caught and executed. He carries that.
@@ -57,13 +58,15 @@ Fast-load reference for session start. Authoritative sources are the individual 
 - His silence is morally compromised, not noble.
 
 ### Gideon (The King)
-- Jack's **older brother**. Stole the throne by arranging the deaths of his mother and siblings. His father had already been killed in battle during the wars with Thorne. Jack survived as an infant.
+- Jack's **older brother**. Stole the throne by arranging the deaths of his mother and siblings. His father had already been killed in a wartime assassination during the wars with Thorne. Jack survived as an infant.
 - Initially manipulated by Thorne-placed traitors into believing he was the true gene holder. **Discovered quickly he was not.** Since then his pursuit of the crystal and hold on power are entirely self-motivated — personal ambition and legitimacy fear, not the original deception.
 - Suppresses the hidden doctrinal marker he cannot fulfill.
 - Raised Jack as a loyal commoner soldier, deliberately.
 - Forced a woman (Richard's love interest) to bear him an heir. That child was Esmeralda. The mother tried to flee; he had her executed.
 - Grew genuinely attached to Esmeralda. Now manufacturing her as the prophesied heir despite her lacking the ancients gene.
 - Keeps offscreen in early material. Composed, persuasive, system-building — not cartoonishly monstrous.
+
+- When he later spares Leo, he does so because he sees the boy as usable â€” a second chance to reclaim and control what Jack became beyond his reach.
 
 ### Esmeralda
 - Public daughter of the King, Leo's age, publicly adored.
@@ -78,7 +81,7 @@ Fast-load reference for session start. Authoritative sources are the individual 
 - Specific bully targeting Leo; older and physically dominant.
 - Son of Marcus (Jack's former comrade, killed by Richard).
 - For most of his life knew only that a man killed his father — not who specifically.
-- Discovers (offscreen, Act 1) that Richard was that man.
+- Discovers offscreen in Act 1 that Richard was that man; the discovery itself is locked even though its exact on-page delivery is still to be placed.
 - **In early stages of the sickness by Act 1**, which is loosening his restraint.
 - His murder of Richard is driven by both grief/rage over his father **and** the early sickness — not wholly one, not wholly the other.
 - Leo finds him at the scene, which leads into the Marshe death events.
@@ -86,6 +89,8 @@ Fast-load reference for session start. Authoritative sources are the individual 
 ### Marcus
 - Former comrade of Jack and Richard; long carried envy toward Jack over the General rank.
 - Already had a wife and young son when the massacre order came; later resented Jack because he believed Jack refused from a less personally costly position.
+- Richard initially believed Marcus might support rebellion in good faith: he was battle-proven and had obvious motive to want his family out of exile.
+- Marcus ultimately did **not** join the rebellion. His refusal and resentment are part of what later erupts in the argument and fight with Jack.
 - Driven into a sickness-fueled rage; attacks the town elders during a formal event; killed by Richard.
 - His death cements the village's distorted view of Richard.
 
@@ -117,6 +122,7 @@ Fast-load reference for session start. Authoritative sources are the individual 
 - Recognizable to the kingdom (Aldric identifies it immediately when he finds Leo).
 - Richard decided to give it to Leo — judged the boy was destined to rule and withholding it was the greater wrong.
 - **Richard is murdered before he can act on this. The sword does not reach Leo through Richard's hand.**
+- Marshe uses the sword to kill Richard. In the struggle that follows, Leo ends up fleeing with it after Marshe falls onto the blade.
 
 ### Hidden weapons cache
 - Jack kept a large hidden collection of weapons in his room. Leo did not know it existed.

@@ -30,7 +30,7 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 
 - Thorne is ruled by Dorian, the uncle of Gideon, king of Eden.
 - The two present kingdoms were once one older kingdom before a long brother-conflict split them apart.
-- After the split, a real war broke out between the two kingdoms — hard-fought on both sides, and the war in which Gideon's father was killed in battle.
+- After the split, a real war broke out between the two kingdoms — hard-fought on both sides, and the war during which Gideon's father was killed in a wartime assassination.
 - After that war settled without resolution, Thorne shifted from open conflict to a long sabotage campaign: placing agents inside Eden, studying its religion and succession logic, and working to reach the crystal from the inside rather than through another war.
 - Thorne is acting under pressure from the ancient hostile force.
 - Dorian made a bargain to deliver the crystal in exchange for restored youth.
@@ -104,7 +104,7 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - Traitors already close to the future King had stayed behind after the kingdom split and played both sides, manipulating him over many years.
 - They convinced him he had been lied to about the ancients gene and that he was destined to find the crystal.
 - Once Jack was internally confirmed as the true bearer, the future King moved to seize power before that knowledge could spread outward.
-- His father had already been killed in battle during the wars between Eden and Thorne.
+- His father had already been killed in a wartime assassination during the wars between Eden and Thorne.
 - He arranged for his mother and remaining siblings to be killed.
 - Jack survived as an infant.
 - A deeper doctrinal discovery inside the castle suggested the stronger prophesied figure should be able to read the ancients' language at a glance.
@@ -167,7 +167,7 @@ The story takes place in Eden, a medieval kingdom with an isolated village on it
 - Age: about 16
 - Logical, observant, rejects superstition
 - Socially isolated and bullied
-- Recently lost his father (Jack)
+- Lost his father (Jack) a few years earlier, but still lives inside the immediate shape of that loss
 - Loved his father deeply and had been close with him before the illness
 - Remembers his mother only in warm, blurry fragments because she died when he was still young
 - Born in the exile village as the hidden continuation of Jack's bloodline
@@ -216,6 +216,7 @@ Post Exile:
 - Secretly forged weapons for Jack after exile
 - Maintained outside contacts, including a researcher friend still working inside the castle system who quietly investigated what Richard suspected and later sent messages confirming the truth about Jack's identity
 - Stayed silent about some of what he had noticed because he believed exposure would panic the people without protecting them
+- After Jack's decline destroyed the first rebellion path, Richard quietly began to fear Leo might become the remaining chance to reclaim what was stolen, even though he was still trying to honor Jack's wish for the boy to have a normal life
 - Later revealed to have killed Marcus to stop an attack on the town elders
 - Shunned by the town because the killing was graphically violent in front of witnesses
 
@@ -228,8 +229,12 @@ Pre Exile:
 - Former royal army member
 - Former comrade of Jack's
 - Long carried envy toward Jack, believing the rise to General should have been his
+- Battle-proven enough that Richard initially believed he might support rebellion in good faith
 
 Post Exile:
+- Richard fills Marcus in because Marcus has both battlefield value and strong personal motive to want his family out of exile if the rebellion succeeds
+- Marcus does not ultimately join the rebellion
+- His refusal helps drive the later argument and fight with Jack outside the house
 - Later driven into a sickness-fueled rage
 - Attempts to attack the town elders during a formal event
 - Killed by Richard when Richard acts quickly to stop him
@@ -277,6 +282,7 @@ Post Exile:
 - Richard planned to give it to Leo, breaking the spirit of the promise he made to Jack — he held back at first out of respect for that promise, but decided the boy was destined to rule the kingdom and that withholding it would be the greater wrong
 - Richard is murdered before he can act on that decision
 - The sword does not reach Leo through Richard's hand
+- Marshe uses the sword to kill Richard, and Leo later flees with it after the struggle in which Marshe falls onto the blade
 
 #### Hidden weapons cache
 
@@ -561,6 +567,7 @@ Post Exile:
 - The King takes time to consider what to do with him before acting
 - When Leo wakes, the King immediately begins manipulating him: tells him he once cared for Jack and raised him to be a strong man, but that his father turned his back on the kingdom — painting him as a traitor who fled his duty rather than a soldier who refused on moral grounds
 - The King offers to take Leo in and make him strong like his father once was
+- He keeps Leo alive because he sees him as uniquely useful — a second chance to shape and control what Jack eventually slipped beyond his grasp
 - Leo is trained under the King's arrangement for approximately two years
 - He is not allowed to live within the castle walls but reports to training and meetings with the King regularly
 - Leo proves adept at training and learns very quickly, mirroring a pattern the King recognized in Jack
@@ -579,7 +586,7 @@ Post Exile:
 - The gore of the killing horrifies the townspeople.
 - Richard is shunned for the spectacle instead of being rewarded for saving the elders.
 - Marshe grows up knowing only that a man killed his father — not who.
-- During Act 1, Marshe discovers (offscreen) that Richard was that man.
+- During Act 1, Marshe discovers offscreen that Richard was that man; the discovery beat itself is locked even though its exact on-page delivery is still to be placed.
 - By Act 1, Marshe is in the early stages of the sickness, which is beginning to push him toward violence.
 - His murder of Richard is driven by both real grief and rage over his father and the early sickness loosening his restraint — not wholly one, not wholly the other.
 - Marshe murders Richard in his sleep.
@@ -588,6 +595,8 @@ Post Exile:
 - Richard secretly continued blacksmithing after exile despite the village weapon ban and forged weapons for Jack to test.
 - He maintained outside contacts and began building toward a rebellion around Jack's legitimacy.
 - Richard eventually uncovered enough truth to persuade Jack, who resisted at first out of disbelief and fear for Leo, then eventually accepted the cause.
+- Richard also brought Marcus in at first because he was battle-proven and had clear motive to want his family freed from exile, but Marcus ultimately refused the rebellion.
+- That refusal helps drive the later fight between Marcus and Jack.
 - That rebellion died when Jack contracted the sickness.
 - The deeper royal reveal is that the King is Jack's older brother, stole the throne through murder and revision, and raised the true heir under a false commoner identity.
 - The deeper doctrinal reveal is that the King cannot fulfill the suppressed marker of legitimacy, and only his tight propaganda inner circle knows the truth while the broader institution is fed curated findings.

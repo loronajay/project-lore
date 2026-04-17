@@ -31,9 +31,12 @@ Leo is:
 
 ## Locked future reveal
 
-- Marshe discovers (offscreen) that Richard was the man who killed his father during the elder attack.
+- Marshe discovers offscreen that Richard was the man who killed his father during the elder attack.
+- The discovery itself is locked, but the exact on-page mechanism for how Marshe learns it is still to be placed later.
 - Marshe murders Richard in his sleep.
 - Leo finds Marshe at the scene.
+- Marshe uses Jack's sword to kill Richard.
+- Leo ends up with that sword during the struggle that follows, when Marshe falls onto the blade.
 - Leo kills Marshe.
 - Leo remembers it as an accident, and it should initially play that way on the page.
 - Only later is it revealed that he acted with instinctive, buried skill.
